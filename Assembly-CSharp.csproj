@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AbrirMenu.cs" />
+    <Compile Include="Assets\Scripts\CambiarEscena.cs" />
     <Compile Include="Assets\Scripts\Control_Botones.cs" />
     <Compile Include="Assets\Scripts\Ejercicios.cs" />
     <Compile Include="Assets\Scripts\EjNumeros.cs" />
