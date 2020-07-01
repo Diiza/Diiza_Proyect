@@ -65,6 +65,19 @@
     <Compile Include="Assets\Scripts\Control_Botones.cs" />
     <Compile Include="Assets\Scripts\Ejercicios.cs" />
     <Compile Include="Assets\Scripts\EjNumeros.cs" />
+    <None Include="Assets\Font\yellow_rabbit\License Request.txt" />
+    <None Include="Assets\Font\honey_cute\Readme.txt" />
+    <None Include="Assets\Font\honey_cute\USER GUIDE READ ME!.txt" />
+    <None Include="Assets\Font\laser_corps\lasercorps.txt" />
+    <None Include="Assets\Font\margetha\Readme.txt" />
+    <None Include="Assets\Font\basketball\Readme.txt" />
+    <None Include="Assets\Font\extra_serif\License.txt" />
+    <None Include="Assets\Font\headcorps\Link Purchase (Read First).txt" />
+    <None Include="Assets\Font\gilmoore\More Info.txt" />
+    <None Include="Assets\Font\momcake\Readme.txt" />
+    <None Include="Assets\Font\elfeera_script\License Request.txt" />
+    <None Include="Assets\Font\backstranger\More Info.txt" />
+    <None Include="Assets\Font\retrow_mentho\More Info.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/kggue/Documents/Diiza_Proyect/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
