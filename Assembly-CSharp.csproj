@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\Control_Botones.cs" />
     <Compile Include="Assets\Scripts\Ejercicios.cs" />
     <Compile Include="Assets\Scripts\EjNumeros.cs" />
+    <Compile Include="Assets\Scripts\Quiz-script\Correcto.cs" />
     <None Include="Assets\Font\yellow_rabbit\License Request.txt" />
     <None Include="Assets\Font\honey_cute\Readme.txt" />
     <None Include="Assets\Font\honey_cute\USER GUIDE READ ME!.txt" />
