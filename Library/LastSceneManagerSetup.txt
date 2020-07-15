@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/SampleScene.unity
+=======
+- path: Assets/Scenes/Quiz/Q-Numeros/20.unity
+>>>>>>> 278c18a62eb627bd7b5adc82b3c2ef5155b1a2f0
   isLoaded: 1
   isActive: 1
