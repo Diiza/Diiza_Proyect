@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Quiz/Q-Numeros/20.unity
+- path: Assets/Quiz/Quiz.unity
   isLoaded: 1
   isActive: 1

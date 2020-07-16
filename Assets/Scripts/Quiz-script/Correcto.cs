@@ -18,22 +18,23 @@ public class Correcto : MonoBehaviour
         source.playOnAwake = false;
         button.onClick.AddListener(() => PlaySound());
     }
-
+    
     public void PlaySound()
     {
+        int b = 1;
         int escena = Random.Range(3, 22);
         int i;
+        SceneManager.LoadScene(escena);
         source.PlayOneShot(sound);
 
         for (i = 0; i <= 500; i++)
         {
             Debug.Log(i);
-            if (i == 500)
-            {
-                SceneManager.LoadScene(escena);
-
-
-            }
         }
+    }
+    public void repeticiones(int b)
+    {
+        int a;
+        a = b + b;
     }
 }
