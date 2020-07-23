@@ -91,7 +91,7 @@ public class QuizManager : MonoBehaviour
             //Yes, Ans is correct
             correct = true;
             gameScore += 50;
-            quizGameUI.ScoreText.text = "Score:" + gameScore;
+            quizGameUI.ScoreText.text = "Puntos:" + gameScore;
         }
         else
         {

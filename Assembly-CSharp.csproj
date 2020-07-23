@@ -69,25 +69,23 @@
     <Compile Include="Assets\Scripts\Control_Botones.cs" />
     <Compile Include="Assets\Scripts\Ejercicios.cs" />
     <Compile Include="Assets\Scripts\EjNumeros.cs" />
-<<<<<<< HEAD
     <Compile Include="Assets\Scripts\Menu\ButtonScript.cs" />
     <Compile Include="Assets\Scripts\Menu\ScrollRectScript.cs" />
-=======
     <Compile Include="Assets\Scripts\Quiz-script\Correcto.cs" />
     <None Include="Assets\Font\yellow_rabbit\License Request.txt" />
     <None Include="Assets\Font\honey_cute\Readme.txt" />
     <None Include="Assets\Font\honey_cute\USER GUIDE READ ME!.txt" />
+    <None Include="Assets\Font\retrow_mentho\cabin\OFL.txt" />
+    <None Include="Assets\Font\aaargh\readme.txt" />
     <None Include="Assets\Font\laser_corps\lasercorps.txt" />
     <None Include="Assets\Font\margetha\Readme.txt" />
     <None Include="Assets\Font\basketball\Readme.txt" />
+    <None Include="Assets\Font\retrow_mentho\cabin\FONTLOG.txt" />
     <None Include="Assets\Font\extra_serif\License.txt" />
     <None Include="Assets\Font\headcorps\Link Purchase (Read First).txt" />
-    <None Include="Assets\Font\gilmoore\More Info.txt" />
+    <None Include="Assets\Font\retrow_mentho\cabin\Readme.txt" />
     <None Include="Assets\Font\momcake\Readme.txt" />
-    <None Include="Assets\Font\elfeera_script\License Request.txt" />
-    <None Include="Assets\Font\backstranger\More Info.txt" />
     <None Include="Assets\Font\retrow_mentho\More Info.txt" />
->>>>>>> 278c18a62eb627bd7b5adc82b3c2ef5155b1a2f0
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Kary/Documents/GitHub/Diiza_Proyect/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

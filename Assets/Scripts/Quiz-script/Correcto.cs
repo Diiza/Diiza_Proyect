@@ -21,7 +21,6 @@ public class Correcto : MonoBehaviour
     
     public void PlaySound()
     {
-        int b = 1;
         int escena = Random.Range(3, 22);
         int i;
         SceneManager.LoadScene(escena);
@@ -31,10 +30,5 @@ public class Correcto : MonoBehaviour
         {
             Debug.Log(i);
         }
-    }
-    public void repeticiones(int b)
-    {
-        int a;
-        a = b + b;
     }
 }

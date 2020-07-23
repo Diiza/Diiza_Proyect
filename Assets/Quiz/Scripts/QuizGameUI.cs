@@ -55,32 +55,32 @@ public class QuizGameUI : MonoBehaviour
         switch (question.questionType)
         {
             case QuestionType.TEXT:
-                questionImg.transform.parent.gameObject.SetActive(false);   //deactivate image holder
+                questionImg.transform.parent.gameObject.SetActive(false);   
                 break;
             case QuestionType.IMAGE:
-                questionImg.transform.parent.gameObject.SetActive(true);    //activate image holder
-                questionVideo.transform.gameObject.SetActive(false);        //deactivate questionVideo
-                questionImg.transform.gameObject.SetActive(true);           //activate questionImg
-                questionAudio.transform.gameObject.SetActive(false);        //deactivate questionAudio
+                questionImg.transform.parent.gameObject.SetActive(true);    
+                questionVideo.transform.gameObject.SetActive(false);        
+                questionImg.transform.gameObject.SetActive(true);           
+                questionAudio.transform.gameObject.SetActive(false);        
 
-                questionImg.sprite = question.questionImage;                //set the image sprite
+                questionImg.sprite = question.questionImage;                
                 break;
             case QuestionType.AUDIO:
-                questionVideo.transform.parent.gameObject.SetActive(true);  //activate image holder
-                questionVideo.transform.gameObject.SetActive(false);        //deactivate questionVideo
-                questionImg.transform.gameObject.SetActive(false);          //deactivate questionImg
-                questionAudio.transform.gameObject.SetActive(true);         //activate questionAudio
+                questionVideo.transform.parent.gameObject.SetActive(true);  
+                questionVideo.transform.gameObject.SetActive(false);       
+                questionImg.transform.gameObject.SetActive(false);          
+                questionAudio.transform.gameObject.SetActive(true);         
                 
-                audioLength = question.audioClip.length;                    //set audio clip
-                StartCoroutine(PlayAudio());                                //start Coroutine
+                audioLength = question.audioClip.length;                    
+                StartCoroutine(PlayAudio());                               
                 break;
             case QuestionType.VIDEO:
-                questionVideo.transform.parent.gameObject.SetActive(true);  //activate image holder
-                questionVideo.transform.gameObject.SetActive(true);         //activate questionVideo
-                questionImg.transform.gameObject.SetActive(false);          //deactivate questionImg
-                questionAudio.transform.gameObject.SetActive(false);        //deactivate questionAudio
+                questionVideo.transform.parent.gameObject.SetActive(true);  
+                questionVideo.transform.gameObject.SetActive(true);         
+                questionImg.transform.gameObject.SetActive(false);          
+                questionAudio.transform.gameObject.SetActive(false);        
 
-                questionVideo.clip = question.videoClip;                    //set video clip
+                questionVideo.clip = question.videoClip;                    //poner video clip
                 questionVideo.Play();                                       //play video
                 break;
         }
@@ -165,17 +165,17 @@ public class QuizGameUI : MonoBehaviour
 
         switch (btn.name)
         {
-            case "Animal":
+            case "Imagenes":
                 quizManager.StartGame(0);
                 mainMenu.SetActive(false);
                 gamePanel.SetActive(true);
                 break;
-            case "Bird":
+            case "Audio":
                 quizManager.StartGame(1);
                 mainMenu.SetActive(false);
                 gamePanel.SetActive(true);
                 break;
-            case "Mix":
+            case "Mixto":
                 quizManager.StartGame(2);
                 mainMenu.SetActive(false);
                 gamePanel.SetActive(true);
