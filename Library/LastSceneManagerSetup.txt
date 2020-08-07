@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Quiz/Quiz.unity
-  isLoaded: 1
-  isActive: 1
