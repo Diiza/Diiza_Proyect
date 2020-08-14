@@ -76,6 +76,11 @@
     <Compile Include="Assets\Scripts\Menu\ButtonScript.cs" />
     <Compile Include="Assets\Scripts\Menu\ScrollRectScript.cs" />
     <Compile Include="Assets\Scripts\Quiz-script\Correcto.cs" />
+    <Compile Include="Assets\TeoriaNumeros\Scripts\QData.cs" />
+    <Compile Include="Assets\TeoriaNumeros\Scripts\QGame.cs" />
+    <Compile Include="Assets\TeoriaNumeros\Scripts\QManager.cs" />
+    <Compile Include="Assets\TeoriaNumeros\Scripts\SList.cs" />
+    <Compile Include="Assets\TeoriaNumeros\Scripts\Transicion.cs" />
     <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
     <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
     <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
