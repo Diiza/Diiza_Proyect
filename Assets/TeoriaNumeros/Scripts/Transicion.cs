@@ -34,9 +34,10 @@ public class Transicion : MonoBehaviour
     public void ButtonMenu()
     {
         int signo = 1;
-        if (!abrirMenu)
-            signo = -1;
-
+        if (!abrirMenu)//si esta abierto
+        {
+            signo = -1;//oculta
+        }
         MoverMenu(tiempo, subMenu.position, new Vector3(signo * posFinal, subMenu.position.y, 0));
         abrirMenu = !abrirMenu;
     }

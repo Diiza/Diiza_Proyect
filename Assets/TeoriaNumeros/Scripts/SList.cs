@@ -12,13 +12,13 @@ public abstract class SList
 
         System.Random r = new System.Random();
         int randomIndex = 0;
-        while (originalList.Count > 0)
+       while (originalList.Count > 0)
         {
-            randomIndex = r.Next(0, originalList.Count); //Choose a random object in the list
-            randomList.Add(originalList[randomIndex]); //add it to the new, random list
-            originalList.RemoveAt(randomIndex); //remove to avoid duplicates
+            randomIndex = r.Next(0, originalList.Count); 
+            randomList.Add(originalList[randomIndex]); 
+            originalList.RemoveAt(randomIndex); 
         }
 
-        return randomList; //return the new random list
+        return randomList; 
     }
 }
