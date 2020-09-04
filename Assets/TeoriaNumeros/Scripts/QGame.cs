@@ -52,7 +52,7 @@ public class QGame : MonoBehaviour
         switch (question.questionType)
         {
             case TipoPregunta.TEXT:
-                questionImg.transform.parent.gameObject.SetActive(false);   
+                questionImg.transform.parent.gameObject.SetActive(false);
                 break;
             case TipoPregunta.IMAGE:
                 questionImg.transform.parent.gameObject.SetActive(true);    
@@ -62,6 +62,7 @@ public class QGame : MonoBehaviour
 
                 questionImg.sprite = question.questionImage;                
                 break;
+                //T. numeros y T. Cuerpo
             case TipoPregunta.AUDIO:
                 questionVideo.transform.parent.gameObject.SetActive(true);  
                 questionVideo.transform.gameObject.SetActive(false);       
@@ -259,6 +260,10 @@ public class QGame : MonoBehaviour
                 break;
             case "pierna":
                 quizManager.StartGame(12);
+                transicion.ButtonMenu();
+                break;
+            case "rama":
+                quizManager.StartGame(0);
                 transicion.ButtonMenu();
                 break;
         }
