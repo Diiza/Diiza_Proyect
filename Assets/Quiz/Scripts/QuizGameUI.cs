@@ -7,29 +7,29 @@ using UnityEngine.SceneManagement;
 public class QuizGameUI : MonoBehaviour
 {
 #pragma warning disable 649
-    [SerializeField] private QuizManager quizManager;               //ref to the QuizManager script
+    [SerializeField] private QuizManager quizManager;    
     [SerializeField] private Text scoreText, timerText;
     [SerializeField] private List<Image> lifeImageList;
     [SerializeField] private GameObject gameOverPanel, mainMenu, gamePanel;
-    [SerializeField] private Color correctCol, wrongCol, normalCol; //color of buttons
-    [SerializeField] private Image questionImg;                     //image component to show image
-    [SerializeField] private UnityEngine.Video.VideoPlayer questionVideo;   //to show video
-    [SerializeField] private AudioSource questionAudio;             //audio source for audio clip
-    [SerializeField] private Text questionInfoText;                 //text to show question
-    [SerializeField] private List<Button> options;                  //options button reference
+    [SerializeField] private Color correctCol, wrongCol, normalCol; 
+    [SerializeField] private Image questionImg;                    
+    [SerializeField] private UnityEngine.Video.VideoPlayer questionVideo;   
+    [SerializeField] private AudioSource questionAudio;           
+    [SerializeField] private Text questionInfoText;                
+    [SerializeField] private List<Button> options;                  
     [SerializeField] private List<Button> uiButtons;
 #pragma warning restore 649
 
-    private float audioLength;          //store audio length
-    private Question question;          //store current question data
-    private bool answered = false;      //bool to keep track if answered or not
+    private float audioLength;          
+    private Question question;          
+    private bool answered = false;      
 
-    public Text TimerText { get => timerText; }                     //getter
-    public Text ScoreText { get => scoreText; }                     //getter
-    public GameObject GameOverPanel { get => gameOverPanel; }                     //getter
+    public Text TimerText { get => timerText; }                    
+    public Text ScoreText { get => scoreText; }                     
+    public GameObject GameOverPanel { get => gameOverPanel; }              
 
     private void Start()
-    {   //add the listner to all the buttons
+    {  
         for (int i = 0; i < options.Count; i++)
         {
             Button localBtn = options[i];
@@ -49,9 +49,7 @@ public class QuizGameUI : MonoBehaviour
     /// <param name="question"></param>
     public void SetQuestion(Question question)
     {
-        //set the question
         this.question = question;
-        //check for questionType
         switch (question.questionType)
         {
             case QuestionType.TEXT:
@@ -85,18 +83,15 @@ public class QuizGameUI : MonoBehaviour
                 break;
         }
 
-        questionInfoText.text = question.questionInfo;                      //set the question text
-
-        //suffle the list of options
+        questionInfoText.text = question.questionInfo;                    
+        
         List<string> ansOptions = ShuffleList.ShuffleListItems<string>(question.options);
-
-        //assign options to respective option buttons
+        
         for (int i = 0; i < options.Count; i++)
         {
-            //set the child text
             options[i].GetComponentInChildren<Text>().text = ansOptions[i];
-            options[i].name = ansOptions[i];    //set the name of button
-            options[i].image.color = normalCol; //set color of button to normal
+            options[i].name = ansOptions[i];    
+            options[i].image.color = normalCol; 
         }
 
         answered = false;                       
@@ -117,18 +112,12 @@ public class QuizGameUI : MonoBehaviour
         //if questionType is audio
         if (question.questionType == QuestionType.AUDIO)
         {
-            //PlayOneShot
             questionAudio.PlayOneShot(question.audioClip);
-            //wait for few seconds
             yield return new WaitForSeconds(audioLength + 0.5f);
-            //play again
-            StartCoroutine(PlayAudio());
         }
-        else //if questionType is not audio
+        else 
         {
-            //stop the Coroutine
             StopCoroutine(PlayAudio());
-            //return null
             yield return null;
         }
     }
@@ -141,23 +130,17 @@ public class QuizGameUI : MonoBehaviour
     {
         if (quizManager.GameStatus == GameStatus.PLAYING)
         {
-            //if answered is false
             if (!answered)
             {
-                //set answered true
                 answered = true;
-                //get the bool value
                 bool val = quizManager.Answer(btn.name);
-
-                //if its true
+                
                 if (val)
                 {
-                    //set color to correct
                     btn.image.color = correctCol;
                 }
                 else
                 {
-                    //else set it to wrong color
                     btn.image.color = wrongCol;
                 }
             }
