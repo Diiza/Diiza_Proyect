@@ -38,6 +38,7 @@ public class AudioYAnimacion : MonoBehaviour
         anim = btn.animator; ;
         anim.Play("AnimBoton", 0, 0.25f);
         audio = btn.GetComponent<AudioSource>();
-        audio.Play();
+        if (audio != null)
+            audio.Play();
     }
 }

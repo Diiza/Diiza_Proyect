@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - SubMenu
+  - VocalesGramPanel1
+  - VocalesGramPanel2
+  - VocalesGramPanel3
+  - VocalesGramPanel4
   layers:
   - Default
   - TransparentFX
