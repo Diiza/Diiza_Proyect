@@ -266,6 +266,42 @@ public class QGame : MonoBehaviour
                 quizManager.StartGame(0);
                 transicion.ButtonMenu();
                 break;
+            case "Hoja":
+                quizManager.StartGame(1);
+                transicion.ButtonMenu();
+                break;
+            case "Raiz":
+                quizManager.StartGame(2);
+                transicion.ButtonMenu();
+                break;
+            case "Tronco":
+                quizManager.StartGame(3);
+                transicion.ButtonMenu();
+                break;
+            case "Copa":
+                quizManager.StartGame(4);
+                transicion.ButtonMenu();
+                break;
+            case "techo":
+                quizManager.StartGame(0);
+                transicion.ButtonMenu();
+                break;
+            case "puerta":
+                quizManager.StartGame(1);
+                transicion.ButtonMenu();
+                break;
+            case "cimiento":
+                quizManager.StartGame(2);
+                transicion.ButtonMenu();
+                break;
+            case "pared":
+                quizManager.StartGame(3);
+                transicion.ButtonMenu();
+                break;
+            case "interior":
+                quizManager.StartGame(4);
+                transicion.ButtonMenu();
+                break;
         }
     }
     public void RestryButton()

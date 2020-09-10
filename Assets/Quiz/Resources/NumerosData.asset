@@ -62,7 +62,7 @@ MonoBehaviour:
     - "Xh\xF2'p"
     - "G\xE0>y"
     - "Ts\u0268\u0300>"
-    correctAns: "G\xE0>y"
+    correctAns: "G\xE0a'y"
   - questionInfo: "\xBFQu\xE9 n\xFAmero ves?"
     questionType: 1
     questionImage: {fileID: 21300000, guid: b9a20060f7dde5146b1e54b51ba3b069, type: 3}
@@ -92,7 +92,7 @@ MonoBehaviour:
     - "Ts\u0268\u0300>pt\xFBby"
     - "Ts\u0268\u0300>d\xE0"
     - "Xh\xFAm"
-    correctAns: "Xh\xFAm"
+    correctAns: "Xh\xFAn"
   - questionInfo: "\xBFQu\xE9 n\xFAmero ves?"
     questionType: 1
     questionImage: {fileID: 21300000, guid: 3e11b3a3638421f46a5d20782155add0, type: 3}
@@ -102,7 +102,7 @@ MonoBehaviour:
     - "T\u0268\u0300"
     - "G\xE0>"
     - "Ts\u0268\u0300>pt\xFBby"
-    correctAns: "G\xE0>"
+    correctAns: "G\xE0a'"
   - questionInfo: "\xBFQu\xE9 n\xFAmero ves?"
     questionType: 1
     questionImage: {fileID: 21300000, guid: 7294827cf27380243a085a623e8bfc2d, type: 3}
@@ -112,7 +112,7 @@ MonoBehaviour:
     - "G\xE0>y"
     - "Ts\u0268\u0300>"
     - "Ts\xE8'ny"
-    correctAns: "Ts\u0300\u0268>"
+    correctAns: "Ts\u0268\u0300\u0268'"
   - questionInfo: "\xBFQu\xE9 n\xFAmero ves?"
     questionType: 1
     questionImage: {fileID: 21300000, guid: d8ac1c185ac294947aedeba3be66b5ce, type: 3}
@@ -122,7 +122,7 @@ MonoBehaviour:
     - "Ts\u0268\u0300>pt\xFBby"
     - "Ts\u0268\u0300>d\xE0"
     - "Ts\xE8>ny"
-    correctAns: "Ts\u0268\u0300>pt\xFBby"
+    correctAns: "Ts\u0268\u0300\u0268'pt\xFBby"
   - questionInfo: "\xBFQu\xE9 n\xFAmero ves?"
     questionType: 1
     questionImage: {fileID: 21300000, guid: 3f34788c5b9ebf241a754ba4dd3662cb, type: 3}
@@ -132,7 +132,7 @@ MonoBehaviour:
     - "Xh\xFAm"
     - "Ts\u0268\u0300>ptyop"
     - "Ts\u0268\u0300>"
-    correctAns: "Ts\u0268\u0300>ptyop"
+    correctAns: "Ts\u0268\u0300\u0268'ptyop"
   - questionInfo: "\xBFQu\xE9 n\xFAmero ves?"
     questionType: 1
     questionImage: {fileID: 21300000, guid: d36bc27544d16904ca3e85fdb593a838, type: 3}
@@ -152,7 +152,7 @@ MonoBehaviour:
     - "Ts\u0268\u0300>d\xE0"
     - "Ts\xE8>nypty\xFBby"
     - "Ts\xE8>nyptap"
-    correctAns: "Ts\u0268\u0300>d\xE0"
+    correctAns: "Ts\u0268\u0300\u0268'd\xE0"
   - questionInfo: "\xBFQu\xE9 n\xFAmero ves?"
     questionType: 1
     questionImage: {fileID: 21300000, guid: 8ce2e183f37d8a545bad9210237dc7b4, type: 3}
@@ -162,7 +162,7 @@ MonoBehaviour:
     - "Ts\u0268\u0300>pt\xFBby"
     - "Ts\xE8>ny"
     - "Ts\xE8>nypty\xFBby"
-    correctAns: "Ts\xE8>ny"
+    correctAns: "Ts\xE8e'ny"
   - questionInfo: "\xBFQu\xE9 n\xFAmero ves?"
     questionType: 1
     questionImage: {fileID: 21300000, guid: 1c3e45db32daa1546821aab40c12269b, type: 3}
@@ -172,7 +172,7 @@ MonoBehaviour:
     - "Ts\xE8>nyptxon"
     - "Ts\xE8>nyptyop"
     - "Ts\xE8>nypty\xFBby"
-    correctAns: "Ts\xE8>nypty\xFBby"
+    correctAns: "Ts\xE8e'nypty\xFBby"
   - questionInfo: "\xBFQu\xE9 n\xFAmero ves?"
     questionType: 1
     questionImage: {fileID: 21300000, guid: 9d86cd36d5145a845a61405faf360f6f, type: 3}
@@ -182,7 +182,7 @@ MonoBehaviour:
     - "Ts\xE8>nypty\xFBby"
     - "Ts\xE8>nyptyop"
     - "Ts\u0268\u0300>"
-    correctAns: "Ts\xE8>nyptyop"
+    correctAns: "Ts\xE8e'nyptyop"
   - questionInfo: "\xBFQu\xE9 n\xFAmero ves?"
     questionType: 1
     questionImage: {fileID: 21300000, guid: 9c15b2c89304a81438c47daeb57e4c38, type: 3}
@@ -192,7 +192,7 @@ MonoBehaviour:
     - "Ts\xE8>nyptap"
     - "Ts\xE8>nyptxon"
     - "Ts\xE8>nyptyop"
-    correctAns: "Ts\xE8>nyptxon"
+    correctAns: "Ts\xE8e'nyptxon"
   - questionInfo: "\xBFQu\xE9 n\xFAmero ves?"
     questionType: 1
     questionImage: {fileID: 21300000, guid: 2ad06a58c9c8a1b4399d615a4b1c25a0, type: 3}
@@ -202,7 +202,7 @@ MonoBehaviour:
     - "Ts\xE8>nyptap"
     - "Ty\xF3p"
     - "Ts\u0268\u0300>d\xE0"
-    correctAns: "Ts\xE8>nyptap"
+    correctAns: "Ts\xE8e'nyptap"
   - questionInfo: "\xBFQu\xE9 n\xFAmero ves?"
     questionType: 1
     questionImage: {fileID: 21300000, guid: 0f759b6ee036ecb48a02e183985252e0, type: 3}

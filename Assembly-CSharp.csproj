@@ -70,6 +70,12 @@
     <Compile Include="Assets\Scenes\Alfabeto\Scripts\MenuAdm.cs" />
     <Compile Include="Assets\Scenes\Alfabeto\Scripts\MenuAprende.cs" />
     <Compile Include="Assets\Scenes\Alfabeto\Scripts\TransicionEscenas.cs" />
+    <Compile Include="Assets\Scenes\TeoriaNumeros\Scripts\OpenPanel.cs" />
+    <Compile Include="Assets\Scenes\TeoriaNumeros\Scripts\QData.cs" />
+    <Compile Include="Assets\Scenes\TeoriaNumeros\Scripts\QGame.cs" />
+    <Compile Include="Assets\Scenes\TeoriaNumeros\Scripts\QManager.cs" />
+    <Compile Include="Assets\Scenes\TeoriaNumeros\Scripts\SList.cs" />
+    <Compile Include="Assets\Scenes\TeoriaNumeros\Scripts\Transicion.cs" />
     <Compile Include="Assets\Scripts\AbrirMenu.cs" />
     <Compile Include="Assets\Scripts\CambiarEscena.cs" />
     <Compile Include="Assets\Scripts\Control_Botones.cs" />
@@ -78,12 +84,6 @@
     <Compile Include="Assets\Scripts\Menu\ButtonScript.cs" />
     <Compile Include="Assets\Scripts\Menu\ScrollRectScript.cs" />
     <Compile Include="Assets\Scripts\Quiz-script\Correcto.cs" />
-    <Compile Include="Assets\TeoriaNumeros\Scripts\OpenPanel.cs" />
-    <Compile Include="Assets\TeoriaNumeros\Scripts\QData.cs" />
-    <Compile Include="Assets\TeoriaNumeros\Scripts\QGame.cs" />
-    <Compile Include="Assets\TeoriaNumeros\Scripts\QManager.cs" />
-    <Compile Include="Assets\TeoriaNumeros\Scripts\SList.cs" />
-    <Compile Include="Assets\TeoriaNumeros\Scripts\Transicion.cs" />
     <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
     <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
     <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />

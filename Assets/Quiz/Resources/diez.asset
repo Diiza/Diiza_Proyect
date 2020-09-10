@@ -13,10 +13,9 @@ MonoBehaviour:
   m_Name: diez
   m_EditorClassIdentifier: 
   questions:
-  - questionInfo: "Ts\u0300\u0268>"
+  - questionInfo: "Ts\u0268\u0300\u0268'"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 7294827cf27380243a085a623e8bfc2d, type: 3}
     audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
     videoClip: {fileID: 0}
     options: []
-    correctAns: "Ts\u0300\u0268>"
