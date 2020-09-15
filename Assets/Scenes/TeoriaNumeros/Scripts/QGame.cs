@@ -302,6 +302,62 @@ public class QGame : MonoBehaviour
                 quizManager.StartGame(4);
                 transicion.ButtonMenu();
                 break;
+            case "cabezaA":
+                quizManager.StartGame(0);
+                transicion.ButtonMenu();
+                break;
+            case "caraA":
+                quizManager.StartGame(1);
+                transicion.ButtonMenu();
+                break;
+            case "frenteA":
+                quizManager.StartGame(2);
+                transicion.ButtonMenu();
+                break;
+            case "ojoA":
+                quizManager.StartGame(3);
+                transicion.ButtonMenu();
+                break;
+            case "narizA":
+                quizManager.StartGame(4);
+                transicion.ButtonMenu();
+                break;
+            case "bocaA":
+                quizManager.StartGame(5);
+                transicion.ButtonMenu();
+                break;
+            case "cuelloA":
+                quizManager.StartGame(6);
+                transicion.ButtonMenu();
+                break;
+            case "manoA":
+                quizManager.StartGame(7);
+                transicion.ButtonMenu();
+                break;
+            case "pata":
+                quizManager.StartGame(8);
+                transicion.ButtonMenu();
+                break;
+            case "panza":
+                quizManager.StartGame(9);
+                transicion.ButtonMenu();
+                break;
+            case "piernaA":
+                quizManager.StartGame(10);
+                transicion.ButtonMenu();
+                break;
+            case "cola":
+                quizManager.StartGame(11);
+                transicion.ButtonMenu();
+                break;
+            case "ala":
+                quizManager.StartGame(12);
+                transicion.ButtonMenu();
+                break;
+            case "pico":
+                quizManager.StartGame(13);
+                transicion.ButtonMenu();
+                break;
         }
     }
     public void RestryButton()
