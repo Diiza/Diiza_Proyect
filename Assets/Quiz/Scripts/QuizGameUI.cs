@@ -117,6 +117,7 @@ public class QuizGameUI : MonoBehaviour
         {
             questionAudio.PlayOneShot(question.audioClip);
             yield return new WaitForSeconds(audioLength + 0.5f);
+            StartCoroutine(PlayAudio());
         }
         else 
         {
@@ -148,7 +149,6 @@ public class QuizGameUI : MonoBehaviour
                 }
             }
         }
-
         switch (btn.name)
         {
             case "QImagenes":
@@ -158,29 +158,53 @@ public class QuizGameUI : MonoBehaviour
 
                 }else if (Game.tecla==2)
                 {
-                    quizManager.StartGame(0);
+                    quizManager.StartGame(2);
                 }
                 else if (Game.tecla == 3)
                 {
-                    quizManager.StartGame(0);
+                    quizManager.StartGame(4);
                 }
                 else if (Game.tecla == 4)
                 {
-                    quizManager.StartGame(0);
+                    quizManager.StartGame(6);
                 }
                 else if (Game.tecla == 5)
                 {
-                    quizManager.StartGame(0);
+                    quizManager.StartGame(8);
                 }
                 else 
                 {
-                    quizManager.StartGame(1);
+                    quizManager.StartGame(10);
                 }
                 mainMenu.SetActive(false);
                 gamePanel.SetActive(true);
                 break;
-            case "QSonido":
-                quizManager.StartGame(1);
+            case "QSonidos":
+                if (Game.tecla == 1)
+                {
+                    quizManager.StartGame(1);
+
+                }
+                else if (Game.tecla == 2)
+                {
+                    quizManager.StartGame(3);
+                }
+                else if (Game.tecla == 3)
+                {
+                    quizManager.StartGame(5);
+                }
+                else if (Game.tecla == 4)
+                {
+                    quizManager.StartGame(7);
+                }
+                else if (Game.tecla == 5)
+                {
+                    quizManager.StartGame(9);
+                }
+                else
+                {
+                    quizManager.StartGame(11);
+                }
                 mainMenu.SetActive(false);
                 gamePanel.SetActive(true);
                 break;

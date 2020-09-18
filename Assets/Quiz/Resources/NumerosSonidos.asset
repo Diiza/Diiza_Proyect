@@ -1,0 +1,215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: NumerosSonidos
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 6eb82fd2ba1207744bab19f00592626d, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "T\u0268\u0300"
+    - "Ty\u01D2p"
+    - "Ts\u0268\u0300\u0268'"
+    correctAns: "Ts\u0268\u0300\u0268\u0268'"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 6d3c2cad66c5517448fa26980ea4022f, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "T\u0268\u0300"
+    - "Ty\xF3p"
+    - "Ts\u0268\u0300>"
+    correctAns: "Ty\xF3p"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 3d2ab7abcc1e04d4ab3e665333927812, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Tx\xF3n"
+    - "Ty\xF3p"
+    - "G\xE1z"
+    correctAns: "Tx\xF3n"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 5c975423698b3ec4784897db1c1a3510, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Xh\xFAm"
+    - "G\xE1z"
+    - "T\xE0p"
+    correctAns: "T\xE0p"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 5dc4c73f4a593d14890e5e8cea37fe15, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Xh\xF2'p"
+    - "G\xE0>y"
+    - "Ts\u0268\u0300>"
+    correctAns: "G\xE0a'y"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: b9a20060f7dde5146b1e54b51ba3b069, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Ts\u0268\u0300>"
+    - "G\xE0>y"
+    - "Xh\xF2'p"
+    correctAns: "Xh\xF2'p"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: da8f124434ffaf749a4aff59924539fb, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "G\xE1z"
+    - "G\xE0>y"
+    - "T\xE0p"
+    correctAns: "G\xE1z"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 90f8618575ec12e4e9746052e8527b95, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Ts\u0268\u0300>pt\xFBby"
+    - "Ts\u0268\u0300>d\xE0"
+    - "Xh\xFAm"
+    correctAns: "Xh\xFAn"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 3e11b3a3638421f46a5d20782155add0, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "T\u0268\u0300"
+    - "G\xE0>"
+    - "Ts\u0268\u0300>pt\xFBby"
+    correctAns: "G\xE0a'"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 7294827cf27380243a085a623e8bfc2d, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "G\xE0>y"
+    - "Ts\u0268\u0300>"
+    - "Ts\xE8'ny"
+    correctAns: "Ts\u0268\u0300\u0268'"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: d8ac1c185ac294947aedeba3be66b5ce, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Ts\u0268\u0300>pt\xFBby"
+    - "Ts\u0268\u0300>d\xE0"
+    - "Ts\xE8>ny"
+    correctAns: "Ts\u0268\u0300\u0268'pt\xFBby"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 3f34788c5b9ebf241a754ba4dd3662cb, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Xh\xFAm"
+    - "Ts\u0268\u0300>ptyop"
+    - "Ts\u0268\u0300>"
+    correctAns: "Ts\u0268\u0300\u0268'ptyop"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: d36bc27544d16904ca3e85fdb593a838, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Ts\xE8>nypty\xFBby"
+    - "Ts\u0268\u0300>d\xE0"
+    - "Ts\xE8'ny"
+    correctAns: "Ts\xE8'ny"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: e78df0d19c9a07c4fb838cd3040443b6, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Ts\u0268\u0300>d\xE0"
+    - "Ts\xE8>nypty\xFBby"
+    - "Ts\xE8>nyptap"
+    correctAns: "Ts\u0268\u0300\u0268'd\xE0"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 8ce2e183f37d8a545bad9210237dc7b4, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Ts\u0268\u0300>pt\xFBby"
+    - "Ts\xE8>ny"
+    - "Ts\xE8>nypty\xFBby"
+    correctAns: "Ts\xE8e'ny"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 1c3e45db32daa1546821aab40c12269b, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Ts\xE8>nyptxon"
+    - "Ts\xE8>nyptyop"
+    - "Ts\xE8>nypty\xFBby"
+    correctAns: "Ts\xE8e'nypty\xFBby"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 9d86cd36d5145a845a61405faf360f6f, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Ts\xE8>nypty\xFBby"
+    - "Ts\xE8>nyptyop"
+    - "Ts\u0268\u0300>"
+    correctAns: "Ts\xE8e'nyptyop"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 9c15b2c89304a81438c47daeb57e4c38, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Ts\xE8>nyptap"
+    - "Ts\xE8>nyptxon"
+    - "Ts\xE8>nyptyop"
+    correctAns: "Ts\xE8e'nyptxon"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 2ad06a58c9c8a1b4399d615a4b1c25a0, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Ts\xE8>nyptap"
+    - "Ty\xF3p"
+    - "Ts\u0268\u0300>d\xE0"
+    correctAns: "Ts\xE8e'nyptap"
+  - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 0f759b6ee036ecb48a02e183985252e0, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "G\xE0>y"
+    - "Xh\xF2'p"
+    - "G\xE1ld"
+    correctAns: "G\xE1ld"

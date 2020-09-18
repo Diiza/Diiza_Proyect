@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: CuerpoImage
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "\xBFQu\xE9 parte del cuerpo ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: b9cb853d155c97e4883a4650bee2e5e0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "G\u0268\u0300kyb\xED"
+    - "G\u0268\u0300mb\xED"
+    - "X\xEC'b\xED"
+    correctAns: "G\u0268\u0300kyb\xED"
+  - questionInfo: "\xBFQu\xE9 parte del cuerpo ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 445949e5ce728c64e98bf27233de71fd, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "L\xE0'mb\xED"
+    - "L\xF2b\xED"
+    - "L\xF2kw\xE0b\xED"
+    correctAns: "L\xF2b\xED"
+  - questionInfo: "\xBFQu\xE9 parte del cuerpo ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: f1cee36e0c4c157448c5c9026e836af2, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "L\xF2kw\xE0b\xED"
+    - "L\xF2b\xED"
+    - "X\xEC'b\xED"
+    correctAns: "L\xF2kw\xE0b\xED"
+  - questionInfo: "\xBFQu\xE9 parte del cuerpo ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 50938b64e805fbd47a8c8e7eb6bdaa25, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "G\u0268\u0300mb\xED"
+    - "L\xF2kw\xE0b\xED"
+    - "Bz\xE0l\xF2b\xED"
+    correctAns: "Bz\xE0l\xF2b\xED"
+  - questionInfo: "\xBFQu\xE9 parte del cuerpo ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: f7ae2b45f80ae2842b203df2bc185a5e, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "G\u0268\u0300mb\xED"
+    - "X\xEC'b\xED"
+    - "Dy\xE0gb\xED"
+    correctAns: "X\xEC'b\xED"
+  - questionInfo: "\xBFQu\xE9 parte del cuerpo ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: b0e9fcc40c80bfe4294a39599f1b01f0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "L\xF2kw\xE0b\xED"
+    - "Bz\xE0l\xF2b\xED"
+    - "Dy\xE0gb\xED"
+    correctAns: "Dy\xE0gb\xED"
+  - questionInfo: "\xBFQu\xE9 parte del cuerpo ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 01221f05c2af8714e94d876a01bd03c7, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "G\u0268\u0300mb\xED"
+    - "L\xE0'mb\xED"
+    - "G\u0268\u0300kyb\xED"
+    correctAns: "G\u0268\u0300mb\xED"
+  - questionInfo: "\xBFQu\xE9 parte del cuerpo ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 5f0f35bd64f246f439cf81f114da49bf, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "L\xF2kw\xE0b\xED"
+    - "K\u01D4u'dyb\xED"
+    - "Xh\xE8'kwb\xED"
+    correctAns: "Xh\xE8'kwb\xED"
+  - questionInfo: "\xBFQu\xE9 parte del cuerpo ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 27f5dc1bbfe8dd54599c4ae70ee40c7c, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "N\xEC'b\xED"
+    - "L\xE0\u2019mb\xED"
+    - "L\xF2b\xED"
+    correctAns: "L\xE0\u2019mb\xED"
+  - questionInfo: "\xBFQu\xE9 parte del cuerpo ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: d176b5a1dbc359f499ff60a602aba6bf, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Bz\xE0l\xF2b\xED"
+    - "K\u01D4u'dyb\xED"
+    - "X\xEC'b\xED"
+    correctAns: "K\u01D4u'dyb\xED"
+  - questionInfo: "\xBFQu\xE9 parte del cuerpo ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 799ab45f7b7cda24381d11f47d92755c, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "N\xEC'b\xED"
+    - "R\xF9'b\xED"
+    - "L\xF2b\xED"
+    correctAns: "N\xEC'b\xED"
+  - questionInfo: "\xBFQu\xE9 parte del cuerpo ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: b8a6898d562e54745be740876fc7951d, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "X\xEC'b\xED"
+    - "R\xF9'b\xED"
+    - "N\xEC'b\xED"
+    correctAns: "R\xF9'b\xED"

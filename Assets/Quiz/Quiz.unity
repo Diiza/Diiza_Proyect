@@ -144,8 +144,8 @@ MonoBehaviour:
   quizGameUI: {fileID: 514647358}
   quizDataList:
   - {fileID: 11400000, guid: df6004af69d23cd48a8e77bc6730af97, type: 2}
-  - {fileID: 11400000, guid: 63be080cea79d3b478d96bfb0b7287a0, type: 2}
-  - {fileID: 11400000, guid: 1b526a90754517b45a4f3dfa7ee9bebd, type: 2}
+  - {fileID: 11400000, guid: 13fa5844d3a72fe47bbce982f6c197e3, type: 2}
+  - {fileID: 0}
   timeInSeconds: 120
 --- !u!4 &104252656
 Transform:

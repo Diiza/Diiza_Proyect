@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: AnimalesSonidos
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "\xBFQu\xE9 parte del animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "G\u0268\u0300kym\xE1 "
+    - "L\xF2kw\xE0m\xE1 "
+    - "Xb\xE0a'nm\xE1"
+    correctAns: "G\u0268\u0300kym\xE1 "
+  - questionInfo: "\xBFQu\xE9 parte del animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "L\xE0'nym\xE1"
+    - "L\xF2m\xE1"
+    - "L\xF2kw\xE0m\xE1 "
+    correctAns: "L\xF2m\xE1"
+  - questionInfo: "\xBFQu\xE9 parte del animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "L\xF2kw\xE0m\xE1 "
+    - "L\xE0'nym\xE1"
+    - "Xb\xE0a'nm\xE1"
+    correctAns: "L\xF2kw\xE0m\xE1 "
+  - questionInfo: "\xBFQu\xE9 parte del animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Bz\xE0l\xF2m\xE1 "
+    - "Xb\xE0a'nm\xE1"
+    - "Bz\xE0l\xF2m\xE1 "
+    correctAns: "Bz\xE0l\xF2m\xE1 "
+  - questionInfo: "\xBFQu\xE9 parte del animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Xty\u01D4gm\xE1"
+    - "X\xEC'm\xE1 "
+    - "Xg\u01CEm\xE1"
+    correctAns: "X\xEC'm\xE1 "
+  - questionInfo: "\xBFQu\xE9 parte del animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Xg\u01CEm\xE1"
+    - "N\xEC\u2019m\xE1"
+    - "R\xF9'm\xE1"
+    correctAns: "R\xF9'm\xE1"
+  - questionInfo: "\xBFQu\xE9 parte del animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "X\xEC'm\xE1 "
+    - "G\u0268\u0300mm\xE1"
+    - "G\u0268\u0300kym\xE1 "
+    correctAns: "G\u0268\u0300mm\xE1"
+  - questionInfo: "\xBFQu\xE9 parte del animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "L\xF2m\xE1"
+    - "N\xEC'm\xE1"
+    - "N\xE2a'ma"
+    correctAns: "N\xE2a'ma"
+  - questionInfo: "\xBFQu\xE9 parte del animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "G\u0268\u0300mm\xE1"
+    - "N\xEC'm\xE1"
+    - "N\xE2a'ma"
+    correctAns: "N\xEC'm\xE1"
+  - questionInfo: "\xBFQu\xE9 parte del animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "N\xE2a'ma"
+    - "L\xE0'nym\xE1"
+    - "L\xF2kw\xE0m\xE1 "
+    correctAns: "L\xE0'nym\xE1"
+  - questionInfo: "\xBFQu\xE9 parte del animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "K\u01D4u'dym\xE1"
+    - "Xb\xE0a'nm\xE1"
+    - "L\xF2kw\xE0m\xE1 "
+    correctAns: "K\u01D4u'dym\xE1"
+  - questionInfo: "\xBFQu\xE9 parte del animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Bz\xE0l\xF2m\xE1 "
+    - "Xb\xE0a'nm\xE1"
+    - "K\u01D4u'dym\xE1"
+    correctAns: "Xb\xE0a'nm\xE1"
+  - questionInfo: "\xBFQu\xE9 parte del animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "X\xEC'm\xE1 "
+    - "Xb\xE0a'nm\xE1"
+    - "Xg\u01CEm\xE1"
+    correctAns: "Xg\u01CEm\xE1"
+  - questionInfo: "\xBFQu\xE9 parte del animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Xg\u01CEm\xE1"
+    - "Xty\u01D4gm\xE1"
+    - "Xb\xE0a'nm\xE1"
+    correctAns: "Xty\u01D4gm\xE1"

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: ArbolSonidos
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "\xBFQu\xE9 parte del \xE1rbol escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 74ecdbe9614319841bb24ccc85bb0b06, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "X\xE8kwky\xE0g"
+    - "Xl\xF2b\xE0a' y\xE0g"
+    - "X\xEC'm\xE1 "
+    correctAns: "X\xE8kwky\xE0g"
+  - questionInfo: "\xBFQu\xE9 parte del \xE1rbol escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 1b034df0c47daa74e9dd523ea02fb522, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "L\xF2m\xE1"
+    - "L\xF2 y\xE0g"
+    - "L\xF2kw\xE0m\xE1 "
+    correctAns: "L\xF2 y\xE0g"
+  - questionInfo: "\xBFQu\xE9 parte del \xE1rbol escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 5de55dc2bfaa3534581ad9b8db6ff7b1, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "N\xEC' y\xE0g"
+    - "N\xEC'm\xE1"
+    - "N\xE2a'ma"
+    correctAns: "N\xEC' y\xE0g"
+  - questionInfo: "\xBFQu\xE9 parte del \xE1rbol escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: e7cfefdae86611f4f88ac5b5e472e8d1, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Xh\xE0a'ny\xF9'"
+    - "Xmd\xE0g y\xE0g"
+    - "Xl\xF2b\xE0a' y\xE0g"
+    correctAns: "Xl\xF2b\xE0a' y\xE0g"
+  - questionInfo: "\xBFQu\xE9 parte del \xE1rbol escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 3dbde0a774cd0844f8e8200d7639a3df, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "X\xE8kwky\xE0g"
+    - "Xmd\xE0g y\xE0g"
+    - "Xl\xF2b\xE0a' y\xE0g"
+    correctAns: "Xmd\xE0g y\xE0g"

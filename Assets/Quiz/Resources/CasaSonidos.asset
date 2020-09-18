@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: CasaSonidos
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "\xBFQu\xE9 parte de la casa escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 0359bd622b455924b99b882675eee172, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "G\u0268\u0300ky y\xF9' "
+    - "R\xF9' y\xF9'"
+    - "N\xEC' y\xF9'"
+    correctAns: "G\u0268\u0300ky y\xF9' "
+  - questionInfo: "\xBFQu\xE9 parte de la casa escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 0719bd30519b7b74c8ee2da665cc6b51, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "G\u0268\u0300ky y\xF9' "
+    - "R\xF9' y\xF9'"
+    - "N\xEC' y\xF9'"
+    correctAns: "R\xF9' y\xF9'"
+  - questionInfo: "\xBFQu\xE9 parte de la casa escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: d6b0894e1fc99134d9c2c120abbd866d, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "N\xEC' y\xF9'"
+    - "L\xE0'ny\xF9'"
+    - "R\xF9' y\xF9'"
+    correctAns: "N\xEC' y\xF9'"
+  - questionInfo: "\xBFQu\xE9 parte de la casa escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 3edee676b9f69094ebe1969bb219e8b2, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "N\xEC' y\xF9'"
+    - "L\xE0'ny\xF9'"
+    - "Xh\xE0a'ny\xF9'"
+    correctAns: "Xh\xE0a'ny\xF9'"
+  - questionInfo: "\xBFQu\xE9 parte de la casa escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 120d99a7d2b14b24db993e9a97d398a9, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Xh\xE0a'ny\xF9'"
+    - "L\xE0'ny\xF9'"
+    - "G\u0268\u0300ky y\xF9' "
+    correctAns: "L\xE0'ny\xF9'"
