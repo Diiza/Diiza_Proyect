@@ -1,13 +1,16 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 public class Transicion : MonoBehaviour
 {
+    [SerializeField] private GameObject Salir;
     public RectTransform subMenu;
     float posFinal;
     bool abrirMenu = true;
     public float tiempo = 0.5f;
+    public static int bandera;
     void Start()
     {
         posFinal = Screen.width / 2;
@@ -33,12 +36,27 @@ public class Transicion : MonoBehaviour
 
     public void ButtonMenu()
     {
-        int signo = 1;
-        if (!abrirMenu)//si esta abierto
-        {
-            signo = -1;//oculta
-        }
-        MoverMenu(tiempo, subMenu.position, new Vector3(signo * posFinal, subMenu.position.y, 0));
-        abrirMenu = !abrirMenu;
+        MoverMenu(tiempo, subMenu.position, new Vector3(1 * 540, subMenu.position.y, 0));
     }
+    public void RegresaPanel()
+    {
+        MoverMenu(tiempo, subMenu.position, new Vector3(-1 * posFinal, subMenu.position.y, 0));
+    }
+    // Botones parte Teórica
+    public void ButtonMenuTeorico()
+    {
+        MoverMenu(tiempo, subMenu.position, new Vector3(1 * posFinal, subMenu.position.y, 0));
+        Salir.SetActive(false);
+    }
+    public void Atras()
+    {
+        MoverMenu(tiempo, subMenu.position, new Vector3(-1 * posFinal, subMenu.position.y, 0));
+        Salir.SetActive(true);
+    }
+    public void BtnRegresar()
+    {
+        bandera = 1;
+        SceneManager.LoadScene("MenuPrincipal");
+    }
+    
 }

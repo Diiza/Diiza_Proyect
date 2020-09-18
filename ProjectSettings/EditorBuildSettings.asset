@@ -6,74 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/Sub-menu/Numeros.unity
-    guid: 6987aff1020728542827e23abbe6cdf2
-  - enabled: 0
     path: Assets/Scenes/Pantalla_Inicio.unity
     guid: fd9a905d9d52ad74996a0fe4ea13e62d
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 352116416a14285488c31abcffee4a0d
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Alfabeto.unity
     guid: c87cf1baa9818614abd4ffb1bf45fdb1
@@ -101,4 +38,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Alfabeto/VocalesReglasBasicas.unity
     guid: 614d16fe51de4aa49ba15953391dd4cd
+  - enabled: 1
+    path: Assets/Scenes/Animales/PartesAnimales.unity
+    guid: 46a8054ac1eee4b4999e39fc6e7d98a8
+  - enabled: 1
+    path: Assets/Scenes/Casa/PartesCasa.unity
+    guid: 353ea3ada09fa684bb78808388b94ebf
+  - enabled: 1
+    path: Assets/Scenes/Cuerpo/TeoriaCuerpo.unity
+    guid: abb3294659b88244f88f991d2ea20d8d
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal/MenuPrincipal.unity
+    guid: 8d98bdcebd3169f45a19c513652e1e3d
+  - enabled: 1
+    path: Assets/Scenes/PartesArbol/PartesArbol.unity
+    guid: dee54833680b4c84d8af2956a288d5b9
+  - enabled: 1
+    path: Assets/Scenes/TeoriaNumeros/TeoriaNumeros.unity
+    guid: 2cac42db2d3400f4b9f1ae133c6b80f2
+  - enabled: 1
+    path: Assets/Quiz/Quiz.unity
+    guid: b678a1182b1164345bc5cd886a8f5dcd
   m_configObjects: {}

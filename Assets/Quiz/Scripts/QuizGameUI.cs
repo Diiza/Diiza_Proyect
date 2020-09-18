@@ -7,6 +7,7 @@ using UnityEngine.SceneManagement;
 public class QuizGameUI : MonoBehaviour
 {
 #pragma warning disable 649
+    [SerializeField] private Game gameE;
     [SerializeField] private QuizManager quizManager;    
     [SerializeField] private Text scoreText, timerText;
     [SerializeField] private List<Image> lifeImageList;
@@ -18,18 +19,20 @@ public class QuizGameUI : MonoBehaviour
     [SerializeField] private Text questionInfoText;                
     [SerializeField] private List<Button> options;                  
     [SerializeField] private List<Button> uiButtons;
+    public static int bandera2;
 #pragma warning restore 649
 
     private float audioLength;          
     private Question question;          
-    private bool answered = false;      
+    private bool answered = false;
+   
 
     public Text TimerText { get => timerText; }                    
     public Text ScoreText { get => scoreText; }                     
     public GameObject GameOverPanel { get => gameOverPanel; }              
 
     private void Start()
-    {  
+    {
         for (int i = 0; i < options.Count; i++)
         {
             Button localBtn = options[i];
@@ -126,7 +129,7 @@ public class QuizGameUI : MonoBehaviour
     /// Method assigned to the buttons
     /// </summary>
     /// <param name="btn">ref to the button object</param>
-    void OnClick(Button btn)
+    public void OnClick(Button btn)
     {
         if (quizManager.GameStatus == GameStatus.PLAYING)
         {
@@ -148,18 +151,36 @@ public class QuizGameUI : MonoBehaviour
 
         switch (btn.name)
         {
-            case "Imagenes":
-                quizManager.StartGame(0);
+            case "QImagenes":
+                if (Game.tecla==1)
+                {
+                    quizManager.StartGame(0);
+
+                }else if (Game.tecla==2)
+                {
+                    quizManager.StartGame(0);
+                }
+                else if (Game.tecla == 3)
+                {
+                    quizManager.StartGame(0);
+                }
+                else if (Game.tecla == 4)
+                {
+                    quizManager.StartGame(0);
+                }
+                else if (Game.tecla == 5)
+                {
+                    quizManager.StartGame(0);
+                }
+                else 
+                {
+                    quizManager.StartGame(1);
+                }
                 mainMenu.SetActive(false);
                 gamePanel.SetActive(true);
                 break;
-            case "Audio":
+            case "QSonido":
                 quizManager.StartGame(1);
-                mainMenu.SetActive(false);
-                gamePanel.SetActive(true);
-                break;
-            case "Mixto":
-                quizManager.StartGame(2);
                 mainMenu.SetActive(false);
                 gamePanel.SetActive(true);
                 break;
@@ -168,7 +189,9 @@ public class QuizGameUI : MonoBehaviour
 
     public void RestryButton()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        bandera2 = 1;
+        SceneManager.LoadScene("MenuPrincipal");
+        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
 }

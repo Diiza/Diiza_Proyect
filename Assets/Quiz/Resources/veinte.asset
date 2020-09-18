@@ -18,5 +18,5 @@ MonoBehaviour:
     questionImage: {fileID: 21300000, guid: 0f759b6ee036ecb48a02e183985252e0, type: 3}
     audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
     videoClip: {fileID: 0}
-    options: []
-    correctAns: "G\xE1ld"
+    options:
+    - 

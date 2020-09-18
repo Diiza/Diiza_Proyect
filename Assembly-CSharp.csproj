@@ -70,6 +70,7 @@
     <Compile Include="Assets\Scenes\Alfabeto\Scripts\MenuAdm.cs" />
     <Compile Include="Assets\Scenes\Alfabeto\Scripts\MenuAprende.cs" />
     <Compile Include="Assets\Scenes\Alfabeto\Scripts\TransicionEscenas.cs" />
+    <Compile Include="Assets\Scenes\MenuPrincipal\Herramientas\Game.cs" />
     <Compile Include="Assets\Scenes\TeoriaNumeros\Scripts\OpenPanel.cs" />
     <Compile Include="Assets\Scenes\TeoriaNumeros\Scripts\QData.cs" />
     <Compile Include="Assets\Scenes\TeoriaNumeros\Scripts\QGame.cs" />
