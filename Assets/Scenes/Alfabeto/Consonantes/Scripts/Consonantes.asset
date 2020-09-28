@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc24bc1dcf3315045bb3c5b4cd9ad6fd, type: 3}
+  m_Name: Consonantes
+  m_EditorClassIdentifier: 
+  listData:
+  - image: {fileID: 21300000, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 4dce246a622c8d24ab693ee99cd86b17, type: 3}
+      nameExample: "T\xE0p"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: b8c474f314e11794b8aa4c070f014bbe, type: 3}
+      nameExample: "P\xE0l\xF4m"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300002, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 543c03184f2d40948a798567dbdaab22, type: 3}
+      nameExample: "B\xE8\u2019t"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: 6d7d829dda834bd44be8f94d86bb4aa2, type: 3}
+      nameExample: "B\xE0s\xEAr"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300004, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 0cb6373f8dd71c94bbaec121cb447ff9, type: 3}
+      nameExample: "K\u01D4tx"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: d3170b7aff036b44d9b8bb7b9ae68559, type: 3}
+      nameExample: "K\xE0mbl\u01D2ry"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300006, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 8808bbf033d4efa4fb183db9e5614587, type: 3}
+      nameExample: "G\xE8s"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: 0ce51271d36a0194494a553cc4195ab9, type: 3}
+      nameExample: "N\xECs"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300008, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 801d9fdbf94e41e469291ce23474778c, type: 3}
+      nameExample: "B\u01D0tx"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: 801d9fdbf94e41e469291ce23474778c, type: 3}
+      nameExample: "B\u01D0tx"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300010, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 9dc81a24cb5c8d642b95140f7ab431a9, type: 3}
+      nameExample: "G\u011B'ts"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: d86fb0a64012f64448f3a4d73e839fe5, type: 3}
+      nameExample: "G\xEC\u2019ts"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300012, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 801d9fdbf94e41e469291ce23474778c, type: 3}
+      nameExample: "B\u01D0tx"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: 7bbaebe51fcfe064085186e65867fad1, type: 3}
+      nameExample: "Tx\u01D2nn"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300014, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 7815f5230cd007b43a78f2b87337ac09, type: 3}
+      nameExample: "D\u01CEmm"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: 7815f5230cd007b43a78f2b87337ac09, type: 3}
+      nameExample: "D\u01CEmm"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300016, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 813cf2898508a9a4eb1e8d344ec457c4, type: 3}
+      nameExample: "B\xE2\u2019nn"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: cec32a1ddcb5380458d440dbb1e7c51c, type: 3}
+      nameExample: "M\xEE\u2019nny"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300018, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 27f98c3b76306b6459a20b5fc8eb2f28, type: 3}
+      nameExample: "J\xECr\xE2f"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: c18f3fda4d5b3964db0d2fd9bf744e0b, type: 3}
+      nameExample: "F\xF4k"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300020, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 27f98c3b76306b6459a20b5fc8eb2f28, type: 3}
+      nameExample: "J\xECr\xE2f"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: dbffc91d1d409d84fb79599927407b4f, type: 3}
+      nameExample: "K\xF9n\xEAjw"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 5bf7999e53ef8624c9aa1a5c55d9dc72, type: 3}
+      nameExample: "B\xEE"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: 97f2915ea5959714f8a7f3b87db2a4f0, type: 3}
+      nameExample: "B\xE8'kw"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300024, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 07be121456efb3f44b5578adba3a96e1, type: 3}
+      nameExample: "Md\xE0g"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: 02e5bcda30a5201468692ca800dbd2e8, type: 3}
+      nameExample: "B\xE8e\u2019ld"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300026, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 2e94baf124427cf4b90a4db7f8e159ee, type: 3}
+      nameExample: "G\u01D0dy"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: a62c46bfa7af66a428e97c5ea0a5b100, type: 3}
+      nameExample: "G\xECi\u2019n"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300028, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 8b38ac1ab32dbf24bb260939c78c7e66, type: 3}
+      nameExample: "B\xE8e\u2019z"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: e5e3b9dac6a90484ebcb122475a45677, type: 3}
+      nameExample: "B\xECzy\xF2o\u2019b"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300030, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: b32216d2a467d474ebd167fefa338157, type: 3}
+      nameExample: "Wb\xECxh"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: ee830d7210d06af4ca2f1402bb23683a, type: 3}
+      nameExample: "Xh\u01D4n"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300032, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: fd25c7d0404c8e54385d0fbc022155d1, type: 3}
+      nameExample: "M\u011Bs"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: 94ba463b686634d4b9f4cde248779ff7, type: 3}
+      nameExample: "M\xECdy"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300034, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 67a87be7e79cef147be20f96566bd318, type: 3}
+      nameExample: "Bz\u011Bny"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: f9f806817bab1e347bb184ea3275bbd2, type: 3}
+      nameExample: "G\xFB\u2019n"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300036, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: fb59fce47214a224b8a3e38fc7135921, type: 3}
+      nameExample: "B\xE0l"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: 193080a8ee93a89488045e3afaecb97d, type: 3}
+      nameExample: "B\u011Be\u2019l"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300038, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 8f9bbc09da9736b42b986bb48d0c9dc6, type: 3}
+      nameExample: "B\xE0rg\u01D0dy"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: 26dae5bd71e94884d963838911a43416, type: 3}
+      nameExample: "G\u01D4r"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300040, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 14b5789882f94934fa74fe91ac3920b0, type: 3}
+      nameExample: "Tx\xEEw"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: 588a3fd4d33c57e438860612d44800a7, type: 3}
+      nameExample: "Br\u01CEw"
+      audioExample: {fileID: 0}
+  - image: {fileID: 21300042, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    audio: {fileID: 0}
+    example:
+    - imageExample: {fileID: 21300000, guid: 17cbfa5a4aff7834d888a113b79e50cb, type: 3}
+      nameExample: "Gy\xE8"
+      audioExample: {fileID: 0}
+    - imageExample: {fileID: 21300000, guid: 1fdbfce1b5b247445ab53247becc9cb9, type: 3}
+      nameExample: "Y\xF9'"
+      audioExample: {fileID: 0}
