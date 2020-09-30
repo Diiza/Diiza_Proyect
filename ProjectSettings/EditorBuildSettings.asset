@@ -113,4 +113,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Diccionario/ModelosZ.unity
     guid: 1aa4772917df46b41b529c030e9fef05
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Ejercicios/Ejercicios_Menu.unity
+    guid: 072e02174923f1242b70e0dc1d49d8ca
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Ejercicios/Ejercicios_Consonantes.unity
+    guid: 19a4d21300a31a14cbd2b3ecce30f0ce
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Ejercicios/Ejercicios_Vocales.unity
+    guid: da4b431ab0d7e304b90024d82a9bce68
   m_configObjects: {}
