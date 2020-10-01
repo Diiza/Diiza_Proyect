@@ -43,6 +43,7 @@ public class QuizManage : MonoBehaviour
     private bool answerdQuestion;
     private int score = 0;
     private List<int> indexGaps;
+    private List<QuestionDatas> auxListData;
 
     void Awake()
     {
@@ -66,14 +67,15 @@ public class QuizManage : MonoBehaviour
         info = new List<Results>();
         header.GetComponent<Text>();
         // StartSettings();
-        questionData.questions = BlendList.BlendListItems(questionData.questions);
+        auxListData = new List<QuestionDatas>();
+        //  auxListData = questionData.questions;
+        auxListData = BlendList.BlendListItems(questionData.questions);
         SetQuestion();
         GetButtonsOptions();
     }
 
     private void StartSettings()
     {
-
         answerdQuestion = false;
         correctItem = 0;
         totalItem = 0;
@@ -82,9 +84,9 @@ public class QuizManage : MonoBehaviour
         selectedWordIndex.Clear();
         indexKey = 0;
         totalOptions = questionData.options.Count;
-        answerWord = questionData.questions[currentQuestionIndex];
-        questionImage.sprite = questionData.questions[currentQuestionIndex].questionImage;
-        header.text = questionData.questions[currentQuestionIndex].nameImage;
+        answerWord = auxListData[currentQuestionIndex];
+        questionImage.sprite = auxListData[currentQuestionIndex].questionImage;
+        header.text = auxListData[currentQuestionIndex].nameImage;
     }
 
     private void SetQuestion()
@@ -124,24 +126,24 @@ public class QuizManage : MonoBehaviour
                     Image imagen = answerWordArray[indexGaps[totalItem]].GetComponentInChildren<Transform>().GetChild(0).GetComponent<Image>();
                     imagen.sprite = questionData.options[i].options;
 
-                    if (i == questionData.questions[currentQuestionIndex].key[indexKey])
+                    if (i == auxListData[currentQuestionIndex].key[indexKey])
                     {
-                        correctItem ++;
-                        score += 50;
+                        correctItem++;
                         Debug.Log("Item is Correct");
-                        if (correctItem == questionData.questions[currentQuestionIndex].key.Count)
+                        if (correctItem == auxListData[currentQuestionIndex].key.Count)
                         {
                             correctAnswer = true;
+                            score += 50;
                             Debug.Log("Respuesta Correcta");
                         }
                     }
 
 
-                    if (indexKey < questionData.questions[currentAnswerIndex].key.Count)
+                    if (indexKey < auxListData[currentAnswerIndex].key.Count)
                     {
                         indexKey++;
                     }
-                    if (indexKey == questionData.questions[currentAnswerIndex].key.Count)
+                    if (indexKey == auxListData[currentAnswerIndex].key.Count)
                     {
                         answerdQuestion = true;
                         nextQuestion.gameObject.SetActive(true);
@@ -197,8 +199,8 @@ public class QuizManage : MonoBehaviour
     public void NextQuestion()
     {
 
-        info.Add(new Results(questionData.questions[currentQuestionIndex].nameImage, correctAnswer));
-        if (currentQuestionIndex < questionData.questions.Count - 1)
+        info.Add(new Results(auxListData[currentQuestionIndex].nameImage, correctAnswer));
+        if (currentQuestionIndex < auxListData.Count - 1)
         {
             // Debug.Log(currentQuestionIndex);
             // Debug.Log(questionData.questions.Count);
@@ -232,7 +234,7 @@ public class QuizManage : MonoBehaviour
     private void FinalMessage()
     {
         finalMessage.gameObject.SetActive(true);
-        if (score < questionData.questions.Count*50)
+        if (score < (auxListData.Count-3) * 50)
         {
             finalMessage.GetComponentInChildren<Transform>().GetChild(1).gameObject.SetActive(false);
         }
@@ -246,7 +248,7 @@ public class QuizManage : MonoBehaviour
     {
         AudioSource audioS;
         audioS = audioButton.GetComponent<AudioSource>();
-        audioclip = questionData.questions[currentQuestionIndex].audio;
+        audioclip = auxListData[currentQuestionIndex].audio;
         audioS.clip = audioclip;
         audioButton.onClick.AddListener(() => PlayAudio(audioS));
     }
