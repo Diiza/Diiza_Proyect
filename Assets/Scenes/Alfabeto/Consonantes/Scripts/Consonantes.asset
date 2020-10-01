@@ -52,11 +52,11 @@ MonoBehaviour:
   - image: {fileID: 21300008, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: 801d9fdbf94e41e469291ce23474778c, type: 3}
-      nameExample: "B\u01D0tx"
+    - imageExample: {fileID: 21300000, guid: 2639d05792fa81c4a912f76ef145607d, type: 3}
+      nameExample: "X\xECg"
       audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: 801d9fdbf94e41e469291ce23474778c, type: 3}
-      nameExample: "B\u01D0tx"
+    - imageExample: {fileID: 21300000, guid: 2639d05792fa81c4a912f76ef145607d, type: 3}
+      nameExample: "X\xECg"
       audioExample: {fileID: 0}
   - image: {fileID: 21300010, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}

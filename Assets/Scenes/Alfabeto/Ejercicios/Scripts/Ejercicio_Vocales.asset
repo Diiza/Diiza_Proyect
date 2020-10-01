@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0385c5c1ecb2d6f48b8415f33601fab8, type: 3}
+  m_Name: Ejercicio_Vocales
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: e5e3b9dac6a90484ebcb122475a45677, type: 3}
+    nameImage: Coralillo
+    audio: {fileID: 0}
+    answer:
+    - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 0}
+    - {fileID: 21300028, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 21300042, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 0}
+    - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    key: 0a00000008000000
+  - questionImage: {fileID: 21300000, guid: 9dc81a24cb5c8d642b95140f7ab431a9, type: 3}
+    nameImage: Metate
+    audio: {fileID: 0}
+    answer:
+    - {fileID: 21300026, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 0}
+    - {fileID: 21300010, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    key: 03000000
+  - questionImage: {fileID: 21300000, guid: 26dae5bd71e94884d963838911a43416, type: 3}
+    nameImage: Guajolote
+    audio: {fileID: 0}
+    answer:
+    - {fileID: 21300026, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 0}
+    - {fileID: 21300038, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    key: 01000000
+  - questionImage: {fileID: 21300000, guid: f9f806817bab1e347bb184ea3275bbd2, type: 3}
+    nameImage: Toro
+    audio: {fileID: 0}
+    answer:
+    - {fileID: 21300026, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 0}
+    - {fileID: 21300034, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    key: 02000000
+  - questionImage: {fileID: 21300000, guid: d3170b7aff036b44d9b8bb7b9ae68559, type: 3}
+    nameImage: Jarra
+    audio: {fileID: 0}
+    answer:
+    - {fileID: 21300004, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 0}
+    - {fileID: 21300032, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 21300036, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 0}
+    - {fileID: 21300038, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 21300042, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    key: 0900000007000000
+  - questionImage: {fileID: 21300000, guid: d86fb0a64012f64448f3a4d73e839fe5, type: 3}
+    nameImage: Papel
+    audio: {fileID: 0}
+    answer:
+    - {fileID: 21300026, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 0}
+    - {fileID: 21300010, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    key: 04000000
+  - questionImage: {fileID: 21300000, guid: 543c03184f2d40948a798567dbdaab22, type: 3}
+    nameImage: Zorrillo
+    audio: {fileID: 0}
+    answer:
+    - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 0}
+    - {fileID: 21300002, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    key: 05000000
+  - questionImage: {fileID: 21300000, guid: 7bbaebe51fcfe064085186e65867fad1, type: 3}
+    nameImage: Tres
+    audio: {fileID: 0}
+    answer:
+    - {fileID: 21300012, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 0}
+    - {fileID: 21300016, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    key: 07000000
+  - questionImage: {fileID: 21300000, guid: 8b38ac1ab32dbf24bb260939c78c7e66, type: 3}
+    nameImage: "Le\xF3n/Tigre"
+    audio: {fileID: 0}
+    answer:
+    - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 0}
+    - {fileID: 21300028, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    key: 00000000
+  - questionImage: {fileID: 21300000, guid: 9618b52a651298b4c925de9e6f043dd8, type: 3}
+    nameImage: Siete
+    audio: {fileID: 0}
+    answer:
+    - {fileID: 21300026, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 0}
+    - {fileID: 21300028, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    key: 06000000
+  - questionImage: {fileID: 21300000, guid: 5bf7999e53ef8624c9aa1a5c55d9dc72, type: 3}
+    nameImage: Cangrejo
+    audio: {fileID: 0}
+    answer:
+    - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 0}
+    key: 0b000000
+  - questionImage: {fileID: 21300000, guid: 02e5bcda30a5201468692ca800dbd2e8, type: 3}
+    nameImage: Culebra
+    audio: {fileID: 0}
+    answer:
+    - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 0}
+    - {fileID: 21300036, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 21300024, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    key: 00000000
+  - questionImage: {fileID: 21300000, guid: cad3f87fdae087c4d9f3dc856afb53ef, type: 3}
+    nameImage: Pez/Pescado
+    audio: {fileID: 0}
+    answer:
+    - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 0}
+    - {fileID: 21300036, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 21300024, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    key: 0c000000
+  - questionImage: {fileID: 21300000, guid: fb59fce47214a224b8a3e38fc7135921, type: 3}
+    nameImage: Lumbre/Fuego
+    audio: {fileID: 0}
+    answer:
+    - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 0}
+    - {fileID: 21300036, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    key: 09000000
+  - questionImage: {fileID: 21300000, guid: b32216d2a467d474ebd167fefa338157, type: 3}
+    nameImage: Sol
+    audio: {fileID: 0}
+    answer:
+    - {fileID: 21300040, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 0}
+    - {fileID: 21300030, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    key: 0a000000
+  options:
+  - options: {fileID: 21300120, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+  - options: {fileID: 21300148, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+  - options: {fileID: 21300186, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+  - options: {fileID: 21300154, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+  - options: {fileID: 21300106, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+  - options: {fileID: 21300102, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+  - options: {fileID: 21300134, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+  - options: {fileID: 21300146, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+  - options: {fileID: 21300130, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+  - options: {fileID: 21300084, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+  - options: {fileID: 21300090, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+  - options: {fileID: 21300194, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+  - options: {fileID: 21300086, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
