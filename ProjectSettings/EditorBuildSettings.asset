@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EjercicioPalabras/Numeros/EjercicioPalabrasNumeros.unity
+    guid: d1b9e69fb7bafcc4d90baa4bb1bbc629
   - enabled: 0
     path: Assets/Scenes/Pantalla_Inicio.unity
     guid: fd9a905d9d52ad74996a0fe4ea13e62d
@@ -122,15 +125,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Ejercicios/Ejercicios_Vocales.unity
     guid: da4b431ab0d7e304b90024d82a9bce68
-  - enabled: 1
-    path: Assets/Scenes/Alfabeto/Vocales/Vocales.unity
-    guid: 5c273eca6e04d8e4a9b9d4a7b27be195
-  - enabled: 1
-    path: Assets/Scenes/Alfabeto/Consonantes/Consonantes.unity
-    guid: 967d0e0e69be86247bdf92e18aa1bc5d
-  - enabled: 1
-    path: Assets/Scenes/Alfabeto/Tonos/Tonos.unity
-    guid: 45c070f6105d3b14f846b69ab2ff276b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Tonos/Tonos_Altos.unity
     guid: 8612968d8740618458dfa67ccdeffd34
@@ -143,7 +146,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Tonos/Tonos_Descendentes.unity
     guid: c9053983878922143aa9ebf1cb279f9a
-  - enabled: 1
-    path: Assets/Scenes/Alfabeto/Tonos/TonosReglasBasicas.unity
-    guid: a19ec835191067444a3b97d2f02f2edf
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}

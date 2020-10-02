@@ -208,6 +208,34 @@ public class QuizGameUI : MonoBehaviour
                 mainMenu.SetActive(false);
                 gamePanel.SetActive(true);
                 break;
+
+            case "Palabras":
+                if (Game.tecla == 1)
+                {
+                    Escena("Ejercicios_Menu");
+
+                }
+                else if (Game.tecla == 2)
+                {
+                    Escena("EjercicioPalabrasNumeros");
+                }
+                else if (Game.tecla == 3)
+                {
+                    Escena("");
+                }
+                else if (Game.tecla == 4)
+                {
+                    Escena("");
+                }
+                else if (Game.tecla == 5)
+                {
+                    Escena("");
+                }
+                else
+                {
+                    Escena("");
+                }
+                break;
         }
     }
 
@@ -216,6 +244,11 @@ public class QuizGameUI : MonoBehaviour
         bandera2 = 1;
         SceneManager.LoadScene("MenuPrincipal");
         //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+
+    public void Escena(string nombre)
+    {
+        SceneManager.LoadScene(nombre);
     }
 
 }

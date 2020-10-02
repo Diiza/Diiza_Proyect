@@ -98,7 +98,7 @@ public class Game : MonoBehaviour
             case "Aprende":
                 if (botont == 1)
                 {
-                    
+                    Escena("Alfabeto");
                 }
                 else if (botont == 2)
                 {
