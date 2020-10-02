@@ -14,28 +14,28 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Alfabeto.unity
     guid: c87cf1baa9818614abd4ffb1bf45fdb1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Alfabeto/Vocales.unity
     guid: 918f2ea4fcc020e4694787bcfbadd3dc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Alfabeto/Consonantes.unity
     guid: d86a5706b225cf944b2933eef56351b1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Alfabeto/Tonos.unity
     guid: 074441cf20c11094faf1a4b4668536c6
   - enabled: 0
     path: Assets/Scenes/Alfabeto/ARVocales.unity
     guid: 58afa21c37418064ea13abb92d2a8132
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Alfabeto/Aprende_Alfabeto.unity
     guid: 1a1ea5b1adf94bf40acd84eef03f5c0f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Alfabeto/TonosReglasBasicas.unity
     guid: 258055fcbb08c464bb6b692b7930179f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Alfabeto/ConsonantesReglasBasicas.unity
     guid: c56742bc723766f4cafe40aa3c353b4d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Alfabeto/VocalesReglasBasicas.unity
     guid: 614d16fe51de4aa49ba15953391dd4cd
   - enabled: 1
@@ -122,4 +122,28 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Ejercicios/Ejercicios_Vocales.unity
     guid: da4b431ab0d7e304b90024d82a9bce68
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Vocales/Vocales.unity
+    guid: 5c273eca6e04d8e4a9b9d4a7b27be195
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Consonantes/Consonantes.unity
+    guid: 967d0e0e69be86247bdf92e18aa1bc5d
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Tonos/Tonos.unity
+    guid: 45c070f6105d3b14f846b69ab2ff276b
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Tonos/Tonos_Altos.unity
+    guid: 8612968d8740618458dfa67ccdeffd34
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Tonos/Tonos_Ascendentes.unity
+    guid: ed8be18ffc709cc4098eed17c4461101
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Tonos/Tonos_Bajos.unity
+    guid: 4137b7fb17f1d574fb8a1e77ad6395c4
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Tonos/Tonos_Descendentes.unity
+    guid: c9053983878922143aa9ebf1cb279f9a
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Tonos/TonosReglasBasicas.unity
+    guid: a19ec835191067444a3b97d2f02f2edf
   m_configObjects: {}
