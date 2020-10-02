@@ -68,6 +68,11 @@
     <Compile Include="Assets\Scenes\Alfabeto\Consonantes\Scripts\ButtonsManager.cs" />
     <Compile Include="Assets\Scenes\Alfabeto\Consonantes\Scripts\Data.cs" />
     <Compile Include="Assets\Scenes\Alfabeto\Consonantes\Scripts\ScriptableData.cs" />
+    <Compile Include="Assets\Scenes\Alfabeto\Ejercicios\Scripts\BlendList.cs" />
+    <Compile Include="Assets\Scenes\Alfabeto\Ejercicios\Scripts\QuizDataScriptableObjects.cs" />
+    <Compile Include="Assets\Scenes\Alfabeto\Ejercicios\Scripts\QuizManage.cs" />
+    <Compile Include="Assets\Scenes\Alfabeto\Ejercicios\Scripts\Results.cs" />
+    <Compile Include="Assets\Scenes\Alfabeto\Ejercicios\Scripts\WordDatas.cs" />
     <Compile Include="Assets\Scenes\Alfabeto\Scripts\AudioYAnimacion.cs" />
     <Compile Include="Assets\Scenes\Alfabeto\Scripts\BtnAR.cs" />
     <Compile Include="Assets\Scenes\Alfabeto\Scripts\ControlPaneles.cs" />
