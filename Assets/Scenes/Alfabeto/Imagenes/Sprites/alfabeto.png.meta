@@ -210,8 +210,8 @@ TextureImporter:
       name: p
       rect:
         serializedVersion: 2
-        x: 17
-        y: 989
+        x: 18
+        y: 988
         width: 70
         height: 54
       alignment: 0
@@ -230,8 +230,8 @@ TextureImporter:
       name: t
       rect:
         serializedVersion: 2
-        x: 62
-        y: 989
+        x: 61
+        y: 988
         width: 70
         height: 54
       alignment: 0
@@ -251,7 +251,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 110
-        y: 989
+        y: 988
         width: 70
         height: 54
       alignment: 0
@@ -270,8 +270,8 @@ TextureImporter:
       name: s
       rect:
         serializedVersion: 2
-        x: 169
-        y: 989
+        x: 168
+        y: 988
         width: 70
         height: 54
       alignment: 0
@@ -291,7 +291,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 212
-        y: 991
+        y: 988
         width: 70
         height: 54
       alignment: 0
@@ -311,7 +311,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 269
-        y: 989
+        y: 988
         width: 70
         height: 54
       alignment: 0
@@ -330,8 +330,8 @@ TextureImporter:
       name: tx
       rect:
         serializedVersion: 2
-        x: 333
-        y: 989
+        x: 334
+        y: 988
         width: 70
         height: 54
       alignment: 0
@@ -350,8 +350,8 @@ TextureImporter:
       name: mm
       rect:
         serializedVersion: 2
-        x: 405
-        y: 989
+        x: 407
+        y: 988
         width: 70
         height: 54
       alignment: 0
@@ -371,7 +371,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 487
-        y: 989
+        y: 988
         width: 70
         height: 54
       alignment: 0
@@ -390,8 +390,8 @@ TextureImporter:
       name: f
       rect:
         serializedVersion: 2
-        x: 542
-        y: 989
+        x: 541
+        y: 988
         width: 70
         height: 54
       alignment: 0
@@ -411,7 +411,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 622
-        y: 991
+        y: 988
         width: 70
         height: 54
       alignment: 0
