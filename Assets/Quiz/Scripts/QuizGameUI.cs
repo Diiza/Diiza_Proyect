@@ -19,7 +19,7 @@ public class QuizGameUI : MonoBehaviour
     [SerializeField] private Text questionInfoText;                
     [SerializeField] private List<Button> options;                  
     [SerializeField] private List<Button> uiButtons;
-    public static int bandera2;
+    
 #pragma warning restore 649
 
     private float audioLength;          
@@ -237,13 +237,6 @@ public class QuizGameUI : MonoBehaviour
                 }
                 break;
         }
-    }
-
-    public void RestryButton()
-    {
-        bandera2 = 1;
-        SceneManager.LoadScene("MenuPrincipal");
-        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     public void Escena(string nombre)

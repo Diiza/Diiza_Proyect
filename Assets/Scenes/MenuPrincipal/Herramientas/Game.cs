@@ -27,12 +27,12 @@ public class Game : MonoBehaviour
             transicion.ButtonMenu();
             Transicion.bandera = 0;
         }
-        if (QuizGameUI.bandera2 == 1)
+        if (BtnAtrasMenuJuegos.bandera2 == 1)
         {
             PrincipalMenu.SetActive(false);
             MenuJuegos.SetActive(true);
             panelopen.ButtonMenu();
-            QuizGameUI.bandera2 = 0;
+            BtnAtrasMenuJuegos.bandera2 = 0;
         }
         for (int i = 0; i < options.Count; i++)
         {
