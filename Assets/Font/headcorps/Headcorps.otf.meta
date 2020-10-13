@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 68ce3769445fab7449018522e355206d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Headcorps
+  fontNames:
+  - Headcorps
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0737005d89a721e40b88688ac0b5b810, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
