@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a06a90d43d392a041aa410a29453ca42, type: 3}
+  m_Name: Laringizadas2
+  m_EditorClassIdentifier: 
+  scriptableList:
+  - image: {fileID: 21300000, guid: d8ac1c185ac294947aedeba3be66b5ce, type: 3}
+    audio: {fileID: 0}
+    name: "ts\u0268\u0300i\u2019pt\xFBby"
+  - image: {fileID: 21300000, guid: 3f34788c5b9ebf241a754ba4dd3662cb, type: 3}
+    audio: {fileID: 0}
+    name: "ts\u0268\u0300i\u2019pty\xF3p"
+  - image: {fileID: 21300000, guid: d8788893cf7b3e242836c63e9d425b48, type: 3}
+    audio: {fileID: 0}
+    name: "Ts\u0268\u0300i\u2019d\xE0"
+  - image: {fileID: 21300000, guid: 3edee676b9f69094ebe1969bb219e8b2, type: 3}
+    audio: {fileID: 0}
+    name: "xh\xE0a'ny\xF9'"
+  - image: {fileID: 21300000, guid: 7cd0a3bf2b4afbd4aa80cc0cabdf3c25, type: 3}
+    audio: {fileID: 0}
+    name: "xb\xE0a'nm\xE1"

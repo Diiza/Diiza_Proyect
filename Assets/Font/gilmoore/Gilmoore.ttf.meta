@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: aad6063c36b0f6b499183b9deefc1a68
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gilmoore
+  fontNames:
+  - Gilmoore
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 20c330f191871764285c83362f8a2b98, type: 3}
+  - {fileID: 12800000, guid: 36ec485f010b8804cbcce65910303c8a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
