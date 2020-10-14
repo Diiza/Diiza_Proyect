@@ -112,6 +112,75 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &159592151
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 703957057}
+    m_Modifications:
+    - target: {fileID: 100000, guid: f6d23dc2df9617642b3c37a9591b1aca, type: 3}
+      propertyPath: m_Name
+      value: burro
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6d23dc2df9617642b3c37a9591b1aca, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.10575829
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6d23dc2df9617642b3c37a9591b1aca, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.38
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6d23dc2df9617642b3c37a9591b1aca, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.424261
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6d23dc2df9617642b3c37a9591b1aca, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.0000000037252894
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6d23dc2df9617642b3c37a9591b1aca, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.91987854
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6d23dc2df9617642b3c37a9591b1aca, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6d23dc2df9617642b3c37a9591b1aca, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.39220327
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6d23dc2df9617642b3c37a9591b1aca, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6d23dc2df9617642b3c37a9591b1aca, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6d23dc2df9617642b3c37a9591b1aca, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 226.183
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6d23dc2df9617642b3c37a9591b1aca, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6d23dc2df9617642b3c37a9591b1aca, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6d23dc2df9617642b3c37a9591b1aca, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f6d23dc2df9617642b3c37a9591b1aca, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.6
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f6d23dc2df9617642b3c37a9591b1aca, type: 3}
 --- !u!43 &165505546
 Mesh:
   m_ObjectHideFlags: 0
@@ -341,6 +410,34 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!21 &238274664
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 'cuadroMaterial
+
+    35480'
+  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 0bd92a87ba6f45c897954a9827192100, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
 --- !u!1001 &308518591
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -415,6 +512,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: b2fe9d22aedadcb4b883de258094e438,
     type: 3}
   m_PrefabInstance: {fileID: 308518591}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &403323210 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: f6d23dc2df9617642b3c37a9591b1aca,
+    type: 3}
+  m_PrefabInstance: {fileID: 159592151}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &417724853
 GameObject:
@@ -601,7 +704,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 1303331656}
+  - {fileID: 238274664}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -827,7 +930,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 1377144267}
+  - {fileID: 1010253289}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -903,6 +1006,7 @@ Transform:
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_Children:
   - {fileID: 1140027010}
+  - {fileID: 403323210}
   m_Father: {fileID: 1056863670}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1471,6 +1575,34 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 908368403}
   m_CullTransparentMesh: 0
+--- !u!21 &1010253289
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 'BurroMaterial
+
+    35504'
+  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 0f4e4c7f123447c58b7c71f532c6a8cd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
 --- !u!1 &1056863665
 GameObject:
   m_ObjectHideFlags: 0
@@ -1786,62 +1918,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1140027009}
   m_Mesh: {fileID: 0}
---- !u!21 &1303331656
-Material:
-  serializedVersion: 6
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 'cuadroMaterial
-
-    29778'
-  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: 
-  m_LightmapFlags: 5
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-    - _MainTex:
-        m_Texture: {fileID: 2800000, guid: ae4aa97625e64f29947c4333699c9080, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Floats: []
-    m_Colors:
-    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
---- !u!21 &1377144267
-Material:
-  serializedVersion: 6
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 'BurroMaterial
-
-    28008'
-  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: 
-  m_LightmapFlags: 5
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-    - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 769a3672a34c41f89c8d4944ce68091e, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Floats: []
-    m_Colors:
-    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
 --- !u!1 &1404467361
 GameObject:
   m_ObjectHideFlags: 0
