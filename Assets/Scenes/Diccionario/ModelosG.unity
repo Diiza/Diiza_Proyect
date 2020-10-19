@@ -181,16 +181,16 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
---- !u!21 &346381022
+--- !u!21 &320798094
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 'guayabaMaterial
+  m_Name: 'gatoMaterial
 
-    71372'
+    27678'
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -203,35 +203,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 4348c2c2505f4d03b6b65c49deff897d, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Floats: []
-    m_Colors:
-    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
---- !u!21 &364156959
-Material:
-  serializedVersion: 6
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 'gallinaMaterial
-
-    71346'
-  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: 
-  m_LightmapFlags: 5
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-    - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 739b63e10ec14dad91b6c3cb17ce6dd6, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2c8baa18ac9c4b42836d709cd6f4efc4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -451,34 +423,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54f0d067be7885c40a7ae54c63dbf1f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!21 &443126901
-Material:
-  serializedVersion: 6
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 'gatoMaterial
-
-    71164'
-  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: 
-  m_LightmapFlags: 5
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-    - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 727378bade5b43fd84d96ff097c499f7, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Floats: []
-    m_Colors:
-    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
 --- !u!1 &457263667
 GameObject:
   m_ObjectHideFlags: 0
@@ -525,7 +469,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 443126901}
+  - {fileID: 320798094}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -809,6 +753,34 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 470784815}
   m_Mesh: {fileID: 0}
+--- !u!21 &506232681
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 'guayabaMaterial
+
+    27890'
+  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 8e18b53fcfa447ee8f173fa7176685ae, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
 --- !u!1 &546772319
 GameObject:
   m_ObjectHideFlags: 0
@@ -1053,7 +1025,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 1897476547}
+  - {fileID: 1914458500}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2814,6 +2786,81 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1001 &1679727227
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2101506389}
+    m_Modifications:
+    - target: {fileID: 100002, guid: 563b5fa3602e6c841a260b74f759009e, type: 3}
+      propertyPath: m_Name
+      value: guayaba
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 563b5fa3602e6c841a260b74f759009e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.02802124
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 563b5fa3602e6c841a260b74f759009e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.000000047683717
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 563b5fa3602e6c841a260b74f759009e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06022347
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 563b5fa3602e6c841a260b74f759009e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 563b5fa3602e6c841a260b74f759009e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.9393728
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 563b5fa3602e6c841a260b74f759009e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.000000014901161
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 563b5fa3602e6c841a260b74f759009e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.34289765
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 563b5fa3602e6c841a260b74f759009e, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 563b5fa3602e6c841a260b74f759009e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 563b5fa3602e6c841a260b74f759009e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 139.893
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 563b5fa3602e6c841a260b74f759009e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 563b5fa3602e6c841a260b74f759009e, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 563b5fa3602e6c841a260b74f759009e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 563b5fa3602e6c841a260b74f759009e, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 563b5fa3602e6c841a260b74f759009e, type: 3}
+--- !u!4 &1679727228 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400002, guid: 563b5fa3602e6c841a260b74f759009e,
+    type: 3}
+  m_PrefabInstance: {fileID: 1679727227}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &1790486911
 Mesh:
   m_ObjectHideFlags: 0
@@ -3076,16 +3123,16 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!21 &1897476547
+--- !u!21 &1873034739
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 'guajoloteMaterial
+  m_Name: 'gallinaMaterial
 
-    71210'
+    27864'
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -3098,7 +3145,35 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 281b6349ab77462b860f90d76ba5804f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5faad6ae5a51489899735506a5b31b93, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
+--- !u!21 &1914458500
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 'guajoloteMaterial
+
+    27724'
+  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 43762917ee3745aabc60f5ac6a07cd90, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -3166,7 +3241,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 364156959}
+  - {fileID: 1873034739}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3467,6 +3542,7 @@ Transform:
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_Children:
   - {fileID: 470784816}
+  - {fileID: 1679727228}
   m_Father: {fileID: 1056863670}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3495,7 +3571,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 346381022}
+  - {fileID: 506232681}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
