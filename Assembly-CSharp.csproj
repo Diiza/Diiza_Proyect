@@ -83,6 +83,10 @@
     <Compile Include="Assets\Scenes\Alfabeto\Tonos\Scripts\ButtonEventTones.cs" />
     <Compile Include="Assets\Scenes\Alfabeto\Tonos\Scripts\ButtonsManagerTones.cs" />
     <Compile Include="Assets\Scenes\Alfabeto\Tonos\Scripts\DataTones.cs" />
+    <Compile Include="Assets\Scenes\Alfabeto\Tonos\Scripts\PresentacionTonos\ButtonEventTones.cs" />
+    <Compile Include="Assets\Scenes\Alfabeto\Tonos\Scripts\PresentacionTonos\ButtonsManagerTones.cs" />
+    <Compile Include="Assets\Scenes\Alfabeto\Tonos\Scripts\PresentacionTonos\DataTones.cs" />
+    <Compile Include="Assets\Scenes\Alfabeto\Tonos\Scripts\PresentacionTonos\ScriptableTones.cs" />
     <Compile Include="Assets\Scenes\Alfabeto\Tonos\Scripts\ScriptableTones.cs" />
     <Compile Include="Assets\Scenes\Alfabeto\Vocales\Scripts\BtnEvent.cs" />
     <Compile Include="Assets\Scenes\Alfabeto\Vocales\Scripts\ExamplesManager.cs" />
