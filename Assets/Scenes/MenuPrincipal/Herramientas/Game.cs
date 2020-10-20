@@ -77,15 +77,32 @@ public class Game : MonoBehaviour
                 SMenu.SetActive(true);
                 tecla = 4;
                 break;
-            case "BtnAnimales":
+            case "BtnPAnimales":
                 PrincipalMenu.SetActive(false);
                 SMenu.SetActive(true);
                 tecla = 5;
+                Debug.Log(tecla);
                 break;
             case "BtnArbol":
                 PrincipalMenu.SetActive(false);
                 SMenu.SetActive(true);
                 tecla = 6;
+                Debug.Log(tecla);
+                break;
+            case "BtnAnimales":
+                PrincipalMenu.SetActive(false);
+                SMenu.SetActive(true);
+                tecla = 7;
+                break;
+            case "BtnFrutas":
+                PrincipalMenu.SetActive(false);
+                SMenu.SetActive(true);
+                tecla = 8;
+                break;
+            case "BtnCosas":
+                PrincipalMenu.SetActive(false);
+                SMenu.SetActive(true);
+                tecla = 9;
                 break;
         }
     }
@@ -100,24 +117,24 @@ public class Game : MonoBehaviour
                 {
                     Escena("Alfabeto");
                 }
-                else if (botont == 2)
+                if (botont == 2)
                 {
                     Escena("TeoriaNumeros");
 
                 }
-                else if (botont == 3)
+                if (botont == 3)
                 {
                     Escena("TeoriaCuerpo");
                 }
-                else if (botont == 4)
+                if (botont == 4)
                 {
                     Escena("PartesCasa");
                 }
-                else if (botont == 5)
+                if (botont == 5)
                 {
                     Escena("PartesAnimales");
                 }
-                else 
+                if (botont == 6)
                 {
                     Escena("PartesArbol");
                 }
