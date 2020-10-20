@@ -15,6 +15,8 @@ public class ExamplesManager : MonoBehaviour
     private GameObject panelExamples;
     [SerializeField]
     private Text ruleHeader;
+    [SerializeField]
+    
 
 
     public static ExamplesManager instance;
