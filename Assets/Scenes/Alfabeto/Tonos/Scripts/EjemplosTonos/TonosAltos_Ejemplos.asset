@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a06a90d43d392a041aa410a29453ca42, type: 3}
+  m_Name: TonosAltos_Ejemplos
+  m_EditorClassIdentifier: 
+  scriptableList:
+  - image: {fileID: 21300000, guid: 9618b52a651298b4c925de9e6f043dd8, type: 3}
+    audio: {fileID: 0}
+    name: "G\xE1z"
+  - image: {fileID: 21300000, guid: 50d647756ff57b04cb40d3f6943854b1, type: 3}
+    audio: {fileID: 0}
+    name: "Bz\u0268\u0301\u0268\u2019"
+  - image: {fileID: 21300000, guid: b9f67d5939d1b2b42b7fc708804f91e3, type: 3}
+    audio: {fileID: 0}
+    name: "Xh\xEDi\u2019l"
+  - image: {fileID: 21300000, guid: 9c15b2c89304a81438c47daeb57e4c38, type: 3}
+    audio: {fileID: 0}
+    name: "Ts\xE8e\u2019nyptx\xF3n"
+  - image: {fileID: 21300000, guid: 2ad06a58c9c8a1b4399d615a4b1c25a0, type: 3}
+    audio: {fileID: 0}
+    name: "Ts\xE8e\u2019nypt\xE1p"
+  - image: {fileID: 21300000, guid: f7ae2b45f80ae2842b203df2bc185a5e, type: 3}
+    audio: {fileID: 0}
+    name: "X\xEC'b\xED "
+  - image: {fileID: 21300000, guid: b0e9fcc40c80bfe4294a39599f1b01f0, type: 3}
+    audio: {fileID: 0}
+    name: "Dy\xE0gb\xED"
+  - image: {fileID: 21300000, guid: 83f2438d4876763418aa34a6e6afbb54, type: 3}
+    audio: {fileID: 0}
+    name: "L\xF2m\xE1"
+  - image: {fileID: 21300000, guid: f3818fed56062094f91310b213eb389c, type: 3}
+    audio: {fileID: 0}
+    name: "R\xF9'm\xE1"
+  - image: {fileID: 21300000, guid: f1cee36e0c4c157448c5c9026e836af2, type: 3}
+    audio: {fileID: 0}
+    name: "L\xF2kw\xE0b\xED"
+  - image: {fileID: 21300000, guid: 27f5dc1bbfe8dd54599c4ae70ee40c7c, type: 3}
+    audio: {fileID: 0}
+    name: "L\xE0\u2019mb\xED"
+  - image: {fileID: 21300000, guid: 739990d9c7f084642bc745754053f4a8, type: 3}
+    audio: {fileID: 0}
+    name: "X\xEC'm\xE1"
+  - image: {fileID: 21300000, guid: b8a6898d562e54745be740876fc7951d, type: 3}
+    audio: {fileID: 0}
+    name: "R\xF9'b\xED"
+  - image: {fileID: 21300000, guid: 50938b64e805fbd47a8c8e7eb6bdaa25, type: 3}
+    audio: {fileID: 0}
+    name: "Bz\xE0l\xF2b\xED"
+  - image: {fileID: 21300000, guid: b9cb853d155c97e4883a4650bee2e5e0, type: 3}
+    audio: {fileID: 0}
+    name: "G\u0268\u0300kyb\xED"
