@@ -427,10 +427,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 81385988}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 001a0305ae591964ca0119d38365f668, type: 3}
+  m_Script: {fileID: 11500000, guid: 7be9a1448c6da9c418d30acf7bd66e65, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soData: {fileID: 11400000, guid: 7208b035af995e54da29428b183da24e, type: 2}
+  soData: {fileID: 11400000, guid: 86db4cd736836f6438f82d0b2a4e4bab, type: 2}
   listButtons:
   - {fileID: 33586531}
   - {fileID: 688431012}
@@ -3468,7 +3468,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Tonos Ascendentes
+  m_Text: Tonos Descendentes
 --- !u!222 &1940097955
 CanvasRenderer:
   m_ObjectHideFlags: 0

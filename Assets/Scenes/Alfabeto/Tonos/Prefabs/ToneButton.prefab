@@ -86,8 +86,8 @@ GameObject:
   - component: {fileID: 7946981320642505454}
   - component: {fileID: 5613923596192776562}
   - component: {fileID: 6255827868740933270}
-  - component: {fileID: 114771899656829878}
   - component: {fileID: 8805105366515443006}
+  - component: {fileID: 114893788856321226}
   m_Layer: 5
   m_Name: ToneButton
   m_TagString: Untagged
@@ -301,18 +301,6 @@ MonoBehaviour:
   m_EffectColor: {r: 0.3490566, g: 0.27825737, b: 0.27825737, a: 0.5}
   m_EffectDistance: {x: 3, y: -3}
   m_UseGraphicAlpha: 1
---- !u!114 &114771899656829878
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7340947843169421594}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7ac72396f29fb2d4193fd6c1655e6f39, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!95 &8805105366515443006
 Animator:
   serializedVersion: 3
@@ -332,3 +320,15 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &114893788856321226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7340947843169421594}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a206c2887d453c45b4c9385d770f084, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

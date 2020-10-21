@@ -16,13 +16,9 @@ public class ExamplesManager : MonoBehaviour
     [SerializeField]
     private Text ruleHeader;
     [SerializeField]
-<<<<<<< Updated upstream
-    
-
-=======
     private GameObject Scroll;
     private Vector3 scrollStartPosition;
->>>>>>> Stashed changes
+
 
     public static ExamplesManager instance;
 
@@ -36,12 +32,12 @@ public class ExamplesManager : MonoBehaviour
     void Start()
     {
         panelExamples.SetActive(false);
-        scrollStartPosition =Scroll.GetComponent<RectTransform>().position;
+        scrollStartPosition = Scroll.GetComponent<RectTransform>().position;
     }
 
     public void Com(Button btn)
     {
-        Scroll.GetComponent<RectTransform>().position=scrollStartPosition;
+        Scroll.GetComponent<RectTransform>().position = scrollStartPosition;
         loadDataPanel(btn);
         panelExamples.SetActive(true);
     }

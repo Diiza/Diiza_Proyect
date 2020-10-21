@@ -1336,10 +1336,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 657774381}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 001a0305ae591964ca0119d38365f668, type: 3}
+  m_Script: {fileID: 11500000, guid: 7be9a1448c6da9c418d30acf7bd66e65, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soData: {fileID: 11400000, guid: 90f18ab1ae6d05c42a2868b6c05fab10, type: 2}
+  soData: {fileID: 11400000, guid: b687e128b9d46914cac969b8194905d7, type: 2}
   listButtons:
   - {fileID: 1526394133}
   - {fileID: 1150577346}
@@ -3621,7 +3621,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: ToneButton
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 0}
   m_SourcePrefab: {fileID: 100100000, guid: 7ba1622ac54c58547b23c0ea8e821d51, type: 3}
 --- !u!224 &3656251174098686406 stripped
 RectTransform:
