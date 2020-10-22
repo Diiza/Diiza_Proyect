@@ -9,22 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a06a90d43d392a041aa410a29453ca42, type: 3}
+  m_Script: {fileID: 11500000, guid: 3faedb7e60070e4479e118561dcf1ce6, type: 3}
   m_Name: Simples2
   m_EditorClassIdentifier: 
   scriptableList:
-  - image: {fileID: 21300000, guid: 05561627196e9f142aa26d983dfe4b0d, type: 3}
-    audio: {fileID: 0}
-    name: "b\u01CEg"
-  - image: {fileID: 21300000, guid: 8e3d3f0f91b1db54f82dd11712b23112, type: 3}
-    audio: {fileID: 0}
-    name: "b\xE1d\xF9nd\xE8"
-  - image: {fileID: 21300000, guid: 67a87be7e79cef147be20f96566bd318, type: 3}
-    audio: {fileID: 0}
-    name: "bz\u011Bny"
-  - image: {fileID: 21300000, guid: b32216d2a467d474ebd167fefa338157, type: 3}
-    audio: {fileID: 0}
-    name: "wb\xECxh"
-  - image: {fileID: 21300000, guid: 15637b1cf326c0542aecc4de1ca88195, type: 3}
-    audio: {fileID: 0}
-    name: "b\u01CEd"
+  - {fileID: 11400000, guid: 1805256e71073a64aaeb52f091428ad9, type: 2}
+  - {fileID: 11400000, guid: 0cd5fc0e2ae6a6d438bb6a4e5ca080f4, type: 2}
+  - {fileID: 11400000, guid: 775a0273fa50c8c4590766ff07cd21c8, type: 2}
+  - {fileID: 11400000, guid: dc79519e5c05e334cb4bdcec13870598, type: 2}
+  - {fileID: 11400000, guid: a1f3808a6d7379548859bd99e37f0c27, type: 2}

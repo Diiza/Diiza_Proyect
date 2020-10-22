@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3faedb7e60070e4479e118561dcf1ce6, type: 3}
+  m_Name: Laringizadas3
+  m_EditorClassIdentifier: 
+  scriptableList:
+  - {fileID: 11400000, guid: 3417bfdff73776c4092b686fd80cf2ca, type: 2}
+  - {fileID: 11400000, guid: 8dd1ecde9cb78a14fa68b3be5cfe8687, type: 2}
+  - {fileID: 11400000, guid: 55234894757dae24b841209938d2c19e, type: 2}
+  - {fileID: 11400000, guid: 7c1ba4fedca210647ac3c146cc80eb9e, type: 2}
+  - {fileID: 11400000, guid: bdfe181b3803fdc4c9d26b7524ea2e37, type: 2}

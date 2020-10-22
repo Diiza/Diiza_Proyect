@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fc2b285591b946f47a2606fa36799049, type: 3}
+  m_Script: {fileID: 11500000, guid: 2a400d5e535e7f24299503f670ae6bdc, type: 3}
   m_Name: Tonos_Bajos
   m_EditorClassIdentifier: 
   listData:
@@ -31,7 +31,7 @@ MonoBehaviour:
     audio: {fileID: 0}
   - image: {fileID: 21300106, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
-  - image: {fileID: 21300122, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+  - image: {fileID: 21300110, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
   - image: {fileID: 21300112, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
