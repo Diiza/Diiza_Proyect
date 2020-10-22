@@ -13,6 +13,14 @@ public class BtnEvent : MonoBehaviour
 
     private void ExecuteEvent()
     {
-        ExamplesManager.instance.Com(btn);
+        if (ExamplesManager.instance != null)
+        {
+            ExamplesManager.instance.Com(btn);
+        }
+
+        if (ExaManager.instance != null)
+        {
+            ExaManager.instance.Com(btn);
+        }
     }
 }

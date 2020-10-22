@@ -58,6 +58,10 @@
      <Compile Include="Assets\Quiz\Scripts\QuizGameUI.cs" />
      <Compile Include="Assets\Quiz\Scripts\QuizManager.cs" />
      <Compile Include="Assets\Quiz\Scripts\ShuffleList.cs" />
+     <Compile Include="Assets\Scenes\Alfabeto\Consonantes\ScriptableEjemplos\BtnEvt.cs" />
+     <Compile Include="Assets\Scenes\Alfabeto\Consonantes\ScriptableEjemplos\ExaManager.cs" />
+     <Compile Include="Assets\Scenes\Alfabeto\Consonantes\ScriptableEjemplos\ScriptableListExamples.cs" />
+     <Compile Include="Assets\Scenes\Alfabeto\Consonantes\ScriptableEjemplos\ScriptableSprite.cs" />
      <Compile Include="Assets\Scenes\Alfabeto\Consonantes\Scripts\ButtonEvent.cs" />
      <Compile Include="Assets\Scenes\Alfabeto\Consonantes\Scripts\ButtonsManager.cs" />
      <Compile Include="Assets\Scenes\Alfabeto\Consonantes\Scripts\Data.cs" />

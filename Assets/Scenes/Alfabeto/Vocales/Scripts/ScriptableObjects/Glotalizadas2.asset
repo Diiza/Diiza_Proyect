@@ -9,22 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a06a90d43d392a041aa410a29453ca42, type: 3}
+  m_Script: {fileID: 11500000, guid: 3faedb7e60070e4479e118561dcf1ce6, type: 3}
   m_Name: Glotalizadas2
   m_EditorClassIdentifier: 
   scriptableList:
-  - image: {fileID: 21300000, guid: 27f5dc1bbfe8dd54599c4ae70ee40c7c, type: 3}
-    audio: {fileID: 0}
-    name: "l\xE0\u2019mb\xED"
-  - image: {fileID: 21300000, guid: b8a6898d562e54745be740876fc7951d, type: 3}
-    audio: {fileID: 0}
-    name: "r\xF9'b\xED"
-  - image: {fileID: 21300000, guid: 5de55dc2bfaa3534581ad9b8db6ff7b1, type: 3}
-    audio: {fileID: 0}
-    name: "n\xEC' y\xE0g"
-  - image: {fileID: 21300000, guid: d6b0894e1fc99134d9c2c120abbd866d, type: 3}
-    audio: {fileID: 0}
-    name: "n\xEC' y\xF9'"
-  - image: {fileID: 21300000, guid: f7ae2b45f80ae2842b203df2bc185a5e, type: 3}
-    audio: {fileID: 0}
-    name: "x\xEC'b\xED"
+  - {fileID: 11400000, guid: 783336a97147d424294ef0dbac1bb841, type: 2}
+  - {fileID: 11400000, guid: 066696b1f87bbbf4e98cab28a4103403, type: 2}
+  - {fileID: 11400000, guid: 44caadec90c8dc240b30159ef07e3eee, type: 2}
+  - {fileID: 11400000, guid: 2ae671b4403c5724ba1c7360d6b12db1, type: 2}
+  - {fileID: 11400000, guid: 2f96f9b355cb1704897537a3652c0d12, type: 2}
