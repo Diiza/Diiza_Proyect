@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Jarra
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: d3170b7aff036b44d9b8bb7b9ae68559, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: fc3d916fe916a074790492430cafcc6e, type: 3}
   nameZapoteco: "K\xE0mbl\u01D2ry"
   nameEspanol: Jarra
