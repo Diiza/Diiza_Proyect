@@ -16,198 +16,110 @@ MonoBehaviour:
   - image: {fileID: 21300000, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: b8c474f314e11794b8aa4c070f014bbe, type: 3}
-      nameExample: "P\xE0l\xF4m"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: 4dce246a622c8d24ab693ee99cd86b17, type: 3}
-      nameExample: "T\xE0p"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: 71638dcf77f0c244c96bf6484c814f1b, type: 2}
+    - {fileID: 11400000, guid: fdea78185feeb28478503911c6e730ba, type: 2}
   - image: {fileID: 21300002, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: 4dce246a622c8d24ab693ee99cd86b17, type: 3}
-      nameExample: "T\xE0p"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: 543c03184f2d40948a798567dbdaab22, type: 3}
-      nameExample: "B\xE8\u2019t"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: fdea78185feeb28478503911c6e730ba, type: 2}
+    - {fileID: 11400000, guid: 937a04b6cafacf0468a88f00cc0a798e, type: 2}
   - image: {fileID: 21300004, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 759947e2ada6bcf41accb08abaf39a22, type: 3}
     example:
-    - imageExample: {fileID: 21300000, guid: 0cb6373f8dd71c94bbaec121cb447ff9, type: 3}
-      nameExample: "K\u01D4tx"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: d3170b7aff036b44d9b8bb7b9ae68559, type: 3}
-      nameExample: "K\xE0mbl\u01D2ry"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: 0630e5e78e7d08143bf2da37ba5387c4, type: 2}
+    - {fileID: 11400000, guid: 4e88a4a98970caa408233f41988fa3ac, type: 2}
   - image: {fileID: 21300006, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: f6057973de56cf14b8c856cb286927a5, type: 3}
     example:
-    - imageExample: {fileID: 21300000, guid: ff5fa50fd18d6d347b04b7b28a9cb93f, type: 3}
-      nameExample: "S\xE8ly"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: 0ce51271d36a0194494a553cc4195ab9, type: 3}
-      nameExample: "N\xECs"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: 5bae11d864e586d4694cd581c74382ad, type: 2}
+    - {fileID: 11400000, guid: 0cfecf9371e97624f9fd9b1690c38f87, type: 2}
   - image: {fileID: 21300008, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: e82279e914e4483449df8346110e4bcd, type: 3}
-      nameExample: "Xk\u01CEy"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: 2639d05792fa81c4a912f76ef145607d, type: 3}
-      nameExample: "X\xECg"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: f496adbf4cc2e284db79f53b3853d8ca, type: 2}
+    - {fileID: 11400000, guid: c5b29169ae3a22848bb87cc5257b7e47, type: 2}
   - image: {fileID: 21300010, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: d36bc27544d16904ca3e85fdb593a838, type: 3}
-      nameExample: "Ts\xE8'ny"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: d86fb0a64012f64448f3a4d73e839fe5, type: 3}
-      nameExample: "G\xEC\u2019ts"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: 7ff75e86641873c429e698041889b024, type: 2}
+    - {fileID: 11400000, guid: a7cb27084195cbe498686added055b77, type: 2}
   - image: {fileID: 21300012, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: 645f878d5ecaceb49a429fe87019f861, type: 3}
-      nameExample: "Tx\xE0a'"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: 801d9fdbf94e41e469291ce23474778c, type: 3}
-      nameExample: "B\u01D0tx"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: 0eb3b674e76fe874d8de731bf189db58, type: 2}
+    - {fileID: 11400000, guid: 15c7dc8e6447ee74d995b3467446e969, type: 2}
   - image: {fileID: 21300014, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: 214ec18a75dff7b43adeebce91c65f2d, type: 3}
-      nameExample: Tximm
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: 7815f5230cd007b43a78f2b87337ac09, type: 3}
-      nameExample: "D\u01CEmm"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: 71648d0fb00dfb8408298af55afc6f24, type: 2}
+    - {fileID: 11400000, guid: c787f506865a60e4faf4f9b2c1eadab7, type: 2}
   - image: {fileID: 21300016, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: 813cf2898508a9a4eb1e8d344ec457c4, type: 3}
-      nameExample: "B\xE2\u2019nn"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: cec32a1ddcb5380458d440dbb1e7c51c, type: 3}
-      nameExample: "M\xEE\u2019nny"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: 3dc04dfcf26e2da459ffed4eb4ee495a, type: 2}
+    - {fileID: 11400000, guid: bf350a441c7487140bb3c921ce74a5ab, type: 2}
   - image: {fileID: 21300018, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: 27f98c3b76306b6459a20b5fc8eb2f28, type: 3}
-      nameExample: "J\xECr\xE2f"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: c18f3fda4d5b3964db0d2fd9bf744e0b, type: 3}
-      nameExample: "F\xF4k"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: 573d252df3dc81e45881c62970961686, type: 2}
+    - {fileID: 11400000, guid: 9e2a71fad93133a479c10b90dfbd1840, type: 2}
   - image: {fileID: 21300020, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: 27f98c3b76306b6459a20b5fc8eb2f28, type: 3}
-      nameExample: "J\xECr\xE2f"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: dbffc91d1d409d84fb79599927407b4f, type: 3}
-      nameExample: "K\xF9n\xEAjw"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: 9e2a71fad93133a479c10b90dfbd1840, type: 2}
+    - {fileID: 11400000, guid: 67b8353e19542084c8c9be80523b9cd9, type: 2}
   - image: {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: 5bf7999e53ef8624c9aa1a5c55d9dc72, type: 3}
-      nameExample: "B\u0268\u0302"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: 97f2915ea5959714f8a7f3b87db2a4f0, type: 3}
-      nameExample: "B\xE8'kw"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: 899caae0d01927e4da86456dfba7c6b8, type: 2}
+    - {fileID: 11400000, guid: cbba0427baf4bf447bfab3d75916a9dc, type: 2}
   - image: {fileID: 21300024, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: 78da1aed710bff946856e0c59b8a8e71, type: 3}
-      nameExample: "D\u01CEd\xE8'"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: 07be121456efb3f44b5578adba3a96e1, type: 3}
-      nameExample: "Md\xE0g"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: a51cb0f116a02c04c978f0c5ce82c618, type: 2}
+    - {fileID: 11400000, guid: 8a304d72ecbd9894384f6b7ce73d71b9, type: 2}
   - image: {fileID: 21300026, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: 2e94baf124427cf4b90a4db7f8e159ee, type: 3}
-      nameExample: "G\u01D0dy"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: a62c46bfa7af66a428e97c5ea0a5b100, type: 3}
-      nameExample: "G\xECi\u2019n"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: 3857a6090f5707441bfec243a52b3f99, type: 2}
+    - {fileID: 11400000, guid: b214be5fcbda1824da1718f0422a52b4, type: 2}
   - image: {fileID: 21300028, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: e5e3b9dac6a90484ebcb122475a45677, type: 3}
-      nameExample: "B\xECzy\xF2o\u2019b"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: 8b38ac1ab32dbf24bb260939c78c7e66, type: 3}
-      nameExample: "B\xE8e\u2019z"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: 1babdd85ec4a81e458a64c833f24ff42, type: 2}
+    - {fileID: 11400000, guid: a226e77fd66754844b04b11fc787de06, type: 2}
   - image: {fileID: 21300030, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: ee830d7210d06af4ca2f1402bb23683a, type: 3}
-      nameExample: "Xh\u01D4n"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: b32216d2a467d474ebd167fefa338157, type: 3}
-      nameExample: "Wb\xECxh"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: 0026907bdb0694344b29f28d9dbcee33, type: 2}
+    - {fileID: 11400000, guid: dc79519e5c05e334cb4bdcec13870598, type: 2}
   - image: {fileID: 21300032, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: fd25c7d0404c8e54385d0fbc022155d1, type: 3}
-      nameExample: "M\u011Bs"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: 94ba463b686634d4b9f4cde248779ff7, type: 3}
-      nameExample: "M\xECdy"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: b327765653fcec84093c4e7ec5c57b75, type: 2}
+    - {fileID: 11400000, guid: 792e47e9f2df40b45929a71c15c4d307, type: 2}
   - image: {fileID: 21300034, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: 0f58b319677b901428a097ee021d026a, type: 3}
-      nameExample: "N\u01CEn\xE8'"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: f9f806817bab1e347bb184ea3275bbd2, type: 3}
-      nameExample: "G\xFB\u2019n"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: af49f2dd808f67844abaf8b5a3fac54c, type: 2}
+    - {fileID: 11400000, guid: a154ff1037e3d494e85daa77b1aad81f, type: 2}
   - image: {fileID: 21300036, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: 52b6b7e7e276af245aba203dca42723b, type: 3}
-      nameExample: "L\xE0dy"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: fb59fce47214a224b8a3e38fc7135921, type: 3}
-      nameExample: "B\xE0l"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: 78848e95e296ccb4fb5b7cca5d61e53b, type: 2}
+    - {fileID: 11400000, guid: 75c105b57f1fb6046a25c110b28f5a9b, type: 2}
   - image: {fileID: 21300038, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: c92ad6e9578cc27458c3e26ba054371a, type: 3}
-      nameExample: "R\xF2b"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: 26dae5bd71e94884d963838911a43416, type: 3}
-      nameExample: "G\u01D4r"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: e868221ec45fcde45af278fa8bef8735, type: 2}
+    - {fileID: 11400000, guid: 80efd3dc94bf9a945b4ac0a92033995f, type: 2}
   - image: {fileID: 21300040, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: b32216d2a467d474ebd167fefa338157, type: 3}
-      nameExample: "Wb\xECxh"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: 588a3fd4d33c57e438860612d44800a7, type: 3}
-      nameExample: "Br\u01CEw"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: dc79519e5c05e334cb4bdcec13870598, type: 2}
+    - {fileID: 11400000, guid: 634f986dcbb7a0a41b00f708f794b68b, type: 2}
   - image: {fileID: 21300042, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
-    - imageExample: {fileID: 21300000, guid: 1fdbfce1b5b247445ab53247becc9cb9, type: 3}
-      nameExample: "Y\xF9'"
-      audioExample: {fileID: 0}
-    - imageExample: {fileID: 21300000, guid: 5dc4c73f4a593d14890e5e8cea37fe15, type: 3}
-      nameExample: "G\xE0a'y"
-      audioExample: {fileID: 0}
+    - {fileID: 11400000, guid: b3cf824b7953d0f47926c3b6b714d2ca, type: 2}
+    - {fileID: 11400000, guid: 86d610b29ff420d4a929756586a3ce56, type: 2}

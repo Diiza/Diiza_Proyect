@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 04201eb77f535d54b9f23e3179f460e1, type: 3}
-  m_Name: Jarra
+  m_Name: Casuela
   m_EditorClassIdentifier: 
-  image: {fileID: 21300000, guid: d3170b7aff036b44d9b8bb7b9ae68559, type: 3}
-  audio: {fileID: 8300000, guid: fc3d916fe916a074790492430cafcc6e, type: 3}
-  nameZapoteco: "K\xE0mbl\u01D2ry"
-  nameEspanol: Jarra
+  image: {fileID: 21300000, guid: 645f878d5ecaceb49a429fe87019f861, type: 3}
+  audio: {fileID: 0}
+  nameZapoteco: "Tx\xE0a\u2019"
+  nameEspanol: Casuela
