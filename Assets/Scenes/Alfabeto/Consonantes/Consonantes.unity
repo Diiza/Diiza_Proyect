@@ -868,8 +868,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Las consonantes f y j s\xF3lo aparecen en\npalabras que vienen del espa\xF1ol.\n\nEjemplos:\n\n*Jirafa:
-    J\xECr\xE2f\n*Foco: F\xF4k\n\n"
+  m_Text: "Las consonantes f y j s\xF3lo aparecen en palabras tomadas como pr\xE9stamo
+    del espa\xF1ol.\n\nEjemplos:\n\n*Jirafa: J\xECr\xE2f\n*Foco: F\xF4k\n\n"
 --- !u!222 &206635085
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1966,42 +1966,42 @@ PrefabInstance:
     - target: {fileID: 1009136942892313657, guid: 0cac2f65a9c8c0e49b128ebefe35c1eb,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 1009136942892313657, guid: 0cac2f65a9c8c0e49b128ebefe35c1eb,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 2.5
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 1009136942892313657, guid: 0cac2f65a9c8c0e49b128ebefe35c1eb,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: -4
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1009136942892313657, guid: 0cac2f65a9c8c0e49b128ebefe35c1eb,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: -1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1009136942892313657, guid: 0cac2f65a9c8c0e49b128ebefe35c1eb,
         type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0.3127287
+      value: 0.330472
       objectReference: {fileID: 0}
     - target: {fileID: 1009136942892313657, guid: 0cac2f65a9c8c0e49b128ebefe35c1eb,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0.377
+      value: 0.3855936
       objectReference: {fileID: 0}
     - target: {fileID: 1009136942892313657, guid: 0cac2f65a9c8c0e49b128ebefe35c1eb,
         type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0.6868319
+      value: 0.6678173
       objectReference: {fileID: 0}
     - target: {fileID: 1009136942892313657, guid: 0cac2f65a9c8c0e49b128ebefe35c1eb,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0.4176096
+      value: 0.416
       objectReference: {fileID: 0}
     - target: {fileID: 1009136942892313657, guid: 0cac2f65a9c8c0e49b128ebefe35c1eb,
         type: 3}
@@ -2931,42 +2931,42 @@ PrefabInstance:
     - target: {fileID: 1009136942892313657, guid: 0cac2f65a9c8c0e49b128ebefe35c1eb,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -0.2246399
+      value: 0.2753601
       objectReference: {fileID: 0}
     - target: {fileID: 1009136942892313657, guid: 0cac2f65a9c8c0e49b128ebefe35c1eb,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0.6599121
+      value: 0.15991211
       objectReference: {fileID: 0}
     - target: {fileID: 1009136942892313657, guid: 0cac2f65a9c8c0e49b128ebefe35c1eb,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: -4
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1009136942892313657, guid: 0cac2f65a9c8c0e49b128ebefe35c1eb,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1009136942892313657, guid: 0cac2f65a9c8c0e49b128ebefe35c1eb,
         type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0.3127287
+      value: 0.330472
       objectReference: {fileID: 0}
     - target: {fileID: 1009136942892313657, guid: 0cac2f65a9c8c0e49b128ebefe35c1eb,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0.0405936
+      value: 0.045561597
       objectReference: {fileID: 0}
     - target: {fileID: 1009136942892313657, guid: 0cac2f65a9c8c0e49b128ebefe35c1eb,
         type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0.6868319
+      value: 0.6678173
       objectReference: {fileID: 0}
     - target: {fileID: 1009136942892313657, guid: 0cac2f65a9c8c0e49b128ebefe35c1eb,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0.0795936
+      value: 0.075593606
       objectReference: {fileID: 0}
     - target: {fileID: 1009136942892313657, guid: 0cac2f65a9c8c0e49b128ebefe35c1eb,
         type: 3}
