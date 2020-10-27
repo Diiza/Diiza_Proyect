@@ -138,6 +138,18 @@ public class Game : MonoBehaviour
                 {
                     Escena("PartesArbol");
                 }
+                if (botont == 7)
+                {
+                    Escena("Animales");
+                }
+                if (botont == 8)
+                {
+                    Escena("Frutas");
+                }
+                if (botont == 9)
+                {
+                    Escena("Cosas");
+                }
                 break;
             case "Practica":
                 
