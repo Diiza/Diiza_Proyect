@@ -358,6 +358,162 @@ public class QGame : MonoBehaviour
                 quizManager.StartGame(13);
                 transicion.ButtonMenu();
                 break;
+            case "gato":
+                quizManager.StartGame(0);
+                transicion.ButtonMenu();
+                break;
+            case "perro":
+                quizManager.StartGame(1);
+                transicion.ButtonMenu();
+                break;
+            case "culebra":
+                quizManager.StartGame(2);
+                transicion.ButtonMenu();
+                break;
+            case "coralillo":
+                quizManager.StartGame(3);
+                transicion.ButtonMenu();
+                break;
+            case "tortuga":
+                quizManager.StartGame(4);
+                transicion.ButtonMenu();
+                break;
+            case "pez":
+                quizManager.StartGame(5);
+                transicion.ButtonMenu();
+                break;
+            case "cangrejo":
+                quizManager.StartGame(6);
+                transicion.ButtonMenu();
+                break;
+            case "borrego":
+                quizManager.StartGame(7);
+                transicion.ButtonMenu();
+                break;
+            case "vaca":
+                quizManager.StartGame(8);
+                transicion.ButtonMenu();
+                break;
+            case "buho":
+                quizManager.StartGame(9);
+                transicion.ButtonMenu();
+                break;
+            case "toro":
+                quizManager.StartGame(10);
+                transicion.ButtonMenu();
+                break;
+            case "raton":
+                quizManager.StartGame(11);
+                transicion.ButtonMenu();
+                break;
+            case "mapache":
+                quizManager.StartGame(12);
+                transicion.ButtonMenu();
+                break;
+            case "araña":
+                quizManager.StartGame(13);
+                transicion.ButtonMenu();
+                break;
+            case "lagartija":
+                quizManager.StartGame(14);
+                transicion.ButtonMenu();
+                break;
+            case "ardilla":
+                quizManager.StartGame(15);
+                transicion.ButtonMenu();
+                break;
+            case "venado":
+                quizManager.StartGame(16);
+                transicion.ButtonMenu();
+                break;
+            case "comal":
+                quizManager.StartGame(0);
+                transicion.ButtonMenu();
+                break;
+            case "cuchillo":
+                quizManager.StartGame(1);
+                transicion.ButtonMenu();
+                break;
+            case "lumbre":
+                quizManager.StartGame(2);
+                transicion.ButtonMenu();
+                break;
+            case "escoba":
+                quizManager.StartGame(3);
+                transicion.ButtonMenu();
+                break;
+            case "espejo":
+                quizManager.StartGame(4);
+                transicion.ButtonMenu();
+                break;
+            case "metate":
+                quizManager.StartGame(5);
+                transicion.ButtonMenu();
+                break;
+            case "hacha":
+                quizManager.StartGame(6);
+                transicion.ButtonMenu();
+                break;
+            case "hueso":
+                quizManager.StartGame(7);
+                transicion.ButtonMenu();
+                break;
+            case "silla":
+                quizManager.StartGame(8);
+                transicion.ButtonMenu();
+                break;
+            case "escalera":
+                quizManager.StartGame(9);
+                transicion.ButtonMenu();
+                break;
+            case "platano":
+                quizManager.StartGame(0);
+                transicion.ButtonMenu();
+                break;
+            case "sandia":
+                quizManager.StartGame(1);
+                transicion.ButtonMenu();
+                break;
+            case "piña":
+                quizManager.StartGame(2);
+                transicion.ButtonMenu();
+                break;
+            case "naranja":
+                quizManager.StartGame(3);
+                transicion.ButtonMenu();
+                break;
+            case "limon":
+                quizManager.StartGame(4);
+                transicion.ButtonMenu();
+                break;
+            case "guayaba":
+                quizManager.StartGame(5);
+                transicion.ButtonMenu();
+                break;
+            case "nispero":
+                quizManager.StartGame(6);
+                transicion.ButtonMenu();
+                break;
+            case "aguacate":
+                quizManager.StartGame(7);
+                transicion.ButtonMenu();
+                break;
+            case "mango":
+                quizManager.StartGame(8);
+                transicion.ButtonMenu();
+                break;
+            case "tuna":
+                quizManager.StartGame(9);
+                transicion.ButtonMenu();
+                break;
+            case "pitahaya":
+                quizManager.StartGame(10);
+                transicion.ButtonMenu();
+                break;
+            case "granada":
+                quizManager.StartGame(11);
+                transicion.ButtonMenu();
+                break;
         }
     }
     public void RestryButton()

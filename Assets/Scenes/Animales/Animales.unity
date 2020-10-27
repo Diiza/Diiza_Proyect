@@ -414,23 +414,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   quizGameUI: {fileID: 514647358}
   quizDataList:
-  - {fileID: 11400000, guid: 745478f5cc0ca574f8f6163bfe0e9c0e, type: 2}
-  - {fileID: 11400000, guid: 5bad4fa9d35143343a66fc1b4c0a3d1c, type: 2}
-  - {fileID: 11400000, guid: d58d81206de3b2e4b830dc00b30f750e, type: 2}
-  - {fileID: 11400000, guid: eb50844896bda48439178a6d090242e2, type: 2}
-  - {fileID: 11400000, guid: 6c077d8bb93ae8d4da1cecb20c960ccf, type: 2}
-  - {fileID: 11400000, guid: 6c077d8bb93ae8d4da1cecb20c960ccf, type: 2}
-  - {fileID: 11400000, guid: 6c077d8bb93ae8d4da1cecb20c960ccf, type: 2}
-  - {fileID: 11400000, guid: 6c077d8bb93ae8d4da1cecb20c960ccf, type: 2}
-  - {fileID: 11400000, guid: 6c077d8bb93ae8d4da1cecb20c960ccf, type: 2}
-  - {fileID: 11400000, guid: 6c077d8bb93ae8d4da1cecb20c960ccf, type: 2}
-  - {fileID: 11400000, guid: 6c077d8bb93ae8d4da1cecb20c960ccf, type: 2}
-  - {fileID: 11400000, guid: 6c077d8bb93ae8d4da1cecb20c960ccf, type: 2}
-  - {fileID: 11400000, guid: 6c077d8bb93ae8d4da1cecb20c960ccf, type: 2}
-  - {fileID: 11400000, guid: 6c077d8bb93ae8d4da1cecb20c960ccf, type: 2}
-  - {fileID: 11400000, guid: 6c077d8bb93ae8d4da1cecb20c960ccf, type: 2}
-  - {fileID: 11400000, guid: 6c077d8bb93ae8d4da1cecb20c960ccf, type: 2}
-  - {fileID: 11400000, guid: 6c077d8bb93ae8d4da1cecb20c960ccf, type: 2}
+  - {fileID: 11400000, guid: 3d7c5d385c0dcc443a1302f9b2de3410, type: 2}
+  - {fileID: 11400000, guid: 6e581d6547976ea4aae3eecdd439ac90, type: 2}
+  - {fileID: 11400000, guid: 28dccccddb120e343aeb92dbbf88571e, type: 2}
+  - {fileID: 11400000, guid: 24b6157a432352c46bb30832047ab8b4, type: 2}
+  - {fileID: 11400000, guid: 2af429f5fc9f81d4086abd28c5523583, type: 2}
+  - {fileID: 11400000, guid: 410d1668dcd589b4fb77687760e61545, type: 2}
+  - {fileID: 11400000, guid: 36f9ff0153033814aae303705c0cf9bf, type: 2}
+  - {fileID: 11400000, guid: cb75339117e7c2746a035679f33a3b78, type: 2}
+  - {fileID: 11400000, guid: 77b95915a389ce441966b94fa7583f99, type: 2}
+  - {fileID: 11400000, guid: 5de6508d4299b234d9f1922227775a16, type: 2}
+  - {fileID: 11400000, guid: 6423d11f4e5543947984dada150a8f24, type: 2}
+  - {fileID: 11400000, guid: d83214b126a3f6c4a9714e15b77e8254, type: 2}
+  - {fileID: 11400000, guid: dd5ff24b6d03cbb408e1f39c0c2b0e22, type: 2}
+  - {fileID: 11400000, guid: 560e528b223f6fd4eb776e72362a2b70, type: 2}
+  - {fileID: 11400000, guid: 1f37a9b404305ca439835b6542daeb04, type: 2}
+  - {fileID: 11400000, guid: 49f828cf62aa50a4abd03af570902ae1, type: 2}
+  - {fileID: 11400000, guid: a5ca2b00fa85c534bbe77107135b729a, type: 2}
 --- !u!4 &104252656
 Transform:
   m_ObjectHideFlags: 0
@@ -6028,7 +6028,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 7680.8, y: -70}
+  m_AnchoredPosition: {x: 7680.8, y: -143.33}
   m_SizeDelta: {x: 16289, y: 974}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1953966181
