@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 04201eb77f535d54b9f23e3179f460e1, type: 3}
-  m_Name: Trece
+  m_Name: Escuela
   m_EditorClassIdentifier: 
-  image: {fileID: 21300000, guid: d36bc27544d16904ca3e85fdb593a838, type: 3}
+  image: {fileID: 21300000, guid: 5082ace77173ee6468cc70dbdf511c18, type: 3}
   audio: {fileID: 0}
-  nameZapoteco: "Ts\xE8'ny"
-  nameEspanol: Trece
+  nameZapoteco: "Skw\xEAl"
+  nameEspanol: Escuela

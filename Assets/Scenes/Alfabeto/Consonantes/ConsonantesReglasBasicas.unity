@@ -1261,7 +1261,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Text
       value: "Antes de consonantes p, t, k, s, x, ts, tx, mm, nn, f, j las vocales
-        simples (a, e, i, \u0268, o, u) use pronuncian m\xE1s cortas o breves"
+        simples (a, e, i, \u0268, o, u) se pronuncian m\xE1s cortas o breves"
       objectReference: {fileID: 0}
     - target: {fileID: 1058287140195717607, guid: 42f179f7541253e44b8f047111c8ca40,
         type: 3}
@@ -1462,8 +1462,8 @@ MonoBehaviour:
   m_MovementType: 2
   m_Elasticity: 0.1
   m_Inertia: 1
-  m_DecelerationRate: 0
-  m_ScrollSensitivity: 3
+  m_DecelerationRate: 0.1
+  m_ScrollSensitivity: 1
   m_Viewport: {fileID: 0}
   m_HorizontalScrollbar: {fileID: 0}
   m_VerticalScrollbar: {fileID: 0}

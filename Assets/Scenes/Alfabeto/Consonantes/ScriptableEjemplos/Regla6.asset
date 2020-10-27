@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Regla6
   m_EditorClassIdentifier: 
   scriptableList:
-  - {fileID: 11400000, guid: 5ef7adb1390819140ab476eb829b2913, type: 2}
-  - {fileID: 11400000, guid: 5ef7adb1390819140ab476eb829b2913, type: 2}
-  - {fileID: 11400000, guid: 5ef7adb1390819140ab476eb829b2913, type: 2}
-  - {fileID: 11400000, guid: 5ef7adb1390819140ab476eb829b2913, type: 2}
+  - {fileID: 11400000, guid: 0ad713b73eaeedf499e15929abf9a64b, type: 2}
+  - {fileID: 11400000, guid: 0ccebb716ccb81d4fa59b150322e329c, type: 2}
+  - {fileID: 11400000, guid: 31646632f26b715499cdfe5c6d67adc3, type: 2}
+  - {fileID: 11400000, guid: a7219dd5ad74c104c9b96080567f099b, type: 2}
   - {fileID: 11400000, guid: 5ef7adb1390819140ab476eb829b2913, type: 2}
