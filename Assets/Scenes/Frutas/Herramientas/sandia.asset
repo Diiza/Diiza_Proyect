@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: sandia
   m_EditorClassIdentifier: 
   questions:
-  - questionInfo: "L\xF2 y\xE0g"
+  - questionInfo: "Xndy\xEA"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 4c9c4b2ef57a9574da3b4ba9a2c0d79a, type: 3}
     audioClip: {fileID: 8300000, guid: 54e50738e321c264b98f12e243aa1add, type: 3}

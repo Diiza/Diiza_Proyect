@@ -13,143 +13,103 @@ MonoBehaviour:
   m_Name: CosasImage
   m_EditorClassIdentifier: 
   questions:
-  - questionInfo: "\xBFQu\xE9 parte del animal ves?"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
     questionType: 1
-    questionImage: {fileID: 21300000, guid: 20fd962c46f2a184d8c5fdf26c3dbda3, type: 3}
+    questionImage: {fileID: 21300000, guid: 77f0f2568a210074b963156bc6df1ce1, type: 3}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - "G\u0268\u0300kym\xE1 "
-    - "L\xF2kw\xE0m\xE1 "
-    - "Xb\xE0a'nm\xE1"
-    correctAns: "G\u0268\u0300kym\xE1 "
-  - questionInfo: "\xBFQu\xE9 parte del animal ves?"
+    - "S\xE8ly"
+    - "G\u011B'ts"
+    - "S\u0268\u0300t"
+    correctAns: "S\xE8ly"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
     questionType: 1
-    questionImage: {fileID: 21300000, guid: b112a865f68bfd04ab04ce5fa26c2253, type: 3}
+    questionImage: {fileID: 21300000, guid: 27b78ea679f3cb243a482505ec722b5f, type: 3}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - "L\xE0'nym\xE1"
-    - "L\xF2m\xE1"
-    - "L\xF2kw\xE0m\xE1 "
-    correctAns: "L\xF2m\xE1"
-  - questionInfo: "\xBFQu\xE9 parte del animal ves?"
+    - "S\xE8ly"
+    - "Ptx\xEEl"
+    - "Gy\xE0gxh\u01D0i\u2019l"
+    correctAns: "Ptx\xEEl"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
     questionType: 1
-    questionImage: {fileID: 21300000, guid: 9c5d7ff8e17ff4c44a401cab0af0b598, type: 3}
+    questionImage: {fileID: 21300000, guid: 21da662900f04dd4f95ae7ecfa700e08, type: 3}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - "L\xF2kw\xE0m\xE1 "
-    - "L\xE0'nym\xE1"
-    - "Xb\xE0a'nm\xE1"
-    correctAns: "L\xF2kw\xE0m\xE1 "
-  - questionInfo: "\xBFQu\xE9 parte del animal ves?"
+    - "S\xE8ly"
+    - "Ptx\xEEl"
+    - "B\xE0l"
+    correctAns: "B\xE0l"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
     questionType: 1
-    questionImage: {fileID: 21300000, guid: 83f2438d4876763418aa34a6e6afbb54, type: 3}
+    questionImage: {fileID: 21300000, guid: 43883f5f62b47a04c9223290262353ba, type: 3}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - "Bz\xE0l\xF2m\xE1 "
-    - "Xb\xE0a'nm\xE1"
-    - "Bz\xE0l\xF2m\xE1 "
-    correctAns: "Bz\xE0l\xF2m\xE1 "
-  - questionInfo: "\xBFQu\xE9 parte del animal ves?"
+    - "G\xF2bz\xECny"
+    - "G\xECgw\u01CEn"
+    - "G\xECby\xE0g"
+    correctAns: "G\xF2bz\xECny"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
     questionType: 1
-    questionImage: {fileID: 21300000, guid: 739990d9c7f084642bc745754053f4a8, type: 3}
+    questionImage: {fileID: 21300000, guid: ddb3c2f4704c6d749abb98991de7e4c6, type: 3}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - "Xty\u01D4gm\xE1"
-    - "X\xEC'm\xE1 "
-    - "Xg\u01CEm\xE1"
-    correctAns: "X\xEC'm\xE1 "
-  - questionInfo: "\xBFQu\xE9 parte del animal ves?"
+    - "G\xF2bz\xECny"
+    - "G\xECgw\u01CEn"
+    - "Gy\xE0gxh\u01D0i\u2019l"
+    correctAns: "G\xECgw\u01CEn"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
     questionType: 1
-    questionImage: {fileID: 21300000, guid: f3818fed56062094f91310b213eb389c, type: 3}
+    questionImage: {fileID: 21300000, guid: f4f3c063c490cb045915c53943fac1a1, type: 3}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - "Xg\u01CEm\xE1"
-    - "N\xEC\u2019m\xE1"
-    - "R\xF9'm\xE1"
-    correctAns: "R\xF9'm\xE1"
-  - questionInfo: "\xBFQu\xE9 parte del animal ves?"
+    - "Gy\xE0gxh\u01D0i\u2019l"
+    - "G\xECby\xE0g"
+    - "G\u011B'ts"
+    correctAns: "G\u011B'ts"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
     questionType: 1
-    questionImage: {fileID: 21300000, guid: 10f68f400b899e244b8e1146b512136d, type: 3}
+    questionImage: {fileID: 21300000, guid: afabb0be6411ac44581884b58ae487b0, type: 3}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - "X\xEC'm\xE1 "
-    - "G\u0268\u0300mm\xE1"
-    - "G\u0268\u0300kym\xE1 "
-    correctAns: "G\u0268\u0300mm\xE1"
-  - questionInfo: "\xBFQu\xE9 parte del animal ves?"
+    - "G\xECby\xE0g"
+    - "G\u011B'ts"
+    - "Gy\xE0gxh\u01D0i\u2019l"
+    correctAns: "G\xECby\xE0g"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
     questionType: 1
-    questionImage: {fileID: 21300000, guid: 7e70c7c8ab5642941bc442f9f4e791c8, type: 3}
+    questionImage: {fileID: 21300000, guid: 909fdc988803da04a8d9617c0ecc5ee7, type: 3}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - "L\xF2m\xE1"
-    - "N\xEC'm\xE1"
-    - "N\xE2a'ma"
-    correctAns: "N\xE2a'ma"
-  - questionInfo: "\xBFQu\xE9 parte del animal ves?"
+    - "B\xE0l"
+    - "S\u0268\u0300t"
+    - "S\xE8ly"
+    correctAns: "S\u0268\u0300t"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
     questionType: 1
-    questionImage: {fileID: 21300000, guid: b9a4eb30296eee14893d0792091476e7, type: 3}
+    questionImage: {fileID: 21300000, guid: 8817ddebd40ce3649b9c21baccb51d41, type: 3}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - "G\u0268\u0300mm\xE1"
-    - "N\xEC'm\xE1"
-    - "N\xE2a'ma"
-    correctAns: "N\xEC'm\xE1"
-  - questionInfo: "\xBFQu\xE9 parte del animal ves?"
+    - "G\xF2bz\xECny"
+    - "S\u0268\u0300t"
+    - "Sk\xE0ly\xEAr"
+    correctAns: "Sk\xE0ly\xEAr"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
     questionType: 1
-    questionImage: {fileID: 21300000, guid: 7a9b6f0724489234b817bac3bb231c6d, type: 3}
+    questionImage: {fileID: 21300000, guid: 8e73f9fafa6d0f643830cfe40dcb9c9d, type: 3}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - "N\xE2a'ma"
-    - "L\xE0'nym\xE1"
-    - "L\xF2kw\xE0m\xE1 "
-    correctAns: "L\xE0'nym\xE1"
-  - questionInfo: "\xBFQu\xE9 parte del animal ves?"
-    questionType: 1
-    questionImage: {fileID: 21300000, guid: bf7b5626a8783634988be3b379dd425d, type: 3}
-    audioClip: {fileID: 0}
-    videoClip: {fileID: 0}
-    options:
-    - "K\u01D4u'dym\xE1"
-    - "Xb\xE0a'nm\xE1"
-    - "L\xF2kw\xE0m\xE1 "
-    correctAns: "K\u01D4u'dym\xE1"
-  - questionInfo: "\xBFQu\xE9 parte del animal ves?"
-    questionType: 1
-    questionImage: {fileID: 21300000, guid: 7cd0a3bf2b4afbd4aa80cc0cabdf3c25, type: 3}
-    audioClip: {fileID: 0}
-    videoClip: {fileID: 0}
-    options:
-    - "Bz\xE0l\xF2m\xE1 "
-    - "Xb\xE0a'nm\xE1"
-    - "K\u01D4u'dym\xE1"
-    correctAns: "Xb\xE0a'nm\xE1"
-  - questionInfo: "\xBFQu\xE9 parte del animal ves?"
-    questionType: 1
-    questionImage: {fileID: 21300000, guid: ce48dda4bb5207b4791805666a310015, type: 3}
-    audioClip: {fileID: 0}
-    videoClip: {fileID: 0}
-    options:
-    - "X\xEC'm\xE1 "
-    - "Xb\xE0a'nm\xE1"
-    - "Xg\u01CEm\xE1"
-    correctAns: "Xg\u01CEm\xE1"
-  - questionInfo: "\xBFQu\xE9 parte del animal ves?"
-    questionType: 1
-    questionImage: {fileID: 21300000, guid: 9c1002b7dfb44d043a3266b23bb40801, type: 3}
-    audioClip: {fileID: 0}
-    videoClip: {fileID: 0}
-    options:
-    - "Xg\u01CEm\xE1"
-    - "Xty\u01D4gm\xE1"
-    - "Xb\xE0a'nm\xE1"
-    correctAns: "Xty\u01D4gm\xE1"
+    - "G\xECgw\u01CEn"
+    - "G\xECby\xE0g"
+    - "Gy\xE0gxh\u01D0i\u2019l"
+    correctAns: "Gy\xE0gxh\u01D0i\u2019l"

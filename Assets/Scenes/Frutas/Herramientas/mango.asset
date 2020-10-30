@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: mango
   m_EditorClassIdentifier: 
   questions:
-  - questionInfo: "L\xF2 y\xE0g"
+  - questionInfo: "M\xE2ngw"
     questionType: 2
     questionImage: {fileID: 21300000, guid: a9a3973856183464eb4e5bfeefbcc27e, type: 3}
     audioClip: {fileID: 8300000, guid: 54e50738e321c264b98f12e243aa1add, type: 3}
