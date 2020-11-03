@@ -9,22 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a06a90d43d392a041aa410a29453ca42, type: 3}
+  m_Script: {fileID: 11500000, guid: 3faedb7e60070e4479e118561dcf1ce6, type: 3}
   m_Name: Laringizadas2
   m_EditorClassIdentifier: 
   scriptableList:
-  - image: {fileID: 21300000, guid: d8ac1c185ac294947aedeba3be66b5ce, type: 3}
-    audio: {fileID: 0}
-    name: "ts\u0268\u0300i\u2019pt\xFBby"
-  - image: {fileID: 21300000, guid: 3f34788c5b9ebf241a754ba4dd3662cb, type: 3}
-    audio: {fileID: 0}
-    name: "ts\u0268\u0300i\u2019pty\xF3p"
-  - image: {fileID: 21300000, guid: d8788893cf7b3e242836c63e9d425b48, type: 3}
-    audio: {fileID: 0}
-    name: "Ts\u0268\u0300i\u2019d\xE0"
-  - image: {fileID: 21300000, guid: 3edee676b9f69094ebe1969bb219e8b2, type: 3}
-    audio: {fileID: 0}
-    name: "xh\xE0a'ny\xF9'"
-  - image: {fileID: 21300000, guid: 7cd0a3bf2b4afbd4aa80cc0cabdf3c25, type: 3}
-    audio: {fileID: 0}
-    name: "xb\xE0a'nm\xE1"
+  - {fileID: 11400000, guid: 8907656130ba0a34192f211ccafc46ae, type: 2}
+  - {fileID: 11400000, guid: 938f6fd2931be354ea6c760214ec29f4, type: 2}
+  - {fileID: 11400000, guid: 85b1d4a3235bb1140a32fc1e6b420e40, type: 2}
+  - {fileID: 11400000, guid: d2a14c06ed7d6a048a0fb0197b903380, type: 2}
+  - {fileID: 11400000, guid: c79341caad95a144f9a31f21428aa53d, type: 2}

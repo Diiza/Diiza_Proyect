@@ -156,25 +156,38 @@ public class QuizGameUI : MonoBehaviour
                 {
                     quizManager.StartGame(0);
 
-                }else if (Game.tecla==2)
+                }
+                if (Game.tecla==2)
                 {
                     quizManager.StartGame(2);
                 }
-                else if (Game.tecla == 3)
+                if (Game.tecla == 3)
                 {
                     quizManager.StartGame(4);
                 }
-                else if (Game.tecla == 4)
+                if (Game.tecla == 4)
                 {
                     quizManager.StartGame(6);
                 }
-                else if (Game.tecla == 5)
+                if (Game.tecla == 5)
                 {
                     quizManager.StartGame(8);
                 }
-                else 
+                if (Game.tecla == 6)
                 {
                     quizManager.StartGame(10);
+                }
+                if (Game.tecla == 7)
+                {
+                    quizManager.StartGame(12);
+                }
+                if (Game.tecla == 8)
+                {
+                    quizManager.StartGame(14);
+                }
+                if (Game.tecla == 9)
+                {
+                    quizManager.StartGame(16);
                 }
                 mainMenu.SetActive(false);
                 gamePanel.SetActive(true);
@@ -185,25 +198,37 @@ public class QuizGameUI : MonoBehaviour
                     quizManager.StartGame(1);
 
                 }
-                else if (Game.tecla == 2)
+                if (Game.tecla == 2)
                 {
                     quizManager.StartGame(3);
                 }
-                else if (Game.tecla == 3)
+                if (Game.tecla == 3)
                 {
                     quizManager.StartGame(5);
                 }
-                else if (Game.tecla == 4)
+                if (Game.tecla == 4)
                 {
                     quizManager.StartGame(7);
                 }
-                else if (Game.tecla == 5)
+                if (Game.tecla == 5)
                 {
                     quizManager.StartGame(9);
                 }
-                else
+                if (Game.tecla == 6)
                 {
                     quizManager.StartGame(11);
+                }
+                if (Game.tecla == 7)
+                {
+                    quizManager.StartGame(13);
+                }
+                if (Game.tecla == 8)
+                {
+                    quizManager.StartGame(15);
+                }
+                if (Game.tecla == 9)
+                {
+                    quizManager.StartGame(17);
                 }
                 mainMenu.SetActive(false);
                 gamePanel.SetActive(true);
@@ -215,23 +240,35 @@ public class QuizGameUI : MonoBehaviour
                     Escena("Ejercicios_Menu");
 
                 }
-                else if (Game.tecla == 2)
+                if (Game.tecla == 2)
                 {
                     Escena("EjercicioPalabrasNumeros");
                 }
-                else if (Game.tecla == 3)
+                if (Game.tecla == 3)
                 {
                     Escena("");
                 }
-                else if (Game.tecla == 4)
+                if (Game.tecla == 4)
                 {
                     Escena("");
                 }
-                else if (Game.tecla == 5)
+                if (Game.tecla == 5)
                 {
                     Escena("");
                 }
-                else
+                if (Game.tecla == 6)
+                {
+                    Escena("");
+                }
+                if (Game.tecla == 7)
+                {
+                    Escena("");
+                }
+                if (Game.tecla == 8)
+                {
+                    Escena("");
+                }
+                if (Game.tecla == 9)
                 {
                     Escena("");
                 }

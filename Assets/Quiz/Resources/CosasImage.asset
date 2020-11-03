@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: CosasImage
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 77f0f2568a210074b963156bc6df1ce1, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "S\xE8ly"
+    - "G\u011B'ts"
+    - "S\u0268\u0300t"
+    correctAns: "S\xE8ly"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 27b78ea679f3cb243a482505ec722b5f, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "S\xE8ly"
+    - "Ptx\xEEl"
+    - "Gy\xE0gxh\u01D0i\u2019l"
+    correctAns: "Ptx\xEEl"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 21da662900f04dd4f95ae7ecfa700e08, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "S\xE8ly"
+    - "Ptx\xEEl"
+    - "B\xE0l"
+    correctAns: "B\xE0l"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 43883f5f62b47a04c9223290262353ba, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "G\xF2bz\xECny"
+    - "G\xECgw\u01CEn"
+    - "G\xECby\xE0g"
+    correctAns: "G\xF2bz\xECny"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: ddb3c2f4704c6d749abb98991de7e4c6, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "G\xF2bz\xECny"
+    - "G\xECgw\u01CEn"
+    - "Gy\xE0gxh\u01D0i\u2019l"
+    correctAns: "G\xECgw\u01CEn"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: f4f3c063c490cb045915c53943fac1a1, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Gy\xE0gxh\u01D0i\u2019l"
+    - "G\xECby\xE0g"
+    - "G\u011B'ts"
+    correctAns: "G\u011B'ts"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: afabb0be6411ac44581884b58ae487b0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "G\xECby\xE0g"
+    - "G\u011B'ts"
+    - "Gy\xE0gxh\u01D0i\u2019l"
+    correctAns: "G\xECby\xE0g"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 909fdc988803da04a8d9617c0ecc5ee7, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "B\xE0l"
+    - "S\u0268\u0300t"
+    - "S\xE8ly"
+    correctAns: "S\u0268\u0300t"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 8817ddebd40ce3649b9c21baccb51d41, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "G\xF2bz\xECny"
+    - "S\u0268\u0300t"
+    - "Sk\xE0ly\xEAr"
+    correctAns: "Sk\xE0ly\xEAr"
+  - questionInfo: "\xBFQu\xE9 objeto ves?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 8e73f9fafa6d0f643830cfe40dcb9c9d, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "G\xECgw\u01CEn"
+    - "G\xECby\xE0g"
+    - "Gy\xE0gxh\u01D0i\u2019l"
+    correctAns: "Gy\xE0gxh\u01D0i\u2019l"

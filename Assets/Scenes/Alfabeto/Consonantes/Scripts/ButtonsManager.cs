@@ -25,6 +25,10 @@ public class ButtonsManager : MonoBehaviour
     [SerializeField]
     private GameObject nameExample2;
     [SerializeField]
+    private GameObject nameSpa1;
+    [SerializeField]
+    private GameObject nameSpa2;
+    [SerializeField]
     private Button audioExample1;
     [SerializeField]
     private Button audioExample2;
@@ -35,6 +39,8 @@ public class ButtonsManager : MonoBehaviour
     private Image img2;
     private Text name1;
     private Text name2;
+    private Text nameS1;
+    private Text nameS2;
 
     void Awake()
     {
@@ -52,6 +58,8 @@ public class ButtonsManager : MonoBehaviour
         img2 = imageExample2.GetComponentInChildren<Transform>().GetChild(0).GetComponent<Image>();
         name1 = nameExample1.GetComponentInChildren<Transform>().GetChild(0).GetComponent<Text>();
         name2 = nameExample2.GetComponentInChildren<Transform>().GetChild(0).GetComponent<Text>();
+        nameS1 = nameSpa1.GetComponent<Text>();
+        nameS2 = nameSpa2.GetComponent<Text>();
         information.gameObject.SetActive(false);
 
     }
@@ -89,10 +97,11 @@ public class ButtonsManager : MonoBehaviour
                 break;
             }
         }
-        if(audioS!=null){
+        if (audioS != null)
+        {
             audioS.Play();
         }
-        
+
     }
 
     private void setInformation(Button btn)
@@ -102,12 +111,14 @@ public class ButtonsManager : MonoBehaviour
             if (btn.name == listButtons[i].name)
             {
                 imageLetter.sprite = soData.listData[i].image;
-                img1.sprite = soData.listData[i].example[0].imageExample;
-                img2.sprite = soData.listData[i].example[1].imageExample;
-                name1.text = soData.listData[i].example[0].nameExample;
-                name2.text = soData.listData[i].example[1].nameExample;
-                audio1.clip = soData.listData[i].example[0].audioExample;
-                audio2.clip = soData.listData[i].example[1].audioExample;
+                img1.sprite = soData.listData[i].example[0].image;
+                img2.sprite = soData.listData[i].example[1].image;
+                name1.text = soData.listData[i].example[0].nameZapoteco;
+                name2.text = soData.listData[i].example[1].nameZapoteco;
+                nameS1.text = soData.listData[i].example[0].nameEspanol;
+                nameS2.text = soData.listData[i].example[1].nameEspanol;
+                audio1.clip = soData.listData[i].example[0].audio;
+                audio2.clip = soData.listData[i].example[1].audio;
                 audioLetter.onClick.AddListener(() => letterAudio(i));
                 break;
             }
@@ -119,16 +130,18 @@ public class ButtonsManager : MonoBehaviour
     private void letterAudio(int i)
     {
         audioSource.clip = soData.listData[i].audio;
-        if(audioSource !=null){
+        if (audioSource != null)
+        {
             audioSource.Play();
         }
-        
+
     }
 
 
     private void playExamples(AudioSource audio)
     {
-        if(audio!=null){
+        if (audio != null)
+        {
             audio.Play();
         }
 
@@ -136,6 +149,7 @@ public class ButtonsManager : MonoBehaviour
 
     public void backButton()
     {
+        audioLetter.GetComponent<AudioSource>().clip=null; //Resetear audio de letra
         information.gameObject.SetActive(false);
     }
 

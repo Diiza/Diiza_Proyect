@@ -17,6 +17,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Alfabeto/Alfabeto.unity
     guid: c87cf1baa9818614abd4ffb1bf45fdb1
+<<<<<<< HEAD
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
@@ -43,6 +44,10 @@ EditorBuildSettings:
     guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Animales/PartesAnimales.unity
+=======
+  - enabled: 1
+    path: Assets/Scenes/PartesAnimales/PartesAnimales.unity
+>>>>>>> 8cdd90d6e4ea84bc3e9fe679c2cb2b3525487ace
     guid: 46a8054ac1eee4b4999e39fc6e7d98a8
   - enabled: 1
     path: Assets/Scenes/Casa/PartesCasa.unity
@@ -59,7 +64,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TeoriaNumeros/TeoriaNumeros.unity
     guid: 2cac42db2d3400f4b9f1ae133c6b80f2
-  - enabled: 0
+  - enabled: 1
+    path: Assets/Scenes/Animales/Animales.unity
+    guid: db0ff8ffcef267d40b61c611bd429a85
+  - enabled: 1
+    path: Assets/Scenes/Cosas/Cosas.unity
+    guid: f16850dd682a70e478096c087bf6a80f
+  - enabled: 1
+    path: Assets/Scenes/Frutas/Frutas.unity
+    guid: 7fe739187a077ca488a500cc0669bb0c
+  - enabled: 1
     path: Assets/Quiz/Quiz.unity
     guid: b678a1182b1164345bc5cd886a8f5dcd
   - enabled: 1
@@ -125,15 +139,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Ejercicios/Ejercicios_Vocales.unity
     guid: da4b431ab0d7e304b90024d82a9bce68
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Tonos/Tonos_Altos.unity
     guid: 8612968d8740618458dfa67ccdeffd34
@@ -146,9 +151,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Tonos/Tonos_Descendentes.unity
     guid: c9053983878922143aa9ebf1cb279f9a
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Vocales/VocalesReglasBasicas.unity
     guid: 19f6a9713b269ed4b81124d511378957
@@ -167,4 +169,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/MenuPrincipal/MenuFinal.unity
     guid: 0b953616a99932d4fb16d22014792cb6
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Consonantes/ConsonantesReglasBasicas.unity
+    guid: eeedab7a3766caa499b4fb1940fe33a1
   m_configObjects: {}

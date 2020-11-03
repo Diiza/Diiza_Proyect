@@ -19,7 +19,6 @@ public class ExamplesManager : MonoBehaviour
     private GameObject Scroll;
     private Vector3 scrollStartPosition;
 
-
     public static ExamplesManager instance;
 
     void Awake()
@@ -57,6 +56,10 @@ public class ExamplesManager : MonoBehaviour
                     ContentPanelExample[j].btnExample.GetComponent<AudioSource>().clip = dataExamples[i].scriptableList[j].audio;
                     ContentPanelExample[j].nameExample.text = dataExamples[i].scriptableList[j].name;
 
+                    if (ContentPanelExample[j].nameExampleEspanol == null)
+                    {
+                        ContentPanelExample[j].nameExampleEspanol.text = dataExamples[i].scriptableList[j].nameEspanol;
+                    }
                     AudioSource audio = ContentPanelExample[j].btnExample.GetComponent<AudioSource>();
                     if (audio != null)
                     {
@@ -87,6 +90,7 @@ public class ItemExamples
     public Image imageExample;
     public Button btnExample;
     public Text nameExample;
+    public Text nameExampleEspanol;
 }
 
 [System.Serializable]
@@ -95,6 +99,7 @@ public class ExampleD
     public Sprite image;
     public AudioClip audio;
     public string name;
+    public string nameEspanol;
 
 }
 

@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: AnimalesSonidosC
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "\xBFQu\xE9 animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 7cd959374e213b846b9adeacd8418750, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "B\u01D0tx"
+    - "B\xE8ld"
+    - "Bz\xECn"
+    correctAns: "B\u01D0tx"
+  - questionInfo: "\xBFQu\xE9 animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 6ac660a6ee299824088c285657267988, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "B\u01D0tx"
+    - "B\xE8'kw"
+    - "B\xE8w"
+    correctAns: "B\xE8'kw"
+  - questionInfo: "\xBFQu\xE9 animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 131acdb9c600f0b44844a931c2c42ba5, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "B\xE8w"
+    - "B\u01CEg"
+    - "B\xE8e'ld"
+    correctAns: "B\xE8e'ld"
+  - questionInfo: "\xBFQu\xE9 animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 74f91ffa253b793408de4811d76a9c9a, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "B\xECzy\xF2o'b"
+    - "B\xE8e'ld"
+    - "B\xE8ld"
+    correctAns: "B\xECzy\xF2o'b"
+  - questionInfo: "\xBFQu\xE9 animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 7c8049e1b7b9c9a4b9b6bfde66d074d2, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "B\xE8'kw"
+    - "B\xE8w"
+    - "B\xE8ld"
+    correctAns: "B\xE8w"
+  - questionInfo: "\xBFQu\xE9 animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 14901685f27286b449e709e9b37d322f, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Bz\u0268\u0301\u0268'"
+    - "B\xE8w"
+    - "B\xE8ld"
+    correctAns: "B\xE8ld"
+  - questionInfo: "\xBFQu\xE9 animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 7772b1f213f100a48a3a3738ff692e27, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "B\xEE"
+    - "Xh\xEDi\u2019l"
+    - "B\u01D0tx"
+    correctAns: "B\xEE"
+  - questionInfo: "\xBFQu\xE9 animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 8fd04830f56952742bdd0cbdd269e61a, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "B\u01CEg"
+    - "Xh\xEDi\u2019l"
+    - "D\u01CEmm"
+    correctAns: "Xh\xEDi\u2019l"
+  - questionInfo: "\xBFQu\xE9 animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 8f4dfaa40bb90e044b60675c606745e7, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Bz\u0268\u0301\u0268\u2019"
+    - "B\u01D0tx"
+    - "B\u01CEg"
+    correctAns: "B\u01CEg"
+  - questionInfo: "\xBFQu\xE9 animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 2c4915f414337114a9b86c8597313c06, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "D\u01CEmm"
+    - "Bz\xECn"
+    - "Br\u01CEw"
+    correctAns: "D\u01CEmm"
+  - questionInfo: "\xBFQu\xE9 animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 69a5be939ac1d1b40afabfe0e2d3d6ee, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "D\u01CEmm"
+    - "G\xFB'n"
+    - "M\u01CEnng\xE8e\u2019l"
+    correctAns: "G\xFB'n"
+  - questionInfo: "\xBFQu\xE9 animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: c15eb64603cbe994faabe4da8db2d44d, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "B\xE8'kw"
+    - "Bz\u0268\u0301\u0268\u2019"
+    - "Bz\xECn"
+    correctAns: "Bz\xECn"
+  - questionInfo: "\xBFQu\xE9 animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 89dac43c650e6df4496da76eba7a48b7, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "M\u01CEnng\xE8e\u2019l"
+    - "B\xECzy\xF2o\u2019b"
+    - "B\xE8e\u2019ld"
+    correctAns: "M\u01CEnng\xE8e\u2019l"
+  - questionInfo: "\xBFQu\xE9 animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: a0c19c6cd3a01764e8a5a542b9151b92, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "B\xE8w"
+    - "Bz\xECn"
+    - "Bz\u0268\u0301\u0268'"
+    correctAns: "Bz\u0268\u0301\u0268'"
+  - questionInfo: "\xBFQu\xE9 animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 6385e69ccdb563948ac96a00f23a64ff, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Br\u01CEw"
+    - "B\u01CEg"
+    - "B\u01D0tx"
+    correctAns: "Br\u01CEw"
+  - questionInfo: "\xBFQu\xE9 animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 2d0364f54d4d590429af6a57c9eff91d, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Bz\u0268\u0301\u0268\u2019"
+    - "Bz\u0268\u0300z"
+    - "G\xFB'n"
+    correctAns: "Bz\u0268\u0300z"
+  - questionInfo: "\xBFQu\xE9 animal escuchas?"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 0e3cc8d0ca3dcc24e82d7d7b4dcaecca, type: 3}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "Br\u01CEw"
+    - "Bz\u0268\u0300z"
+    - "Bz\u011Bny"
+    correctAns: "Bz\u011Bny"
