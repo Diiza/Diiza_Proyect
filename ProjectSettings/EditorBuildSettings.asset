@@ -17,11 +17,40 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 352116416a14285488c31abcffee4a0d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Alfabeto/Alfabeto.unity
     guid: c87cf1baa9818614abd4ffb1bf45fdb1
+<<<<<<< HEAD
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Animales/PartesAnimales.unity
+=======
   - enabled: 1
     path: Assets/Scenes/PartesAnimales/PartesAnimales.unity
+>>>>>>> 8cdd90d6e4ea84bc3e9fe679c2cb2b3525487ace
     guid: 46a8054ac1eee4b4999e39fc6e7d98a8
   - enabled: 1
     path: Assets/Scenes/Casa/PartesCasa.unity
