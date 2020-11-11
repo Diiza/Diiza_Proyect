@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal/MenuFinal.unity
+    guid: 0b953616a99932d4fb16d22014792cb6
   - enabled: 0
     path: Assets/Scenes/EjercicioPalabras/Numeros/EjercicioPalabrasNumeros.unity
     guid: d1b9e69fb7bafcc4d90baa4bb1bbc629
@@ -27,7 +30,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Cuerpo/TeoriaCuerpo.unity
     guid: abb3294659b88244f88f991d2ea20d8d
   - enabled: 1
-    path: Assets/Scenes/MenuPrincipal/MenuPrincipal.unity
+    path: Assets/Scenes/MenuPrincipal/MenuSustantivos.unity
     guid: 8d98bdcebd3169f45a19c513652e1e3d
   - enabled: 1
     path: Assets/Scenes/PartesArbol/PartesArbol.unity
@@ -44,9 +47,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Frutas/Frutas.unity
     guid: 7fe739187a077ca488a500cc0669bb0c
-  - enabled: 1
-    path: Assets/Quiz/Quiz.unity
-    guid: b678a1182b1164345bc5cd886a8f5dcd
   - enabled: 1
     path: Assets/Scenes/Diccionario/MenuDic.unity
     guid: eb6cc12bc0e1d4442bb43d15fcce27d2
@@ -137,10 +137,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Tonos/TonosReglasBasicas.unity
     guid: 06563986025abba408dd10ade14560b8
-  - enabled: 0
-    path: Assets/Scenes/MenuPrincipal/MenuFinal.unity
-    guid: 0b953616a99932d4fb16d22014792cb6
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Consonantes/ConsonantesReglasBasicas.unity
     guid: eeedab7a3766caa499b4fb1940fe33a1
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal/MenuCuadernillo.unity
+    guid: b9e1717f5ed4fd446a08035d940d3a6e
   m_configObjects: {}

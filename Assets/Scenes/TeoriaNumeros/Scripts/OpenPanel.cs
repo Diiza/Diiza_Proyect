@@ -13,6 +13,7 @@ public class OpenPanel : MonoBehaviour
     float posFinal;
     bool abrirMenu = true;
     public float tiempo = 0.5f;
+    
     void Start()
     {
         for (int i = 0; i < salir.Count; i++)
@@ -76,10 +77,21 @@ public class OpenPanel : MonoBehaviour
         switch (btn.name)
         {
             case "SalirMP":
-                MoverMenu2(tiempo, subMenu.position, new Vector3(-1 * posFinal, subMenu.position.y, 0));
-                MoverMenu(tiempo, subMenu2.position, new Vector3(-1 * posFinal, subMenu2.position.y, 0));
-                SMenu.SetActive(false);
-                PrincipalMenu.SetActive(true);
+                if (BanderaNumeros.bandera3 == 1)
+                {
+                    BanderaNumeros.bandera3 = 0;
+                    MoverMenu2(tiempo, subMenu.position, new Vector3(-1 * posFinal, subMenu.position.y, 0));
+                    MoverMenu(tiempo, subMenu2.position, new Vector3(-1 * posFinal, subMenu2.position.y, 0));
+                    SceneManager.LoadScene("MenuFinal");
+                }
+                else
+                {
+                    MoverMenu2(tiempo, subMenu.position, new Vector3(-1 * posFinal, subMenu.position.y, 0));
+                    MoverMenu(tiempo, subMenu2.position, new Vector3(-1 * posFinal, subMenu2.position.y, 0));
+                    SMenu.SetActive(false);
+                    PrincipalMenu.SetActive(true);
+                }
+                
                 break;
             case "SalirSM":
                 MoverMenu(tiempo, subMenu2.position, new Vector3(-1 * posFinal, subMenu2.position.y, 0));

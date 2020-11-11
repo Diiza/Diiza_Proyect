@@ -20,6 +20,7 @@ public class Game : MonoBehaviour
     private void Start()
     {
         //add the listner to all the buttons
+       
         if (Transicion.bandera == 1)
         {
             PrincipalMenu.SetActive(false);
@@ -34,7 +35,15 @@ public class Game : MonoBehaviour
             panelopen.ButtonMenu();
             BtnAtrasMenuJuegos.bandera2 = 0;
         }
-        for (int i = 0; i < options.Count; i++)
+        if (BanderaNumeros.bandera3 == 1)
+        {
+            PrincipalMenu.SetActive(false);
+            SMenu.SetActive(true);
+            transicion.ButtonMenu();
+            tecla = 2;
+        }
+    
+            for (int i = 0; i < options.Count; i++)
         {
             Button localBtn = options[i];
             localBtn.onClick.AddListener(() => OnClic(localBtn, tecla));
@@ -53,19 +62,13 @@ public class Game : MonoBehaviour
     /// </summary>
     /// <param name="btn">ref to the button object</param>
     void OneClick(Button btn)
-    {
-        
+    {            
         switch (btn.name)
         {
             case "BtnAlfabeto":
                 PrincipalMenu.SetActive(false);
                 SMenu.SetActive(true);
                 tecla = 1;
-                break;
-            case "BtnNumeros":
-                PrincipalMenu.SetActive(false);
-                SMenu.SetActive(true);
-                tecla = 2;
                 break;
             case "BtnCuerpo":
                 PrincipalMenu.SetActive(false);

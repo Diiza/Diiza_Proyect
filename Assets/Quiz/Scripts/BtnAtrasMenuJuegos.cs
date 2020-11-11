@@ -11,7 +11,7 @@ public class BtnAtrasMenuJuegos : MonoBehaviour
     public void RestryButton()
     {
         bandera2 = 1;
-        SceneManager.LoadScene("MenuPrincipal");
+        SceneManager.LoadScene("MenuSustantivos");
         //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
     public void Escena(string nombre)

@@ -56,7 +56,7 @@ public class Transicion : MonoBehaviour
     public void BtnRegresar()
     {
         bandera = 1;
-        SceneManager.LoadScene("MenuPrincipal");
+        SceneManager.LoadScene("MenuSustantivos");
     }
     
 }

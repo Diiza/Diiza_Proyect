@@ -92,6 +92,7 @@
     <Compile Include="Assets\Scenes\Alfabeto\Vocales\Scripts\ExamplesManager.cs" />
     <Compile Include="Assets\Scenes\Alfabeto\Vocales\Scripts\ScriptableExamples.cs" />
     <Compile Include="Assets\Scenes\MenuPrincipal\Herramientas\Game.cs" />
+    <Compile Include="Assets\Scenes\TeoriaNumeros\Scripts\BanderaNumeros.cs" />
     <Compile Include="Assets\Scenes\TeoriaNumeros\Scripts\OpenPanel.cs" />
     <Compile Include="Assets\Scenes\TeoriaNumeros\Scripts\QData.cs" />
     <Compile Include="Assets\Scenes\TeoriaNumeros\Scripts\QGame.cs" />
