@@ -734,6 +734,52 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 267568099}
   m_CullTransparentMesh: 0
+--- !u!1 &304340868
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 304340870}
+  - component: {fileID: 304340869}
+  m_Layer: 0
+  m_Name: Movimiento
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &304340869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 304340868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 265200b9293b9a440a259cc8b20d7ba6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Salir: {fileID: 1673845466}
+  subMenu: {fileID: 1811785084}
+  tiempo: 0.5
+--- !u!4 &304340870
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 304340868}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 867.7366, y: 843.8173, z: -26.5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &335999751
 GameObject:
   m_ObjectHideFlags: 0
@@ -1507,7 +1553,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   quizManager: {fileID: 104252655}
-  transicion: {fileID: 0}
+  transicion: {fileID: 304340869}
   mainMenu: {fileID: 143231186}
   gamePanel: {fileID: 1811785083}
   questionImg: {fileID: 171037405}
