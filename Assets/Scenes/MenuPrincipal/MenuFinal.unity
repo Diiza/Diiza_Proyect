@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311912, g: 0.3807398, b: 0.3587271, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -601,6 +601,7 @@ GameObject:
   - component: {fileID: 825318245}
   - component: {fileID: 825318244}
   - component: {fileID: 825318243}
+  - component: {fileID: 825318246}
   m_Layer: 5
   m_Name: PortadaButton
   m_TagString: Untagged
@@ -702,6 +703,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 825318241}
   m_CullTransparentMesh: 0
+--- !u!114 &825318246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 825318241}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bede5f1145cb5d45bef4edba4c6d8ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nomEscena: Portada
 --- !u!1001 &951103747
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1572,3 +1586,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1038728d1e7b23478f0d1a2fbe74cbd, type: 3}
+--- !u!1 &6186749175423713594 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6186749176187429851, guid: b1038728d1e7b23478f0d1a2fbe74cbd,
+    type: 3}
+  m_PrefabInstance: {fileID: 6186749175423713593}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &6186749175423713595
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6186749175423713594}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bede5f1145cb5d45bef4edba4c6d8ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nomEscena: Menu_Alfabeto

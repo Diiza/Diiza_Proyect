@@ -1015,9 +1015,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Los tonos son las melod\xEDas que cambian el significado de las palabras
-    en el zapoteco, porque dos palabras escritas con las mismas vocales y consonantes
-    se diferenc\xEDan por el tono.\n"
+  m_Text: '-Los tonos cambian el significado de las palabras , del Zapoteco, escritas
+    con las mismas vocales y consonantes.
+
+
+    -Todas las vocales deben de acenturase
+
+'
 --- !u!222 &864134092
 CanvasRenderer:
   m_ObjectHideFlags: 0

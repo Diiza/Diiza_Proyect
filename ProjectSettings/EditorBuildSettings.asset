@@ -134,4 +134,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Vocales/Vocales.unity
     guid: 439f689be69dfbd4aa61849767519b47
+  - enabled: 1
+    path: Assets/Scenes/Portada.unity
+    guid: fd9a905d9d52ad74996a0fe4ea13e62d
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Menu_Alfabeto.unity
+    guid: b9aa320c8d26f0044b6ac31c390e98fa
   m_configObjects: {}
