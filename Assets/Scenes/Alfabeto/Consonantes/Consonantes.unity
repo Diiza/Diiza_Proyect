@@ -868,7 +868,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Las consonantes f y j s\xF3lo aparecen en palabras tomadas como pr\xE9stamo
+  m_Text: "Las consonantes f y j solo aparecen en palabras tomadas como pr\xE9stamo
     del espa\xF1ol.\n\nEjemplos:\n\n*Jirafa: J\xECr\xE2f\n*Foco: F\xF4k\n\n"
 --- !u!222 &206635085
 CanvasRenderer:

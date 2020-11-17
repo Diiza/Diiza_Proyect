@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f91c85ee7aaaee498de492bd97c932c, type: 3}
+  m_Name: Altos
+  m_EditorClassIdentifier: 
+  modelsList:
+  - {fileID: 11400000, guid: c40f6879d67ae8146807763d3acdc325, type: 2}
+  - {fileID: 11400000, guid: e69e33fdbb1230a40ad5f0961e959253, type: 2}
+  - {fileID: 11400000, guid: 55234894757dae24b841209938d2c19e, type: 2}
+  - {fileID: 11400000, guid: ea8f4190cdee52149b7daba8d6db39e0, type: 2}
+  - {fileID: 11400000, guid: 4a807549472b63b4e8d5438867c45f69, type: 2}

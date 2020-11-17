@@ -1015,11 +1015,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '-Los tonos cambian el significado de las palabras , del Zapoteco, escritas
-    con las mismas vocales y consonantes.
+  m_Text: '-Los tonos cambian el significado de las palabras que escritas con las
+    mismas consonantes y vocales.
 
 
-    -Todas las vocales deben de acenturase
+    -Todas las vocales deben de llevar tono escrito
 
 '
 --- !u!222 &864134092
