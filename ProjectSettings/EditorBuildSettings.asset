@@ -152,4 +152,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Cuadernillo/Alfabeto/Vocales/VocalesAR.unity
     guid: 35c308920bb311c4c9874305a7fcd0bb
+  - enabled: 1
+    path: Assets/Scenes/Cuadernillo/Actividades.unity
+    guid: 74dc83839a56821448b3223d2eff6626
   m_configObjects: {}

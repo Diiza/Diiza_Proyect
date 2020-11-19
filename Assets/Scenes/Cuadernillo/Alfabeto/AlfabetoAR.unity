@@ -753,7 +753,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3bede5f1145cb5d45bef4edba4c6d8ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nomEscena: Menu_Alfabeto
+  nomEscena: Actividades
 --- !u!114 &1105930632
 MonoBehaviour:
   m_ObjectHideFlags: 0
