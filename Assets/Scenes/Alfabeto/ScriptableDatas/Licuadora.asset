@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Licuadora
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 1da35e1bc5815ce4ab786fc9b302fd8c, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: da283bdfa77bd984baf43782bfb94901, type: 3}
   nameZapoteco: "L\xECkw\xE0d\xF4r"
   nameEspanol: Licuadora

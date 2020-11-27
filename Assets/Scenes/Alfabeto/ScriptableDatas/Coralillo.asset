@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Coralillo
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: e5e3b9dac6a90484ebcb122475a45677, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: ffbe6567eb84a754f89f3febb2d7df35, type: 3}
   nameZapoteco: "B\xECzy\xF2o\u2019b"
   nameEspanol: Coralillo

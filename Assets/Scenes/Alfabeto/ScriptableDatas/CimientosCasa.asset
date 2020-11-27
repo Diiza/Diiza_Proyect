@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: CimientosCasa
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: d6b0894e1fc99134d9c2c120abbd866d, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: c48dfe79201795343b0e593708f54e4e, type: 3}
   nameZapoteco: "N\xEC' y\xF9'"
   nameEspanol: Cimientos de Casa

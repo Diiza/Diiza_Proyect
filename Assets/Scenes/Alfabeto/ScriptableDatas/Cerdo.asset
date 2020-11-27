@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Cerdo
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 0cb6373f8dd71c94bbaec121cb447ff9, type: 3}
-  audio: {fileID: 8300000, guid: a353a179d093a76468db6665544b7ec7, type: 3}
+  audio: {fileID: 8300000, guid: 53bcefc2ab5089c469d93b9767cd97cd, type: 3}
   nameZapoteco: "K\u01D4tx"
   nameEspanol: Cerdo/Marrano

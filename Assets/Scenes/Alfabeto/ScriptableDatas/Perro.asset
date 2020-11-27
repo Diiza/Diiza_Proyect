@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Perro
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 97f2915ea5959714f8a7f3b87db2a4f0, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 9122a945878d6724cb919d9dcd822ad7, type: 3}
   nameZapoteco: "B\xE8'kw"
   nameEspanol: Perro

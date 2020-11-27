@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Cinco
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 5dc4c73f4a593d14890e5e8cea37fe15, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 6e02a75abdcb4bf4fb8bd2fb2c794ebb, type: 3}
   nameZapoteco: "G\xE0a\u2019y"
   nameEspanol: Cinco

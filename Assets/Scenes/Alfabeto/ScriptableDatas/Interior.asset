@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Interior
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 120d99a7d2b14b24db993e9a97d398a9, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 30ade774ed7d74443b4deaec03ad36b7, type: 3}
   nameZapoteco: "L\xE0'ny\xF9'"
   nameEspanol: Interior de casa

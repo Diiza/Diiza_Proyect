@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Puerta
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: cbf2c1ec470141a4e883fd5099a99d3b, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: a523bc40dd8d9dd4c91934193250d0f8, type: 3}
   nameZapoteco: "Pw\u011Brt"
   nameEspanol: Puerta

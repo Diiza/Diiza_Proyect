@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Cuaderno
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 70051869615aabd448191d7c5449c235, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 3807331bc181f474f9c831a557a0928d, type: 3}
   nameZapoteco: "Kw\xE0d\u011Br"
   nameEspanol: Cuaderno

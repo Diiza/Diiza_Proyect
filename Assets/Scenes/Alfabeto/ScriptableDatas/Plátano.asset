@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: "Pl\xE1tano"
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 73a92a6b76a46464f97063c709b5771e, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 5d44ae8da0bd25a42843fb21f782bbaf, type: 3}
   nameZapoteco: "Bdw\xE0a\u2019"
   nameEspanol: "Pl\xE1tano"

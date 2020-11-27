@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Ropa
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 52b6b7e7e276af245aba203dca42723b, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 91ad2b6373fe841479e42e543beba167, type: 3}
   nameZapoteco: "L\xE0dy"
   nameEspanol: Ropa

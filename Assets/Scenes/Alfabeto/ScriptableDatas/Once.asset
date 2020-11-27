@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Once
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: d8ac1c185ac294947aedeba3be66b5ce, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 3c24c0998d8b5ba4381d1512a9307af2, type: 3}
   nameZapoteco: "Ts\u0268\u0300\u0268\u2019pt\xFBby "
   nameEspanol: Once

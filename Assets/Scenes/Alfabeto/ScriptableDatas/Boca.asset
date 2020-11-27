@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Boca
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: b8a6898d562e54745be740876fc7951d, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: d9b3674e70d692a449418078ebafc6a4, type: 3}
   nameZapoteco: "R\xF9'b\xED"
   nameEspanol: "Boca de \xE9l/ella"

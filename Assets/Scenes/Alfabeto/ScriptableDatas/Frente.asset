@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Frente
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: f1cee36e0c4c157448c5c9026e836af2, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 96e7b22c52b53094e97209c55418813a, type: 3}
   nameZapoteco: "L\xF2kw\xE0b\xED"
   nameEspanol: "Frente de \xE9l/ella"

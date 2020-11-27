@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Tumba
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 0d5415ae91b80a844bfb1302f85084fb, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 0d74db0fb53d2574687aaaf888c171d0, type: 3}
   nameZapoteco: "B\xE0a\u2019"
   nameEspanol: Tumba

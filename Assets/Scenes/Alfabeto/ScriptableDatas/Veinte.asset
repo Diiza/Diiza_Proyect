@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Veinte
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 0f759b6ee036ecb48a02e183985252e0, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 6835d932ac94e634d8094b82ef41d8d2, type: 3}
   nameZapoteco: "G\u01CEld"
   nameEspanol: Veinte

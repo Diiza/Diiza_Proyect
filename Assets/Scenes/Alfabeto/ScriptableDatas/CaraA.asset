@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: CaraA
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 83f2438d4876763418aa34a6e6afbb54, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 6a61991a6e4de7b4aafcf07681d83315, type: 3}
   nameZapoteco: "L\xF2m\xE1"
   nameEspanol: Cara del animal

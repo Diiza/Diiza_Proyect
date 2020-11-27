@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: "Pi\xF1a"
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: c0469b0d089b198488ab71b0dfc8ce03, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: e16cf54b023c27d47b5e50fe01194f62, type: 3}
   nameZapoteco: "X\xEEi\u2019xh"
   nameEspanol: "Pi\xF1a"

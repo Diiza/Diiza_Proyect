@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Ojo
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 50938b64e805fbd47a8c8e7eb6bdaa25, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: fed9a309192d27d4987850fbb7f92159, type: 3}
   nameZapoteco: "Bz\xE0l\xF2b\xED"
   nameEspanol: "Ojo de \xE9l/ella"

@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Nueve
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 3e11b3a3638421f46a5d20782155add0, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 8f8f74d329431c04bb565db8f7ecae4b, type: 3}
   nameZapoteco: "G\xE0a\u2019"
   nameEspanol: Nueve

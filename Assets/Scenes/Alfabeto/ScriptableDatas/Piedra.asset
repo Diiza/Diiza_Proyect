@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Piedra
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 17cbfa5a4aff7834d888a113b79e50cb, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 7568c8c8b0f06be45a205a7251c0abe3, type: 3}
   nameZapoteco: "Gy\xE8"
   nameEspanol: Piedra

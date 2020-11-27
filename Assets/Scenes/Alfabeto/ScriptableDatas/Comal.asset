@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Comal
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: ff5fa50fd18d6d347b04b7b28a9cb93f, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 38cb58a140810c24897ee37011a2854a, type: 3}
   nameZapoteco: "S\xE8ly"
   nameEspanol: Comal

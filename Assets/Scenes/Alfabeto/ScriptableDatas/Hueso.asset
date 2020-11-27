@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Hueso
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 1a63c656c738318419448e4b5375a4eb, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 883bc74ca782ad948b7e5ef7346b8f30, type: 3}
   nameZapoteco: "S\u0268t\u0300"
   nameEspanol: Hueso

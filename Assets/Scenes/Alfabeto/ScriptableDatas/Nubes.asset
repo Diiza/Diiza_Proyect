@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Nubes
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: e82279e914e4483449df8346110e4bcd, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: c4c239cf1ed98a94a81cfedc8c9c1119, type: 3}
   nameZapoteco: "Xk\u01CEy"
   nameEspanol: Nube

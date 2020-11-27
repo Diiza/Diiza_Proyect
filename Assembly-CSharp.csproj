@@ -86,6 +86,7 @@
      <Compile Include="Assets\Scenes\Alfabeto\Vocales\Scripts\ScriptableExamples.cs" />
      <Compile Include="Assets\Scenes\Cuadernillo\Alfabeto\Consonantes\Scripts\ARManager.cs" />
      <Compile Include="Assets\Scenes\Cuadernillo\Alfabeto\Consonantes\Scripts\SoData3D.cs" />
+     <Compile Include="Assets\Scenes\Cuadernillo\DescargarCuadernillo.cs" />
      <Compile Include="Assets\Scenes\MenuPrincipal\Herramientas\Game.cs" />
      <Compile Include="Assets\Scenes\TeoriaNumeros\Scripts\BanderaNumeros.cs" />
      <Compile Include="Assets\Scenes\TeoriaNumeros\Scripts\OpenPanel.cs" />

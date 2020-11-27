@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Toro
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: f9f806817bab1e347bb184ea3275bbd2, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: f8ee268996463b441957ad32d3028eda, type: 3}
   nameZapoteco: "G\xFB\u2019n"
   nameEspanol: Toro

@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Tigre_Leon
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 8b38ac1ab32dbf24bb260939c78c7e66, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: b8b54c8b98eb2de44af0084670bcef84, type: 3}
   nameZapoteco: "B\xE8e\u2019z"
   nameEspanol: "Tigre/Le\xF3n"

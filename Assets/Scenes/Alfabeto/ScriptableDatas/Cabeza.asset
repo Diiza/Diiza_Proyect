@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Cabeza
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: b9cb853d155c97e4883a4650bee2e5e0, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: e69c5ab11166f8a4b9dcc9b0f6a887bd, type: 3}
   nameZapoteco: "g\u0268\u0300kyb\xED"
   nameEspanol: "Cabeza de \xE9l/ella"

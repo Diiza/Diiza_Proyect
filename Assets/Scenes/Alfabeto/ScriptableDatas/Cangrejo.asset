@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Cangrejo
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 5bf7999e53ef8624c9aa1a5c55d9dc72, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: ed1b7ef2925c4184ca4e599b6583cd0c, type: 3}
   nameZapoteco: "B\u0268\u0302"
   nameEspanol: Cangrejo

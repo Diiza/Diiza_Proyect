@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Venado
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 67a87be7e79cef147be20f96566bd318, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: c91e742711cf83d42ab8011b8e92d37d, type: 3}
   nameZapoteco: "Bz\u011Bny"
   nameEspanol: Venado

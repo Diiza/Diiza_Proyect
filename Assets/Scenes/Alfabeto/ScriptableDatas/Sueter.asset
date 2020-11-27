@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Sueter
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 88f929e2571d7ee4786614a8ce2b41bc, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 6451a7e236b0bfe4dac6a94b3a1b7dd0, type: 3}
   nameZapoteco: "Sw\xEAt"
   nameEspanol: "Su\xE9ter"

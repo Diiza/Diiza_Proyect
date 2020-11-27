@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Nopal
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 988c0968f00e8c348bbd8fc2a7020fb5, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: e8988ec79fb170f4c9f4377f6b8ca106, type: 3}
   nameZapoteco: "By\u01CEa\u2019"
   nameEspanol: Nopal

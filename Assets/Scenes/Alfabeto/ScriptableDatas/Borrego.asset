@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Borrego
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: b9f67d5939d1b2b42b7fc708804f91e3, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: d31eb5acf65f8374ab4d017aa29a2cfc, type: 3}
   nameZapoteco: "Xh\xEDi\u2019l"
   nameEspanol: Borrego

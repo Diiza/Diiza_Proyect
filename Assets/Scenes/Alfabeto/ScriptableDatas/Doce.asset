@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Doce
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 3f34788c5b9ebf241a754ba4dd3662cb, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: e8dfd392a837a9e4799641c80ebd7af3, type: 3}
   nameZapoteco: "Ts\u0268\u0300\u0268\u2019pty\xF3p"
   nameEspanol: Doce

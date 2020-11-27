@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Pollito
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 14b5789882f94934fa74fe91ac3920b0, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 3fd26b34eb405a044960a62b55685019, type: 3}
   nameZapoteco: "Tx\xEEw"
   nameEspanol: Pollito

@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Nariz
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: f7ae2b45f80ae2842b203df2bc185a5e, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 7dfc0f29d2c73d94e80e8a0d45c50554, type: 3}
   nameZapoteco: "X\xEC'b\xED"
   nameEspanol: "Nariz de \xE9l/ella"

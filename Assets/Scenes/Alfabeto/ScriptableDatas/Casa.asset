@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Casa
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 1fdbfce1b5b247445ab53247becc9cb9, type: 3}
-  audio: {fileID: 0}
-  nameZapoteco: "Y\xF9'"
+  audio: {fileID: 8300000, guid: b312d1cb6e6cb6b449785d32a55663dd, type: 3}
+  nameZapoteco: "Gy\xF9'"
   nameEspanol: Casa

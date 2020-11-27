@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Hongo
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 92d2444aef2d10f4bbde05a783e31478, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: b4b5aa39f0f8ad0408f18dab5708f315, type: 3}
   nameZapoteco: "B\xEA'"
   nameEspanol: Hongo

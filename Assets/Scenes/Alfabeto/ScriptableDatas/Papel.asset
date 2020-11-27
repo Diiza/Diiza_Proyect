@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Papel
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: d86fb0a64012f64448f3a4d73e839fe5, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: afe0a86d18c92654685a02c3adec9ca3, type: 3}
   nameZapoteco: "G\xEC\u2019ts"
   nameEspanol: Papel

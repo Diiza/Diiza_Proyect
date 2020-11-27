@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Metate
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 9dc81a24cb5c8d642b95140f7ab431a9, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 05b5f377c84592744a4c7c55214c2ec6, type: 3}
   nameZapoteco: "G\u011B'ts"
   nameEspanol: Metate

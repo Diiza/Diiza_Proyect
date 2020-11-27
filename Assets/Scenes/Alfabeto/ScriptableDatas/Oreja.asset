@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Oreja
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: b0e9fcc40c80bfe4294a39599f1b01f0, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: cd00855ba1426444abef0edae09a9f8b, type: 3}
   nameZapoteco: "Dy\xE0gb\xED"
   nameEspanol: "Oreja de \xE9l/ella"

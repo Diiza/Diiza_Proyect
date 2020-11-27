@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Guajolote
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 26dae5bd71e94884d963838911a43416, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 66b3f25c3ecd1a84286f746e49456761, type: 3}
   nameZapoteco: "G\u01D4r"
   nameEspanol: Guajolote

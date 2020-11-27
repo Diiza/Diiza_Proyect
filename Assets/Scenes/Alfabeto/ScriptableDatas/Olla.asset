@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Olla
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 8808bbf033d4efa4fb183db9e5614587, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 115a3404ee2a1534b8657d34ea968d7b, type: 3}
   nameZapoteco: "G\xE8s"
   nameEspanol: Olla

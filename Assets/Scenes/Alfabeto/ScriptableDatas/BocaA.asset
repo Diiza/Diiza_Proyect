@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: BocaA
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: f3818fed56062094f91310b213eb389c, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 0afc3ca75fbc8764b8addfeff5365ca7, type: 3}
   nameZapoteco: "R\xF9'm\xE1"
   nameEspanol: Boca del animal

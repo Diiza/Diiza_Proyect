@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Cola
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 7cd0a3bf2b4afbd4aa80cc0cabdf3c25, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: d14ee51b143b2db40aca4837c5d88a1c, type: 3}
   nameZapoteco: "Xb\xE0a'nm\xE1"
   nameEspanol: Cola

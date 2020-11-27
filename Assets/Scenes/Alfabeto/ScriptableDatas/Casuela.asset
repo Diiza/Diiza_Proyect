@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Casuela
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 645f878d5ecaceb49a429fe87019f861, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 22175a223b860fd4b975f58e5fbde353, type: 3}
   nameZapoteco: "Tx\xE0a\u2019"
   nameEspanol: Casuela

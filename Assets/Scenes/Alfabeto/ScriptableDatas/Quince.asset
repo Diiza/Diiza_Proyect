@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Quince
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 8ce2e183f37d8a545bad9210237dc7b4, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 9753b8625271a7642bbbdcdc4c154f0f, type: 3}
   nameZapoteco: "Ts\xE8e\u2019ny"
   nameEspanol: Quince

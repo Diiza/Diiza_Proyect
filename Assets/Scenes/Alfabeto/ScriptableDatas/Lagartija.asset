@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Lagartija
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 588a3fd4d33c57e438860612d44800a7, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: d347fbadeb418b141ae67089a7bc8169, type: 3}
   nameZapoteco: "Br\u01CEw"
   nameEspanol: Lagartija

@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Dos
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 6d3c2cad66c5517448fa26980ea4022f, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: c1e030dc8ddb9334f917871cae5dcc0f, type: 3}
   nameZapoteco: "Ty\u01D2p"
   nameEspanol: Dos

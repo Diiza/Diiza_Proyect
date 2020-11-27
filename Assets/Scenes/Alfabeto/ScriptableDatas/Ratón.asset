@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: "Rat\xF3n"
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 5124f3ee2b608df4da8208bc5efa6f2b, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: e24494b300635d44b996454c25e2477b, type: 3}
   nameZapoteco: "Bz\xECn"
   nameEspanol: "Rat\xF3n"

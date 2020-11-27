@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Cuchillo
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 016c6f1e4b01bcd458afed6c47fcb970, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 4ff82b5fa95309b4d9345fa1fb78900f, type: 3}
   nameZapoteco: "Ptx\xEEl"
   nameEspanol: Cuchillo

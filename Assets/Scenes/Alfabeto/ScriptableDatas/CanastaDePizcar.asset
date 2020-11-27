@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: CanastaDePizcar
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 214ec18a75dff7b43adeebce91c65f2d, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: c8780bcdfb3a4d746a3e0e6c40552274, type: 3}
   nameZapoteco: "Tx\u01D0mm"
   nameEspanol: Canasto para Piscar

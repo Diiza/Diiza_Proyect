@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Jirafa
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 27f98c3b76306b6459a20b5fc8eb2f28, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 45f0b0ce7911a5d4da887634e7495e74, type: 3}
   nameZapoteco: "J\xECr\xE2f"
   nameEspanol: Jirafa

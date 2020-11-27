@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Sol
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: b32216d2a467d474ebd167fefa338157, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 2e5b4b94eddd1fa4c885f7b0c98f32c1, type: 3}
   nameZapoteco: "Wb\xECxh"
   nameEspanol: Sol

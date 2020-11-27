@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Vaca
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 05561627196e9f142aa26d983dfe4b0d, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: e755b33a9f1cf5046b9a48d33c293263, type: 3}
   nameZapoteco: "B\u01CEg"
   nameEspanol: Vaca

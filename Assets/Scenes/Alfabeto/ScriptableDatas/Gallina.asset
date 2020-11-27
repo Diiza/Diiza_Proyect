@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Gallina
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 2e94baf124427cf4b90a4db7f8e159ee, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: a4d56946b608432419b9cbe356339bc5, type: 3}
   nameZapoteco: "G\u01D0dy"
   nameEspanol: Gallina

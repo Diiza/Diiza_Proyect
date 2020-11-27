@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Carne
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 193080a8ee93a89488045e3afaecb97d, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 4c1cbe6677965df4689a8fcfb4ce52e5, type: 3}
   nameZapoteco: "B\u011Be\u2019l"
   nameEspanol: Carne

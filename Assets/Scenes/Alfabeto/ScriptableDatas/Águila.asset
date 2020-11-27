@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: "\xC1guila"
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 662dc450862bd294081d1c1152e0638a, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 0a74a179080377045b52b25d53496eea, type: 3}
   nameZapoteco: "Bzy\xE8"
   nameEspanol: "\xC1guila"

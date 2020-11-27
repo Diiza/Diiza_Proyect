@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Abeja
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 6d7d829dda834bd44be8f94d86bb4aa2, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: c67021a70f67c874f923f09c0e731911, type: 3}
   nameZapoteco: "B\xE0s\xEAr"
   nameEspanol: Abeja

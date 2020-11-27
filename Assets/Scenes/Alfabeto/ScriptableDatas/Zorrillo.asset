@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Zorrillo
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 543c03184f2d40948a798567dbdaab22, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 584b83b2b7fb3ae4c86dc29fc7f7796d, type: 3}
   nameZapoteco: "B\xE8\u2019t"
   nameEspanol: Zorrillo

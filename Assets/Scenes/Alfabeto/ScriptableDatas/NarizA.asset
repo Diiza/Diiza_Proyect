@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: NarizA
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 739990d9c7f084642bc745754053f4a8, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 4ca2fa3470e1de74caa95069771d5032, type: 3}
   nameZapoteco: "X\xEC'm\xE1"
   nameEspanol: Nariz del Animal

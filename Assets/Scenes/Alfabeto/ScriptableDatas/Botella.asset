@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Botella
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 94ba463b686634d4b9f4cde248779ff7, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 3e32bb363ca5aba4ab5f753cbd8b7766, type: 3}
   nameZapoteco: "M\u0268\u0300dy"
   nameEspanol: Botella

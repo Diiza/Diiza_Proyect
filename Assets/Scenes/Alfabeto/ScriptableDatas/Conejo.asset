@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Conejo
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: dbffc91d1d409d84fb79599927407b4f, type: 3}
-  audio: {fileID: 0}
-  nameZapoteco: "K\xF9n\xEAjw"
+  audio: {fileID: 8300000, guid: 8d40d245941408341ba11560ebcf0df5, type: 3}
+  nameZapoteco: "K\xF2n\xEAjw"
   nameEspanol: Conejo

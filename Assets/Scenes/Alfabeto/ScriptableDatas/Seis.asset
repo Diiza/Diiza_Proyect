@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Seis
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: b9a20060f7dde5146b1e54b51ba3b069, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 7520c95c92691c44ea7dc58d3cc471eb, type: 3}
   nameZapoteco: "Xh\xF2'p"
   nameEspanol: Seis

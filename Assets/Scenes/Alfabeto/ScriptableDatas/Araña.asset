@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: "Ara\xF1a"
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 50d647756ff57b04cb40d3f6943854b1, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 7cdff73a5f7b99e46bad1f97816ab487, type: 3}
   nameZapoteco: "Bz\u0268\u0301\u0268\u2019"
   nameEspanol: "Ara\xF1a"

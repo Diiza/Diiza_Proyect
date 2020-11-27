@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Diez
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 7294827cf27380243a085a623e8bfc2d, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 215daf797fda8ac4f96c9c6bff4b99c6, type: 3}
   nameZapoteco: "Ts\u0268\u0300\u0268\u2019"
   nameEspanol: Diez

@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Ocho
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: ee830d7210d06af4ca2f1402bb23683a, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: ee8f3468e9666364e8051d9ff67e7805, type: 3}
   nameZapoteco: "Xh\u01D4n"
   nameEspanol: Ocho

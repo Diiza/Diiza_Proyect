@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Dieciocho
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 9c15b2c89304a81438c47daeb57e4c38, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 8cd0d0c69adccfb4ea4d3db15c869797, type: 3}
   nameZapoteco: "Ts\xE8e\u2019nyptx\xF3n"
   nameEspanol: Dieciocho

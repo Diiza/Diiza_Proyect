@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Cocodrilo
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 813cf2898508a9a4eb1e8d344ec457c4, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 047ef980f1dd4f64ba4ab37ebd15450e, type: 3}
   nameZapoteco: "B\xE2\u2019nn"
   nameEspanol: Cocodrilo
