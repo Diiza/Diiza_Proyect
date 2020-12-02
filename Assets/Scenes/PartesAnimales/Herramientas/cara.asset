@@ -16,7 +16,7 @@ MonoBehaviour:
   - questionInfo: "L\xF2ma"
     questionType: 2
     questionImage: {fileID: 21300000, guid: b112a865f68bfd04ab04ce5fa26c2253, type: 3}
-    audioClip: {fileID: 8300000, guid: 54e50738e321c264b98f12e243aa1add, type: 3}
+    audioClip: {fileID: 8300000, guid: 6a61991a6e4de7b4aafcf07681d83315, type: 3}
     videoClip: {fileID: 0}
     options:
     - Cara

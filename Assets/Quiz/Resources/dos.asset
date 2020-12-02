@@ -16,7 +16,7 @@ MonoBehaviour:
   - questionInfo: "Ty\u01D2p"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 6d3c2cad66c5517448fa26980ea4022f, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: c1e030dc8ddb9334f917871cae5dcc0f, type: 3}
     videoClip: {fileID: 0}
     options:
     - 

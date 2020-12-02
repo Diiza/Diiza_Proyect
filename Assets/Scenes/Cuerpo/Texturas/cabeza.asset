@@ -16,7 +16,7 @@ MonoBehaviour:
   - questionInfo: "G\u0268\u0300kybi"
     questionType: 2
     questionImage: {fileID: 21300000, guid: b9cb853d155c97e4883a4650bee2e5e0, type: 3}
-    audioClip: {fileID: 8300000, guid: 54e50738e321c264b98f12e243aa1add, type: 3}
+    audioClip: {fileID: 8300000, guid: e69c5ab11166f8a4b9dcc9b0f6a887bd, type: 3}
     videoClip: {fileID: 0}
     options:
     - Cabeza

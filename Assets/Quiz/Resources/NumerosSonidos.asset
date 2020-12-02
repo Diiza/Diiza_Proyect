@@ -16,7 +16,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 6eb82fd2ba1207744bab19f00592626d, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: c2021859f56fae247bc736aff098c8de, type: 3}
     videoClip: {fileID: 0}
     options:
     - "T\u0268\u0300"
@@ -26,7 +26,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 6d3c2cad66c5517448fa26980ea4022f, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: c1e030dc8ddb9334f917871cae5dcc0f, type: 3}
     videoClip: {fileID: 0}
     options:
     - "T\u0268\u0300"
@@ -36,7 +36,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 3d2ab7abcc1e04d4ab3e665333927812, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: c81e854059e060c439b7e8da5347f13f, type: 3}
     videoClip: {fileID: 0}
     options:
     - "Tx\xF3n"
@@ -46,7 +46,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 5c975423698b3ec4784897db1c1a3510, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 615792286be85b94ab880e77444bc9e8, type: 3}
     videoClip: {fileID: 0}
     options:
     - "Xh\xFAm"
@@ -56,7 +56,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 5dc4c73f4a593d14890e5e8cea37fe15, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 6e02a75abdcb4bf4fb8bd2fb2c794ebb, type: 3}
     videoClip: {fileID: 0}
     options:
     - "Xh\xF2'p"
@@ -66,7 +66,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: b9a20060f7dde5146b1e54b51ba3b069, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 7520c95c92691c44ea7dc58d3cc471eb, type: 3}
     videoClip: {fileID: 0}
     options:
     - "Ts\u0268\u0300>"
@@ -76,7 +76,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: da8f124434ffaf749a4aff59924539fb, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: b83bbbae19cb13a4589390abaf456c69, type: 3}
     videoClip: {fileID: 0}
     options:
     - "G\xE1z"
@@ -86,7 +86,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 90f8618575ec12e4e9746052e8527b95, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: ee8f3468e9666364e8051d9ff67e7805, type: 3}
     videoClip: {fileID: 0}
     options:
     - "Ts\u0268\u0300>pt\xFBby"
@@ -96,7 +96,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 3e11b3a3638421f46a5d20782155add0, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 8f8f74d329431c04bb565db8f7ecae4b, type: 3}
     videoClip: {fileID: 0}
     options:
     - "T\u0268\u0300"
@@ -106,7 +106,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 7294827cf27380243a085a623e8bfc2d, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 215daf797fda8ac4f96c9c6bff4b99c6, type: 3}
     videoClip: {fileID: 0}
     options:
     - "G\xE0>y"
@@ -116,7 +116,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: d8ac1c185ac294947aedeba3be66b5ce, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 3c24c0998d8b5ba4381d1512a9307af2, type: 3}
     videoClip: {fileID: 0}
     options:
     - "Ts\u0268\u0300>pt\xFBby"
@@ -126,7 +126,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 3f34788c5b9ebf241a754ba4dd3662cb, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: e8dfd392a837a9e4799641c80ebd7af3, type: 3}
     videoClip: {fileID: 0}
     options:
     - "Xh\xFAm"
@@ -136,7 +136,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: d36bc27544d16904ca3e85fdb593a838, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: feaccc3dcf2a5c542a587d30cfbce5e9, type: 3}
     videoClip: {fileID: 0}
     options:
     - "Ts\xE8>nypty\xFBby"
@@ -146,7 +146,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: e78df0d19c9a07c4fb838cd3040443b6, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: ca01cd98985089a41b01469f7128599d, type: 3}
     videoClip: {fileID: 0}
     options:
     - "Ts\u0268\u0300>d\xE0"
@@ -156,7 +156,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 8ce2e183f37d8a545bad9210237dc7b4, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 9753b8625271a7642bbbdcdc4c154f0f, type: 3}
     videoClip: {fileID: 0}
     options:
     - "Ts\u0268\u0300>pt\xFBby"
@@ -166,7 +166,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 1c3e45db32daa1546821aab40c12269b, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 96bd6747a50c80b49ac3ae84eb26544c, type: 3}
     videoClip: {fileID: 0}
     options:
     - "Ts\xE8>nyptxon"
@@ -176,7 +176,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 9d86cd36d5145a845a61405faf360f6f, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 5826f4efd9990784e910d3b20c4f988b, type: 3}
     videoClip: {fileID: 0}
     options:
     - "Ts\xE8>nypty\xFBby"
@@ -186,7 +186,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 9c15b2c89304a81438c47daeb57e4c38, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 8cd0d0c69adccfb4ea4d3db15c869797, type: 3}
     videoClip: {fileID: 0}
     options:
     - "Ts\xE8>nyptap"
@@ -196,7 +196,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 2ad06a58c9c8a1b4399d615a4b1c25a0, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 1754f165f21b5ad4897f00d3764b7727, type: 3}
     videoClip: {fileID: 0}
     options:
     - "Ts\xE8>nyptap"
@@ -206,7 +206,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 0f759b6ee036ecb48a02e183985252e0, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 6835d932ac94e634d8094b82ef41d8d2, type: 3}
     videoClip: {fileID: 0}
     options:
     - "G\xE0>y"

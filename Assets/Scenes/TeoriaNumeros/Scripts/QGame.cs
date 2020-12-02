@@ -125,11 +125,15 @@ public class QGame : MonoBehaviour
         if (quizManager.GameStatus == StatusJuego.PLAYING)
         {
             audioLength = question.audioClip.length;
-            StartCoroutine(PlayAudio());
+           // StartCoroutine(PlayAudio());
         }
 
         switch (btn.name)
         {
+            case "Option1":
+                audioLength = question.audioClip.length;
+                StartCoroutine(PlayAudio());
+                break;
             case "uno":
                 quizManager.StartGame(0);
                 transicion.ButtonMenu();
@@ -515,6 +519,7 @@ public class QGame : MonoBehaviour
                 transicion.ButtonMenu();
                 break;
         }
+        StartCoroutine(PlayAudio());
     }
     public void RestryButton()
     {

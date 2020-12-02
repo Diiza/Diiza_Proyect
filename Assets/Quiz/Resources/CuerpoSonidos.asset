@@ -16,7 +16,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 parte del cuerpo escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: b9cb853d155c97e4883a4650bee2e5e0, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: e69c5ab11166f8a4b9dcc9b0f6a887bd, type: 3}
     videoClip: {fileID: 0}
     options:
     - "G\u0268\u0300kyb\xED"
@@ -26,7 +26,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 parte del cuerpo escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 445949e5ce728c64e98bf27233de71fd, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: ea4a41dc9729d2c4b81206e481038a42, type: 3}
     videoClip: {fileID: 0}
     options:
     - "L\xE0'mb\xED"
@@ -36,7 +36,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 parte del cuerpo escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: f1cee36e0c4c157448c5c9026e836af2, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 96e7b22c52b53094e97209c55418813a, type: 3}
     videoClip: {fileID: 0}
     options:
     - "L\xF2kw\xE0b\xED"
@@ -46,7 +46,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 parte del cuerpo escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 50938b64e805fbd47a8c8e7eb6bdaa25, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: fed9a309192d27d4987850fbb7f92159, type: 3}
     videoClip: {fileID: 0}
     options:
     - "G\u0268\u0300mb\xED"
@@ -56,7 +56,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 parte del cuerpo escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: f7ae2b45f80ae2842b203df2bc185a5e, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 7dfc0f29d2c73d94e80e8a0d45c50554, type: 3}
     videoClip: {fileID: 0}
     options:
     - "G\u0268\u0300mb\xED"
@@ -66,7 +66,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 parte del cuerpo escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: b0e9fcc40c80bfe4294a39599f1b01f0, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: cd00855ba1426444abef0edae09a9f8b, type: 3}
     videoClip: {fileID: 0}
     options:
     - "L\xF2kw\xE0b\xED"
@@ -76,7 +76,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 parte del cuerpo escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 01221f05c2af8714e94d876a01bd03c7, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 8eaabc50eee81ff45a6177153278aa22, type: 3}
     videoClip: {fileID: 0}
     options:
     - "G\u0268\u0300mb\xED"
@@ -86,7 +86,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 parte del cuerpo escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 5f0f35bd64f246f439cf81f114da49bf, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: b056b44a69227a94a88fc81d443e5fa9, type: 3}
     videoClip: {fileID: 0}
     options:
     - "L\xF2kw\xE0b\xED"
@@ -96,7 +96,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 parte del cuerpo escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 27f5dc1bbfe8dd54599c4ae70ee40c7c, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: b740f470fa286684bb413a841195333b, type: 3}
     videoClip: {fileID: 0}
     options:
     - "N\xEC'b\xED"
@@ -106,7 +106,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 parte del cuerpo escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: d176b5a1dbc359f499ff60a602aba6bf, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 267ecf26d10ee0e4797f0c3ef52beeef, type: 3}
     videoClip: {fileID: 0}
     options:
     - "Bz\xE0l\xF2b\xED"
@@ -116,7 +116,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 parte del cuerpo escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 799ab45f7b7cda24381d11f47d92755c, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 0ed60aee2eb1564439d1ef4f29d6e637, type: 3}
     videoClip: {fileID: 0}
     options:
     - "N\xEC'b\xED"
@@ -126,7 +126,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 parte del cuerpo escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: b8a6898d562e54745be740876fc7951d, type: 3}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: d9b3674e70d692a449418078ebafc6a4, type: 3}
     videoClip: {fileID: 0}
     options:
     - "X\xEC'b\xED"

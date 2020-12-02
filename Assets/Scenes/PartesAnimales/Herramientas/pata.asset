@@ -16,7 +16,7 @@ MonoBehaviour:
   - questionInfo: "N\xEC'ma"
     questionType: 2
     questionImage: {fileID: 21300000, guid: b9a4eb30296eee14893d0792091476e7, type: 3}
-    audioClip: {fileID: 8300000, guid: 54e50738e321c264b98f12e243aa1add, type: 3}
+    audioClip: {fileID: 8300000, guid: 60ec3ca12de12e2408933fbd75415dca, type: 3}
     videoClip: {fileID: 0}
     options:
     - Pata

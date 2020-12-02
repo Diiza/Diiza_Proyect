@@ -16,7 +16,7 @@ MonoBehaviour:
   - questionInfo: "L\xF2kw\xE0bi"
     questionType: 2
     questionImage: {fileID: 21300000, guid: f1cee36e0c4c157448c5c9026e836af2, type: 3}
-    audioClip: {fileID: 8300000, guid: 54e50738e321c264b98f12e243aa1add, type: 3}
+    audioClip: {fileID: 8300000, guid: 96e7b22c52b53094e97209c55418813a, type: 3}
     videoClip: {fileID: 0}
     options:
     - Frente

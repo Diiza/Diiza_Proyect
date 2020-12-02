@@ -16,7 +16,7 @@ MonoBehaviour:
   - questionInfo: "Dy\xE0gbi"
     questionType: 2
     questionImage: {fileID: 21300000, guid: b0e9fcc40c80bfe4294a39599f1b01f0, type: 3}
-    audioClip: {fileID: 8300000, guid: 54e50738e321c264b98f12e243aa1add, type: 3}
+    audioClip: {fileID: 8300000, guid: cd00855ba1426444abef0edae09a9f8b, type: 3}
     videoClip: {fileID: 0}
     options:
     - Oreja

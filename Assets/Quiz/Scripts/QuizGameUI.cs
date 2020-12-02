@@ -81,8 +81,8 @@ public class QuizGameUI : MonoBehaviour
                 questionImg.transform.gameObject.SetActive(false);          
                 questionAudio.transform.gameObject.SetActive(false);        
 
-                questionVideo.clip = question.videoClip;                    //poner video clip
-                questionVideo.Play();                                       //play video
+                questionVideo.clip = question.videoClip;                    
+                questionVideo.Play();                                       
                 break;
         }
 
@@ -115,9 +115,11 @@ public class QuizGameUI : MonoBehaviour
         //if questionType is audio
         if (question.questionType == QuestionType.AUDIO)
         {
+            ///////////lol/77777//////////
             questionAudio.PlayOneShot(question.audioClip);
-            yield return new WaitForSeconds(audioLength + 0.5f);
+            yield return new WaitForSeconds(audioLength + 2.5f);
             StartCoroutine(PlayAudio());
+            
         }
         else 
         {
@@ -138,7 +140,7 @@ public class QuizGameUI : MonoBehaviour
             {
                 answered = true;
                 bool val = quizManager.Answer(btn.name);
-                
+
                 if (val)
                 {
                     btn.image.color = correctCol;
