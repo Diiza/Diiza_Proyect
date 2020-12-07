@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311912, g: 0.3807398, b: 0.3587271, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -7419,6 +7419,7 @@ GameObject:
   - component: {fileID: 682159812}
   - component: {fileID: 682159811}
   - component: {fileID: 682159810}
+  - component: {fileID: 682159814}
   m_Layer: 5
   m_Name: MenuButton
   m_TagString: Untagged
@@ -7500,7 +7501,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 682159812}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 682159814}
+        m_MethodName: RestryButton
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &682159812
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7536,6 +7548,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 682159808}
   m_CullTransparentMesh: 0
+--- !u!114 &682159814
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 682159808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 961e29b737e668c409bb7c3ca501cc64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &759850095
 GameObject:
   m_ObjectHideFlags: 0
@@ -14382,10 +14406,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 2069335748}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3bede5f1145cb5d45bef4edba4c6d8ca, type: 3}
+  m_Script: {fileID: 11500000, guid: 961e29b737e668c409bb7c3ca501cc64, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nomEscena: Ejercicios_Menu
 --- !u!114 &2069335751
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14440,7 +14463,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2069335753}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2069335750}
+        m_MethodName: RestryButton
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2069335753
 MonoBehaviour:
   m_ObjectHideFlags: 0

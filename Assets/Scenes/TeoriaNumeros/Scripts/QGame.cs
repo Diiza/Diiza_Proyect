@@ -130,10 +130,10 @@ public class QGame : MonoBehaviour
 
         switch (btn.name)
         {
-            case "Option1":
+            /*case "Option1":
                 audioLength = question.audioClip.length;
                 StartCoroutine(PlayAudio());
-                break;
+                break;*/
             case "uno":
                 quizManager.StartGame(0);
                 transicion.ButtonMenu();

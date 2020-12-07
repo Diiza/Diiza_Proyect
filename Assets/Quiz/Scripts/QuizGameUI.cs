@@ -248,31 +248,31 @@ public class QuizGameUI : MonoBehaviour
                 }
                 if (Game.tecla == 3)
                 {
-                    Escena("");
+                    Escena("EjercicioPartesCuerpo");
                 }
                 if (Game.tecla == 4)
                 {
-                    Escena("");
+                    Escena("EjercicioPartesCasa");
                 }
                 if (Game.tecla == 5)
                 {
-                    Escena("");
+                    Escena("EjercicioPartesAnimales");
                 }
                 if (Game.tecla == 6)
                 {
-                    Escena("");
+                    Escena("EjercicioPartesArbol");
                 }
                 if (Game.tecla == 7)
                 {
-                    Escena("");
+                    Escena("EjerciciosAnimales");
                 }
                 if (Game.tecla == 8)
                 {
-                    Escena("");
+                    Escena("EjerciciosFrutas");
                 }
                 if (Game.tecla == 9)
                 {
-                    Escena("");
+                    Escena("EjerciciosCosas");
                 }
                 break;
         }
