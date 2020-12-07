@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Laringizadas2
   m_EditorClassIdentifier: 
   scriptableList:
-  - {fileID: 11400000, guid: 8907656130ba0a34192f211ccafc46ae, type: 2}
-  - {fileID: 11400000, guid: 938f6fd2931be354ea6c760214ec29f4, type: 2}
-  - {fileID: 11400000, guid: 85b1d4a3235bb1140a32fc1e6b420e40, type: 2}
-  - {fileID: 11400000, guid: d2a14c06ed7d6a048a0fb0197b903380, type: 2}
-  - {fileID: 11400000, guid: c79341caad95a144f9a31f21428aa53d, type: 2}
+  - {fileID: 11400000, guid: 3417bfdff73776c4092b686fd80cf2ca, type: 2}
+  - {fileID: 11400000, guid: 8dd1ecde9cb78a14fa68b3be5cfe8687, type: 2}
+  - {fileID: 11400000, guid: 55234894757dae24b841209938d2c19e, type: 2}
+  - {fileID: 11400000, guid: bdfe181b3803fdc4c9d26b7524ea2e37, type: 2}
+  - {fileID: 11400000, guid: a01e18d45a595b84185749be0add776d, type: 2}

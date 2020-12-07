@@ -5,112 +5,112 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Portada.unity
     guid: fd9a905d9d52ad74996a0fe4ea13e62d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MenuPrincipal/MenuFinal.unity
     guid: 0b953616a99932d4fb16d22014792cb6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MenuPrincipal/MenuSustantivos.unity
     guid: 8d98bdcebd3169f45a19c513652e1e3d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MenuPrincipal/MenuCuadernillo.unity
     guid: b9e1717f5ed4fd446a08035d940d3a6e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Animales/Animales.unity
     guid: db0ff8ffcef267d40b61c611bd429a85
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Casa/PartesCasa.unity
     guid: 353ea3ada09fa684bb78808388b94ebf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Cosas/Cosas.unity
     guid: f16850dd682a70e478096c087bf6a80f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Cuerpo/TeoriaCuerpo.unity
     guid: abb3294659b88244f88f991d2ea20d8d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Diccionario/MenuDic.unity
     guid: eb6cc12bc0e1d4442bb43d15fcce27d2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Diccionario/ModelosA.unity
     guid: 0cedf9b1a96f3844da40bdc0fcb762a9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Diccionario/ModelosB.unity
     guid: 4d934d54035b6f5429ec333d4e30fe97
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Diccionario/ModelosC.unity
     guid: 5f75ad8158a2e4f43b5daa05839c59b5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Diccionario/ModelosE.unity
     guid: 1d4ae7930e6a9a94583357a73203d713
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Diccionario/ModelosF.unity
     guid: e24ebdee30ea30443bb3de8baba87e25
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Diccionario/ModelosG.unity
     guid: e1c8180563d33c64e832d8a14bc21137
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Diccionario/ModelosH.unity
     guid: b2616cd3f18560f468037b922b3fc1b4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Diccionario/ModelosJ.unity
     guid: bf600fe9f1ff21348b0fc8bd87273e8a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Diccionario/ModelosL.unity
     guid: 501b004719be24742bbbd04df66e7f1a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Diccionario/ModelosM.unity
     guid: eee26c711082df647b4c5449676520fa
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Diccionario/ModelosN.unity
     guid: caeceb3cd0abbdf4c9be460e47521f69
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Diccionario/ModelosO.unity
     guid: 770b8d1d8687024458f06b11f108c198
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Diccionario/ModelosP.unity
     guid: 49e6b7de0cc413f47a3fcdaa11bc9dfa
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Diccionario/ModelosS.unity
     guid: 83828508fad46ea4aafcfac97f897a2d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Diccionario/ModelosT.unity
     guid: 1a2c75ee470291740b99954ae23e7a0a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Diccionario/ModelosV.unity
     guid: 752497750ce1d704bad5de2a2befcdd0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Diccionario/ModelosZ.unity
     guid: 1aa4772917df46b41b529c030e9fef05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Frutas/Frutas.unity
     guid: 7fe739187a077ca488a500cc0669bb0c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PartesAnimales/PartesAnimales.unity
     guid: 46a8054ac1eee4b4999e39fc6e7d98a8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PartesArbol/PartesArbol.unity
     guid: dee54833680b4c84d8af2956a288d5b9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TeoriaNumeros/TeoriaNumeros.unity
     guid: 2cac42db2d3400f4b9f1ae133c6b80f2
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Alfabeto.unity
     guid: c87cf1baa9818614abd4ffb1bf45fdb1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Alfabeto/Consonantes/ConsonantesReglasBasicas.unity
     guid: eeedab7a3766caa499b4fb1940fe33a1
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Consonantes/Consonantes.unity
     guid: 8cdf24ef0a2ec524ba05dba00c23d1ce
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Alfabeto/Ejercicios/Ejercicios_Menu.unity
     guid: 072e02174923f1242b70e0dc1d49d8ca
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Alfabeto/Ejercicios/Ejercicios_Vocales.unity
     guid: da4b431ab0d7e304b90024d82a9bce68
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Alfabeto/Ejercicios/Ejercicios_Consonantes.unity
     guid: 19a4d21300a31a14cbd2b3ecce30f0ce
   - enabled: 1
@@ -131,28 +131,37 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Tonos/TonosReglasBasicas.unity
     guid: 06563986025abba408dd10ade14560b8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Alfabeto/Vocales/VocalesReglasBasicas.unity
     guid: 19f6a9713b269ed4b81124d511378957
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Alfabeto/Vocales/Vocales.unity
     guid: 439f689be69dfbd4aa61849767519b47
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Alfabeto/Menu_Alfabeto.unity
     guid: b9aa320c8d26f0044b6ac31c390e98fa
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Cuadernillo/Alfabeto/AlfabetoAR.unity
     guid: 499e505d3c03a08459fcef9945a40ea2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Cuadernillo/Alfabeto/Consonantes/ConsonantesAR.unity
     guid: ce127f68fb3182144a4342e6ebd18386
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Cuadernillo/Alfabeto/Tonos/TonosAR.unity
     guid: eee5b19cd7ad49a469792e157afcca20
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Cuadernillo/Alfabeto/Vocales/VocalesAR.unity
     guid: 35c308920bb311c4c9874305a7fcd0bb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Cuadernillo/Actividades.unity
     guid: 74dc83839a56821448b3223d2eff6626
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Vocales/Vocales1.unity
+    guid: 6d44bab3e3c43e946a6dd507da971ec9
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Vocales/VocalesReglas.unity
+    guid: 7579533a011494548bec157e3f549116
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Consonantes/Consonantes1.unity
+    guid: a9b1a321b9307e241a8f3e0df1374940
   m_configObjects: {}

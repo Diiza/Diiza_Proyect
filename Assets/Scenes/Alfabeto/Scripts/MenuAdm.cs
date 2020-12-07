@@ -37,11 +37,11 @@ public class MenuAdm : MonoBehaviour
         switch (boton.name)
         {//Depende del nombre de los GO boton
             case "BtnVocales":
-                SceneManager.LoadScene("Vocales");
+                SceneManager.LoadScene("Vocales1");
                 Debug.Log("Escena: Vocales");
                 break;
             case "BtnConsonantes":
-                SceneManager.LoadScene("Consonantes");
+                SceneManager.LoadScene("Consonantes1");
                 Debug.Log("Escena: Consonantes");
                 break;
             case "BtnTonos":
