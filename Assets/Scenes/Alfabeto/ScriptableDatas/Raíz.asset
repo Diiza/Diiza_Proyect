@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: e7cfefdae86611f4f88ac5b5e472e8d1, type: 3}
   audio: {fileID: 8300000, guid: 5586b3c88ac058d4e95ddd381fca3522, type: 3}
-  nameZapoteco: "Xl\xF2b\xE0a' y\xE0g"
+  nameZapoteco: "L\xF2b\xE0a'"
   nameEspanol: "Ra\xEDz"

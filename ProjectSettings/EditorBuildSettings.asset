@@ -104,13 +104,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Consonantes/Consonantes.unity
     guid: 8cdf24ef0a2ec524ba05dba00c23d1ce
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Alfabeto/Ejercicios/Ejercicios_Menu.unity
     guid: 072e02174923f1242b70e0dc1d49d8ca
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Alfabeto/Ejercicios/Ejercicios_Vocales.unity
     guid: da4b431ab0d7e304b90024d82a9bce68
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Alfabeto/Ejercicios/Ejercicios_Consonantes.unity
     guid: 19a4d21300a31a14cbd2b3ecce30f0ce
   - enabled: 1
@@ -129,7 +129,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Alfabeto/Tonos/Tonos_Descendentes.unity
     guid: c9053983878922143aa9ebf1cb279f9a
   - enabled: 1
-    path: Assets/Scenes/Alfabeto/Tonos/TonosReglasBasicas.unity
+    path: Assets/Scenes/Alfabeto/Tonos/TonosEjemplos1.unity
     guid: 06563986025abba408dd10ade14560b8
   - enabled: 0
     path: Assets/Scenes/Alfabeto/Vocales/VocalesReglasBasicas.unity
@@ -137,22 +137,22 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Alfabeto/Vocales/Vocales.unity
     guid: 439f689be69dfbd4aa61849767519b47
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Alfabeto/Menu_Alfabeto.unity
     guid: b9aa320c8d26f0044b6ac31c390e98fa
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Cuadernillo/Alfabeto/AlfabetoAR.unity
     guid: 499e505d3c03a08459fcef9945a40ea2
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Cuadernillo/Alfabeto/Consonantes/ConsonantesAR.unity
     guid: ce127f68fb3182144a4342e6ebd18386
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Cuadernillo/Alfabeto/Tonos/TonosAR.unity
     guid: eee5b19cd7ad49a469792e157afcca20
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Cuadernillo/Alfabeto/Vocales/VocalesAR.unity
     guid: 35c308920bb311c4c9874305a7fcd0bb
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Cuadernillo/Actividades.unity
     guid: 74dc83839a56821448b3223d2eff6626
   - enabled: 1
@@ -188,4 +188,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EjercicioPalabras/PartesCuerpo/EjercicioPartesCuerpo.unity
     guid: 8968dbe86dd08f442b569b7e8f2a3480
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Tonos/Tonos1.unity
+    guid: eede4dbf533d6834eaf49ca4aba67f6e
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Tonos/TonosEjemplos.unity
+    guid: 5145c178825d7e543ba1cba7471faf05
+  - enabled: 1
+    path: Assets/Scenes/Alfabeto/Vocales/VocalesEjemplos.unity
+    guid: f607eb820fa92904fbfa46ea8bf99b8f
   m_configObjects: {}

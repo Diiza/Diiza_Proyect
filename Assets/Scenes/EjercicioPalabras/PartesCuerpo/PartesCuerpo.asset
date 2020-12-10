@@ -15,7 +15,7 @@ MonoBehaviour:
   questions:
   - questionImage: {fileID: 21300000, guid: b9cb853d155c97e4883a4650bee2e5e0, type: 3}
     nameImage: Cabeza
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: e69c5ab11166f8a4b9dcc9b0f6a887bd, type: 3}
     answer:
     - {fileID: 21300026, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -26,7 +26,7 @@ MonoBehaviour:
     key: 00000000
   - questionImage: {fileID: 21300000, guid: 445949e5ce728c64e98bf27233de71fd, type: 3}
     nameImage: Cara
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: ea4a41dc9729d2c4b81206e481038a42, type: 3}
     answer:
     - {fileID: 21300036, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -35,7 +35,7 @@ MonoBehaviour:
     key: 01000000
   - questionImage: {fileID: 21300000, guid: f1cee36e0c4c157448c5c9026e836af2, type: 3}
     nameImage: Frente
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 96e7b22c52b53094e97209c55418813a, type: 3}
     answer:
     - {fileID: 21300036, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300096, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
@@ -47,7 +47,7 @@ MonoBehaviour:
     key: 0200000003000000
   - questionImage: {fileID: 21300000, guid: 50938b64e805fbd47a8c8e7eb6bdaa25, type: 3}
     nameImage: Ojo
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: fed9a309192d27d4987850fbb7f92159, type: 3}
     answer:
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -59,7 +59,7 @@ MonoBehaviour:
     key: 0400000005000000
   - questionImage: {fileID: 21300000, guid: f7ae2b45f80ae2842b203df2bc185a5e, type: 3}
     nameImage: Nariz
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 7dfc0f29d2c73d94e80e8a0d45c50554, type: 3}
     answer:
     - {fileID: 21300008, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -68,7 +68,7 @@ MonoBehaviour:
     key: 06000000
   - questionImage: {fileID: 21300000, guid: b0e9fcc40c80bfe4294a39599f1b01f0, type: 3}
     nameImage: Oreja
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: cd00855ba1426444abef0edae09a9f8b, type: 3}
     answer:
     - {fileID: 21300024, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -79,7 +79,7 @@ MonoBehaviour:
     key: 07000000
   - questionImage: {fileID: 21300000, guid: 01221f05c2af8714e94d876a01bd03c7, type: 3}
     nameImage: Cuello
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 8eaabc50eee81ff45a6177153278aa22, type: 3}
     answer:
     - {fileID: 21300026, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -87,9 +87,9 @@ MonoBehaviour:
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300048, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     key: 00000000
-  - questionImage: {fileID: 21300000, guid: 5f0f35bd64f246f439cf81f114da49bf, type: 3}
-    nameImage: Brazo
-    audio: {fileID: 0}
+  - questionImage: {fileID: 21300000, guid: 3aa949373651e8c47a9c8ae3862e6271, type: 3}
+    nameImage: Hombro
+    audio: {fileID: 8300000, guid: b056b44a69227a94a88fc81d443e5fa9, type: 3}
     answer:
     - {fileID: 21300030, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -100,7 +100,7 @@ MonoBehaviour:
     key: 08000000
   - questionImage: {fileID: 21300000, guid: 27f5dc1bbfe8dd54599c4ae70ee40c7c, type: 3}
     nameImage: "Est\xF3mgao/panza"
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: b740f470fa286684bb413a841195333b, type: 3}
     answer:
     - {fileID: 21300036, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -110,7 +110,7 @@ MonoBehaviour:
     key: 0900000005000000
   - questionImage: {fileID: 21300000, guid: d176b5a1dbc359f499ff60a602aba6bf, type: 3}
     nameImage: Pierna
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 267ecf26d10ee0e4797f0c3ef52beeef, type: 3}
     answer:
     - {fileID: 21300004, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -121,7 +121,7 @@ MonoBehaviour:
     key: 0a00000005000000
   - questionImage: {fileID: 21300000, guid: 799ab45f7b7cda24381d11f47d92755c, type: 3}
     nameImage: "P\xEDe"
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 0ed60aee2eb1564439d1ef4f29d6e637, type: 3}
     answer:
     - {fileID: 21300034, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -130,26 +130,24 @@ MonoBehaviour:
     key: 0600000005000000
   - questionImage: {fileID: 21300000, guid: b8a6898d562e54745be740876fc7951d, type: 3}
     nameImage: Boca
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: d9b3674e70d692a449418078ebafc6a4, type: 3}
     answer:
     - {fileID: 21300038, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
     key: 0b00000005000000
-  - questionImage: {fileID: 21300000, guid: 3aa949373651e8c47a9c8ae3862e6271, type: 3}
-    nameImage: Hombro
-    audio: {fileID: 0}
+  - questionImage: {fileID: 21300000, guid: 5f0f35bd64f246f439cf81f114da49bf, type: 3}
+    nameImage: Brazo
+    audio: {fileID: 8300000, guid: 61ad12002518a5f4a95f4e93b7f657bc, type: 3}
     answer:
-    - {fileID: 21300038, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 21300036, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 21300096, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 21300034, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
-    - {fileID: 21300030, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
-    - {fileID: 0}
-    - {fileID: 21300004, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
-    - {fileID: 21300040, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300048, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
-    key: 0b00000008000000
+    key: 0c000000
   options:
   - options: {fileID: 21300094, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
   - options: {fileID: 21300096, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
@@ -163,3 +161,4 @@ MonoBehaviour:
   - options: {fileID: 21300116, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
   - options: {fileID: 21300184, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
   - options: {fileID: 21300132, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+  - options: {fileID: 21300202, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}

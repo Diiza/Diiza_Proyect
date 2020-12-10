@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04201eb77f535d54b9f23e3179f460e1, type: 3}
+  m_Name: RopaSolo
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 52b6b7e7e276af245aba203dca42723b, type: 3}
+  audio: {fileID: 8300000, guid: 91ad2b6373fe841479e42e543beba167, type: 3}
+  nameZapoteco: "L\xE0dy"
+  nameEspanol: Ropa

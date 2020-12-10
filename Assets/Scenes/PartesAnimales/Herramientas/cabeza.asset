@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: cabeza
   m_EditorClassIdentifier: 
   questions:
-  - questionInfo: "G\u0268\u0300kyma "
+  - questionInfo: "G\u0268\u0300kym\xE1"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 20fd962c46f2a184d8c5fdf26c3dbda3, type: 3}
     audioClip: {fileID: 8300000, guid: cda31ba469a00c647b2ab9a2f5293f8e, type: 3}

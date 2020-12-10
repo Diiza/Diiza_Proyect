@@ -15,7 +15,7 @@ MonoBehaviour:
   questions:
   - questionImage: {fileID: 21300000, guid: 0359bd622b455924b99b882675eee172, type: 3}
     nameImage: Techo
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 45732992de057514d99d544f0a1a46f0, type: 3}
     answer:
     - {fileID: 21300026, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -27,7 +27,7 @@ MonoBehaviour:
     key: 00000000
   - questionImage: {fileID: 21300000, guid: 0719bd30519b7b74c8ee2da665cc6b51, type: 3}
     nameImage: Puerta
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 2f23f64996c66aa44b5ceb7d6a4d0480, type: 3}
     answer:
     - {fileID: 21300038, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -37,7 +37,7 @@ MonoBehaviour:
     key: 01000000
   - questionImage: {fileID: 21300000, guid: d6b0894e1fc99134d9c2c120abbd866d, type: 3}
     nameImage: Cimientos
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: c48dfe79201795343b0e593708f54e4e, type: 3}
     answer:
     - {fileID: 21300034, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300106, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
@@ -47,7 +47,7 @@ MonoBehaviour:
     key: 01000000
   - questionImage: {fileID: 21300000, guid: 3edee676b9f69094ebe1969bb219e8b2, type: 3}
     nameImage: Pared
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 46d3487711fbd854ea4dda3a964b87fc, type: 3}
     answer:
     - {fileID: 21300008, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300030, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
@@ -58,7 +58,7 @@ MonoBehaviour:
     key: 02000000
   - questionImage: {fileID: 21300000, guid: 120d99a7d2b14b24db993e9a97d398a9, type: 3}
     nameImage: Interior
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 30ade774ed7d74443b4deaec03ad36b7, type: 3}
     answer:
     - {fileID: 21300036, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}

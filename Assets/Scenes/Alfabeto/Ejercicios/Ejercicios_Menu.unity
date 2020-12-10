@@ -422,7 +422,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Con Consonantes
+  m_Text: Usando Consonantes
 --- !u!222 &475194286
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1120,7 +1120,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Con Vocales
+  m_Text: Usando Vocales
 --- !u!222 &1933092506
 CanvasRenderer:
   m_ObjectHideFlags: 0

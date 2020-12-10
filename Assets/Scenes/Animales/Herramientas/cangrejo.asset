@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: cangrejo
   m_EditorClassIdentifier: 
   questions:
-  - questionInfo: "B\xEE"
+  - questionInfo: "B\u0268\u0302"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 1b034df0c47daa74e9dd523ea02fb522, type: 3}
     audioClip: {fileID: 8300000, guid: ed1b7ef2925c4184ca4e599b6583cd0c, type: 3}

@@ -45,7 +45,7 @@ public class MenuAdm : MonoBehaviour
                 Debug.Log("Escena: Consonantes");
                 break;
             case "BtnTonos":
-                SceneManager.LoadScene("Tonos");
+                SceneManager.LoadScene("Tonos1");
                 Debug.Log("Escena: Tonos");
                 break;
         }

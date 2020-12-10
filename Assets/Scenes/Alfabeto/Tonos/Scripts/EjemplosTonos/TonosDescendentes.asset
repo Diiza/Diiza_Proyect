@@ -14,17 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scriptableList:
   - {fileID: 11400000, guid: 440311796ae12404b8e6e792543e7016, type: 2}
-  - {fileID: 11400000, guid: 573d252df3dc81e45881c62970961686, type: 2}
   - {fileID: 11400000, guid: 4d0f1379a1ca6394e85a4a1980a558a9, type: 2}
-  - {fileID: 11400000, guid: 899caae0d01927e4da86456dfba7c6b8, type: 2}
-  - {fileID: 11400000, guid: ce25cacf1c152e64d99f0b0169f4cde6, type: 2}
-  - {fileID: 11400000, guid: 9e2a71fad93133a479c10b90dfbd1840, type: 2}
-  - {fileID: 11400000, guid: 3dc04dfcf26e2da459ffed4eb4ee495a, type: 2}
-  - {fileID: 11400000, guid: bf350a441c7487140bb3c921ce74a5ab, type: 2}
-  - {fileID: 11400000, guid: 8756ca9731479734f84e4f97bafa718d, type: 2}
-  - {fileID: 11400000, guid: 71638dcf77f0c244c96bf6484c814f1b, type: 2}
   - {fileID: 11400000, guid: a154ff1037e3d494e85daa77b1aad81f, type: 2}
-  - {fileID: 11400000, guid: 67b8353e19542084c8c9be80523b9cd9, type: 2}
-  - {fileID: 11400000, guid: 8907656130ba0a34192f211ccafc46ae, type: 2}
-  - {fileID: 11400000, guid: 5f4298df257f37e488916f0c07ad7b52, type: 2}
-  - {fileID: 11400000, guid: 63144c17ddc614342bc30631b09ed708, type: 2}

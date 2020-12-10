@@ -15,7 +15,7 @@ MonoBehaviour:
   questions:
   - questionImage: {fileID: 21300000, guid: 7cd959374e213b846b9adeacd8418750, type: 3}
     nameImage: Gato
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 1c043a37949367540a9582e9309c3b15, type: 3}
     answer:
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300140, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
@@ -23,7 +23,7 @@ MonoBehaviour:
     key: 00000000
   - questionImage: {fileID: 21300000, guid: 6ac660a6ee299824088c285657267988, type: 3}
     nameImage: Perro
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 9122a945878d6724cb919d9dcd822ad7, type: 3}
     answer:
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -32,7 +32,7 @@ MonoBehaviour:
     key: 01000000
   - questionImage: {fileID: 21300000, guid: 131acdb9c600f0b44844a931c2c42ba5, type: 3}
     nameImage: Culebra
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 1c4a59c015a829340af6364f7ab37350, type: 3}
     answer:
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -41,7 +41,7 @@ MonoBehaviour:
     key: 02000000
   - questionImage: {fileID: 21300000, guid: 74f91ffa253b793408de4811d76a9c9a, type: 3}
     nameImage: Coralillo
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: ffbe6567eb84a754f89f3febb2d7df35, type: 3}
     answer:
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300090, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
@@ -52,7 +52,7 @@ MonoBehaviour:
     key: 03000000
   - questionImage: {fileID: 21300000, guid: 7c8049e1b7b9c9a4b9b6bfde66d074d2, type: 3}
     nameImage: Tortuga
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: f117fc3ee9aa36246a37e0d654950497, type: 3}
     answer:
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300086, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
@@ -60,7 +60,7 @@ MonoBehaviour:
     key: 04000000
   - questionImage: {fileID: 21300000, guid: 14901685f27286b449e709e9b37d322f, type: 3}
     nameImage: Pez/Pescado
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 9197eec03b1fbf6458847d2608c03a9a, type: 3}
     answer:
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -69,14 +69,14 @@ MonoBehaviour:
     key: 05000000
   - questionImage: {fileID: 21300000, guid: 7772b1f213f100a48a3a3738ff692e27, type: 3}
     nameImage: Cangrejo
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: ed1b7ef2925c4184ca4e599b6583cd0c, type: 3}
     answer:
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
     key: 0d000000
   - questionImage: {fileID: 21300000, guid: 8fd04830f56952742bdd0cbdd269e61a, type: 3}
     nameImage: Borrego
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: d31eb5acf65f8374ab4d017aa29a2cfc, type: 3}
     answer:
     - {fileID: 0}
     - {fileID: 21300072, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
@@ -84,7 +84,7 @@ MonoBehaviour:
     key: 07000000
   - questionImage: {fileID: 21300000, guid: 8f4dfaa40bb90e044b60675c606745e7, type: 3}
     nameImage: Vaca
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: e755b33a9f1cf5046b9a48d33c293263, type: 3}
     answer:
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -92,7 +92,7 @@ MonoBehaviour:
     key: 08000000
   - questionImage: {fileID: 21300000, guid: 2c4915f414337114a9b86c8597313c06, type: 3}
     nameImage: "B\xFAho"
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: dc5c2deb3e6fa774a85e32d25af65e39, type: 3}
     answer:
     - {fileID: 21300024, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -100,7 +100,7 @@ MonoBehaviour:
     key: 08000000
   - questionImage: {fileID: 21300000, guid: 69a5be939ac1d1b40afabfe0e2d3d6ee, type: 3}
     nameImage: Toro
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: f8ee268996463b441957ad32d3028eda, type: 3}
     answer:
     - {fileID: 21300026, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -108,7 +108,7 @@ MonoBehaviour:
     key: 09000000
   - questionImage: {fileID: 21300000, guid: c15eb64603cbe994faabe4da8db2d44d, type: 3}
     nameImage: "Rat\xF3n"
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: e24494b300635d44b996454c25e2477b, type: 3}
     answer:
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300028, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
@@ -119,16 +119,14 @@ MonoBehaviour:
     nameImage: Mapache
     audio: {fileID: 0}
     answer:
-    - {fileID: 21300016, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
-    - {fileID: 21300134, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
-    - {fileID: 21300016, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
-    - {fileID: 21300026, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 21300030, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 21300042, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
-    - {fileID: 21300036, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
-    key: 02000000
+    key: 05000000
   - questionImage: {fileID: 21300000, guid: a0c19c6cd3a01764e8a5a542b9151b92, type: 3}
     nameImage: "Ara\xF1a"
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 7cdff73a5f7b99e46bad1f97816ab487, type: 3}
     answer:
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300028, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
@@ -136,7 +134,7 @@ MonoBehaviour:
     key: 0b000000
   - questionImage: {fileID: 21300000, guid: 6385e69ccdb563948ac96a00f23a64ff, type: 3}
     nameImage: Lagartija
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: d347fbadeb418b141ae67089a7bc8169, type: 3}
     answer:
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300038, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
@@ -145,7 +143,7 @@ MonoBehaviour:
     key: 04000000
   - questionImage: {fileID: 21300000, guid: 2d0364f54d4d590429af6a57c9eff91d, type: 3}
     nameImage: Ardilla
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 7a3c3a1f3ff0221478528d9ab808cf56, type: 3}
     answer:
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300028, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
@@ -154,7 +152,7 @@ MonoBehaviour:
     key: 0c000000
   - questionImage: {fileID: 21300000, guid: 0e3cc8d0ca3dcc24e82d7d7b4dcaecca, type: 3}
     nameImage: Venado
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: c91e742711cf83d42ab8011b8e92d37d, type: 3}
     answer:
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300028, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}

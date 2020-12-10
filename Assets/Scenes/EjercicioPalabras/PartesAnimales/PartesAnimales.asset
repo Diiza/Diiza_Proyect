@@ -15,7 +15,7 @@ MonoBehaviour:
   questions:
   - questionImage: {fileID: 21300000, guid: 20fd962c46f2a184d8c5fdf26c3dbda3, type: 3}
     nameImage: Cabeza
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: cda31ba469a00c647b2ab9a2f5293f8e, type: 3}
     answer:
     - {fileID: 21300026, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300094, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
@@ -26,7 +26,7 @@ MonoBehaviour:
     key: 00000000
   - questionImage: {fileID: 21300000, guid: b112a865f68bfd04ab04ce5fa26c2253, type: 3}
     nameImage: Cara
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 6a61991a6e4de7b4aafcf07681d83315, type: 3}
     answer:
     - {fileID: 21300036, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -35,7 +35,7 @@ MonoBehaviour:
     key: 01000000
   - questionImage: {fileID: 21300000, guid: 83f2438d4876763418aa34a6e6afbb54, type: 3}
     nameImage: Ojo
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 64b8cb7de89f8d8469d3c012dee7e597, type: 3}
     answer:
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300028, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
@@ -47,7 +47,7 @@ MonoBehaviour:
     key: 0200000003000000
   - questionImage: {fileID: 21300000, guid: 739990d9c7f084642bc745754053f4a8, type: 3}
     nameImage: Nariz
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 4ca2fa3470e1de74caa95069771d5032, type: 3}
     answer:
     - {fileID: 21300008, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -56,7 +56,7 @@ MonoBehaviour:
     key: 04000000
   - questionImage: {fileID: 21300000, guid: f3818fed56062094f91310b213eb389c, type: 3}
     nameImage: Boca
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 0afc3ca75fbc8764b8addfeff5365ca7, type: 3}
     answer:
     - {fileID: 21300038, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
@@ -65,7 +65,7 @@ MonoBehaviour:
     key: 05000000
   - questionImage: {fileID: 21300000, guid: b9a4eb30296eee14893d0792091476e7, type: 3}
     nameImage: Pata
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 60ec3ca12de12e2408933fbd75415dca, type: 3}
     answer:
     - {fileID: 21300034, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300110, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
@@ -74,7 +74,7 @@ MonoBehaviour:
     key: 03000000
   - questionImage: {fileID: 21300000, guid: 7a9b6f0724489234b817bac3bb231c6d, type: 3}
     nameImage: Panza
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 42ad96539afc9b143b33e8df857b5ece, type: 3}
     answer:
     - {fileID: 21300036, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300100, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
@@ -85,7 +85,7 @@ MonoBehaviour:
     key: 06000000
   - questionImage: {fileID: 21300000, guid: 7cd0a3bf2b4afbd4aa80cc0cabdf3c25, type: 3}
     nameImage: Cola
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: d14ee51b143b2db40aca4837c5d88a1c, type: 3}
     answer:
     - {fileID: 21300008, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
@@ -96,7 +96,7 @@ MonoBehaviour:
     key: 07000000
   - questionImage: {fileID: 21300000, guid: ce48dda4bb5207b4791805666a310015, type: 3}
     nameImage: Ala
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 267ecbcdd3dba6d4e8290c4919c72d55, type: 3}
     answer:
     - {fileID: 21300008, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300026, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
@@ -106,7 +106,7 @@ MonoBehaviour:
     key: 08000000
   - questionImage: {fileID: 21300000, guid: 9c1002b7dfb44d043a3266b23bb40801, type: 3}
     nameImage: Pico
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 908d900eafc4d6a4393b4bd48920b2dc, type: 3}
     answer:
     - {fileID: 21300008, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300002, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}

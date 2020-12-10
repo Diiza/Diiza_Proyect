@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 04201eb77f535d54b9f23e3179f460e1, type: 3}
   m_Name: "Ni\xF1o"
   m_EditorClassIdentifier: 
-  image: {fileID: 21300000, guid: cec32a1ddcb5380458d440dbb1e7c51c, type: 3}
+  image: {fileID: 21300000, guid: 13a4ae304a22e764fb755c4eb298866b, type: 3}
   audio: {fileID: 8300000, guid: a8573da7188ca5b478f8d36cfa1c50a4, type: 3}
   nameZapoteco: "M\xEE\u2019nny"
-  nameEspanol: "Ni\xF1o"
+  nameEspanol: "Ni\xF1o, Ni\xF1a, Adolescente"

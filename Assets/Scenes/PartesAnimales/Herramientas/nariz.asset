@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: nariz
   m_EditorClassIdentifier: 
   questions:
-  - questionInfo: "X\xEC'ma"
+  - questionInfo: "X\xEC'm\xE1"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 739990d9c7f084642bc745754053f4a8, type: 3}
     audioClip: {fileID: 8300000, guid: 4ca2fa3470e1de74caa95069771d5032, type: 3}
