@@ -25,7 +25,7 @@ public class QuizGameUI : MonoBehaviour
     private float audioLength;          
     private Question question;          
     private bool answered = false;
-   
+      
 
     public Text TimerText { get => timerText; }                    
     public Text ScoreText { get => scoreText; }                     
@@ -73,7 +73,8 @@ public class QuizGameUI : MonoBehaviour
                 questionAudio.transform.gameObject.SetActive(true);         
                 
                 audioLength = question.audioClip.length;                    
-                StartCoroutine(PlayAudio());                               
+                StartCoroutine(PlayAudio());
+                
                 break;
             case QuestionType.VIDEO:
                 questionVideo.transform.parent.gameObject.SetActive(true);  
@@ -94,7 +95,7 @@ public class QuizGameUI : MonoBehaviour
         {
             options[i].GetComponentInChildren<Text>().text = ansOptions[i];
             options[i].name = ansOptions[i];    
-            options[i].image.color = normalCol; 
+            options[i].image.color = normalCol;
         }
 
         answered = false;                       
@@ -115,11 +116,9 @@ public class QuizGameUI : MonoBehaviour
         //if questionType is audio
         if (question.questionType == QuestionType.AUDIO)
         {
-            ///////////lol/77777//////////
+            yield return new WaitForSeconds(audioLength + 0.5f);
             questionAudio.PlayOneShot(question.audioClip);
-            yield return new WaitForSeconds(audioLength + 2.5f);
-            StartCoroutine(PlayAudio());
-            
+            //StartCoroutine(PlayAudio());
         }
         else 
         {
@@ -154,6 +153,9 @@ public class QuizGameUI : MonoBehaviour
         switch (btn.name)
         {
             case "QImagenes":
+
+                QuizManager.correctos =0; QuizManager.incorrectos = 0;
+
                 if (Game.tecla==1)
                 {
                     quizManager.StartGame(0);
@@ -195,6 +197,9 @@ public class QuizGameUI : MonoBehaviour
                 gamePanel.SetActive(true);
                 break;
             case "QSonidos":
+
+                QuizManager.correctos = 0; QuizManager.incorrectos = 0;
+
                 if (Game.tecla == 1)
                 {
                     quizManager.StartGame(1);

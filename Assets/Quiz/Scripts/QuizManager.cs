@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class QuizManager : MonoBehaviour
 {
@@ -11,6 +12,7 @@ public class QuizManager : MonoBehaviour
     //ref to the scriptableobject file
     [SerializeField] private List<QuizDataScriptable> quizDataList;
     [SerializeField] private float timeInSeconds;
+    public Text TotalCorectos, TotalIncorrectos;
 #pragma warning restore 649
     //questions data
     private List<Question> questions;
@@ -20,6 +22,7 @@ public class QuizManager : MonoBehaviour
     private int lifesRemaining;
     private float currentTime;
     private QuizDataScriptable dataScriptable;
+    public static int correctos = 0, incorrectos = 0;
 
     private GameStatus gameStatus = GameStatus.NEXT;
 
@@ -73,6 +76,8 @@ public class QuizManager : MonoBehaviour
             //Game Over
             gameStatus = GameStatus.NEXT;
             quizGameUI.GameOverPanel.SetActive(true);
+            TotalCorectos.text = correctos.ToString();
+            TotalIncorrectos.text = incorrectos.ToString();
         }
     }
 
@@ -89,6 +94,7 @@ public class QuizManager : MonoBehaviour
         if (selectedQuetion.correctAns == selectedOption)
         {
             //Yes, Ans is correct
+            correctos += 1;
             correct = true;
             gameScore += 50;
             quizGameUI.ScoreText.text = "Puntos:" + gameScore;
@@ -97,6 +103,7 @@ public class QuizManager : MonoBehaviour
         {
             //No, Ans is wrong
             //Reduce Life
+            incorrectos += 1;
             lifesRemaining--;
             quizGameUI.ReduceLife(lifesRemaining);
 
@@ -104,6 +111,8 @@ public class QuizManager : MonoBehaviour
             {
                 gameStatus = GameStatus.NEXT;
                 quizGameUI.GameOverPanel.SetActive(true);
+                TotalCorectos.text = correctos.ToString();
+                TotalIncorrectos.text = incorrectos.ToString();
             }
         }
 
@@ -118,6 +127,8 @@ public class QuizManager : MonoBehaviour
             {
                 gameStatus = GameStatus.NEXT;
                 quizGameUI.GameOverPanel.SetActive(true);
+                TotalCorectos.text = correctos.ToString();
+                TotalIncorrectos.text = incorrectos.ToString();
             }
         }
         //return the value of correct bool
