@@ -22,7 +22,7 @@ MonoBehaviour:
     - "T\u0268\u0300"
     - "Ty\u01D2p"
     - "Ts\u0268\u0300\u0268'"
-    correctAns: "Ts\u0268\u0300\u0268\u0268'"
+    correctAns: "T\u0268\u0300"
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 6d3c2cad66c5517448fa26980ea4022f, type: 3}
@@ -30,27 +30,27 @@ MonoBehaviour:
     videoClip: {fileID: 0}
     options:
     - "T\u0268\u0300"
-    - "Ty\xF3p"
-    - "Ts\u0268\u0300>"
-    correctAns: "Ty\xF3p"
+    - "Ty\u01D2p"
+    - "Ts\u0268\u0300\u0268'"
+    correctAns: "Ty\u01D2p"
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 3d2ab7abcc1e04d4ab3e665333927812, type: 3}
     audioClip: {fileID: 8300000, guid: c81e854059e060c439b7e8da5347f13f, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "Tx\xF3n"
-    - "Ty\xF3p"
-    - "G\xE1z"
-    correctAns: "Tx\xF3n"
+    - "Tx\u01D2n"
+    - "Ty\u01D2p"
+    - "G\u01CEz"
+    correctAns: "Tx\u01D2n"
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 5c975423698b3ec4784897db1c1a3510, type: 3}
     audioClip: {fileID: 8300000, guid: 615792286be85b94ab880e77444bc9e8, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "Xh\xFAm"
-    - "G\xE1z"
+    - "Xh\xFAn"
+    - "G\u01CEz"
     - "T\xE0p"
     correctAns: "T\xE0p"
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
@@ -60,8 +60,8 @@ MonoBehaviour:
     videoClip: {fileID: 0}
     options:
     - "Xh\xF2'p"
-    - "G\xE0>y"
-    - "Ts\u0268\u0300>"
+    - "G\xE0a'y"
+    - "Ts\u0268\u0300\u0268'"
     correctAns: "G\xE0a'y"
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
@@ -69,8 +69,8 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: 7520c95c92691c44ea7dc58d3cc471eb, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "Ts\u0268\u0300>"
-    - "G\xE0>y"
+    - "Ts\u0268\u0300\u0268'"
+    - "G\xE0a'y"
     - "Xh\xF2'p"
     correctAns: "Xh\xF2'p"
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
@@ -79,20 +79,20 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: b83bbbae19cb13a4589390abaf456c69, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "G\xE1z"
-    - "G\xE0>y"
+    - "G\u01CEz"
+    - "G\xE0a'y"
     - "T\xE0p"
-    correctAns: "G\xE1z"
+    correctAns: "G\u01CEz"
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 90f8618575ec12e4e9746052e8527b95, type: 3}
     audioClip: {fileID: 8300000, guid: ee8f3468e9666364e8051d9ff67e7805, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "Ts\u0268\u0300>pt\xFBby"
-    - "Ts\u0268\u0300>d\xE0"
-    - "Xh\xFAm"
-    correctAns: "Xh\xFAn"
+    - "Ts\u0268\u0300\u0268'pt\xFBby"
+    - "Ts\u0268\u0300\u0268'd\xE0"
+    - "Xh\u01D4n"
+    correctAns: "Xh\u01D4n"
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 3e11b3a3638421f46a5d20782155add0, type: 3}
@@ -100,8 +100,8 @@ MonoBehaviour:
     videoClip: {fileID: 0}
     options:
     - "T\u0268\u0300"
-    - "G\xE0>"
-    - "Ts\u0268\u0300>pt\xFBby"
+    - "G\xE0a'"
+    - "Ts\u0268\u0300\u0268'pt\xFBby"
     correctAns: "G\xE0a'"
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
@@ -109,8 +109,8 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: 215daf797fda8ac4f96c9c6bff4b99c6, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "G\xE0>y"
-    - "Ts\u0268\u0300>"
+    - "G\xE0a'y"
+    - "Ts\u0268\u0300\u0268'"
     - "Ts\xE8'ny"
     correctAns: "Ts\u0268\u0300\u0268'"
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
@@ -119,9 +119,9 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: 3c24c0998d8b5ba4381d1512a9307af2, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "Ts\u0268\u0300>pt\xFBby"
-    - "Ts\u0268\u0300>d\xE0"
-    - "Ts\xE8>ny"
+    - "Ts\u0268\u0300\u0268'pt\xFBby"
+    - "Ts\u0268\u0300\u0268'd\xE0"
+    - "Ts\xE8e'ny"
     correctAns: "Ts\u0268\u0300\u0268'pt\xFBby"
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
@@ -129,18 +129,18 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: e8dfd392a837a9e4799641c80ebd7af3, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "Xh\xFAm"
-    - "Ts\u0268\u0300>ptyop"
-    - "Ts\u0268\u0300>"
-    correctAns: "Ts\u0268\u0300\u0268'ptyop"
+    - "Xh\u01D4n"
+    - "Ts\u0268\u0300\u0268'pty\xF3p"
+    - "Ts\u0268\u0300\u0268'"
+    correctAns: "Ts\u0268\u0300\u0268'pty\xF3p"
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: d36bc27544d16904ca3e85fdb593a838, type: 3}
     audioClip: {fileID: 8300000, guid: feaccc3dcf2a5c542a587d30cfbce5e9, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "Ts\xE8>nypty\xFBby"
-    - "Ts\u0268\u0300>d\xE0"
+    - "Ts\xE8e'nypty\xFBby"
+    - "Ts\u0268\u0300\u0268'd\xE0"
     - "Ts\xE8'ny"
     correctAns: "Ts\xE8'ny"
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
@@ -149,9 +149,9 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: ca01cd98985089a41b01469f7128599d, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "Ts\u0268\u0300>d\xE0"
-    - "Ts\xE8>nypty\xFBby"
-    - "Ts\xE8>nyptap"
+    - "Ts\u0268\u0300\u0268'd\xE0"
+    - "Ts\xE8e'nypty\xFBby"
+    - "Ts\xE8e\u2019nypt\xE1p "
     correctAns: "Ts\u0268\u0300\u0268'd\xE0"
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
@@ -159,9 +159,9 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: 9753b8625271a7642bbbdcdc4c154f0f, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "Ts\u0268\u0300>pt\xFBby"
-    - "Ts\xE8>ny"
-    - "Ts\xE8>nypty\xFBby"
+    - "Ts\u0268\u0300\u0268'pt\xFBby"
+    - "Ts\xE8e'ny"
+    - "Ts\xE8e'nypty\xFBby"
     correctAns: "Ts\xE8e'ny"
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
@@ -169,9 +169,9 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: 96bd6747a50c80b49ac3ae84eb26544c, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "Ts\xE8>nyptxon"
-    - "Ts\xE8>nyptyop"
-    - "Ts\xE8>nypty\xFBby"
+    - "Ts\xE8e'nyptx\xF3n"
+    - "Ts\xE8e'nypty\xF3p"
+    - "Ts\xE8e'nypty\xFBby"
     correctAns: "Ts\xE8e'nypty\xFBby"
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
@@ -179,37 +179,37 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: 5826f4efd9990784e910d3b20c4f988b, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "Ts\xE8>nypty\xFBby"
-    - "Ts\xE8>nyptyop"
-    - "Ts\u0268\u0300>"
-    correctAns: "Ts\xE8e'nyptyop"
+    - "Ts\xE8e'nypty\xFBby"
+    - "Ts\xE8e'nypty\xF3p"
+    - "Ts\u0268\u0300\u0268'"
+    correctAns: "Ts\xE8e\u2019nypty\xF3p"
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 9c15b2c89304a81438c47daeb57e4c38, type: 3}
     audioClip: {fileID: 8300000, guid: 8cd0d0c69adccfb4ea4d3db15c869797, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "Ts\xE8>nyptap"
-    - "Ts\xE8>nyptxon"
-    - "Ts\xE8>nyptyop"
-    correctAns: "Ts\xE8e'nyptxon"
+    - "Ts\xE8e\u2019nypt\xE1p "
+    - "Ts\xE8e\u2019nyptx\xF3n"
+    - "Ts\xE8e\u2019nypty\xF3p "
+    correctAns: "Ts\xE8e\u2019nyptx\xF3n"
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 2ad06a58c9c8a1b4399d615a4b1c25a0, type: 3}
     audioClip: {fileID: 8300000, guid: 1754f165f21b5ad4897f00d3764b7727, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "Ts\xE8>nyptap"
-    - "Ty\xF3p"
-    - "Ts\u0268\u0300>d\xE0"
-    correctAns: "Ts\xE8e'nyptap"
+    - "Ts\xE8e\u2019nypt\xE1p "
+    - "Ty\u01D2p"
+    - "Ts\xECi\u2019d\xE0 "
+    correctAns: "Ts\xE8e\u2019nypt\xE1p "
   - questionInfo: "\xBFQu\xE9 n\xFAmero escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 0f759b6ee036ecb48a02e183985252e0, type: 3}
     audioClip: {fileID: 8300000, guid: 6835d932ac94e634d8094b82ef41d8d2, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "G\xE0>y"
+    - "G\xE0a'y"
     - "Xh\xF2'p"
-    - "G\xE1ld"
-    correctAns: "G\xE1ld"
+    - "G\u01CEld"
+    correctAns: "G\u01CEld"

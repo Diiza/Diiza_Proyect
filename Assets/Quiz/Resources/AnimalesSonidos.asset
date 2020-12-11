@@ -91,8 +91,8 @@ MonoBehaviour:
     options:
     - "L\xF2m\xE1"
     - "N\xEC'm\xE1"
-    - "N\xE2a'ma"
-    correctAns: "N\xE2a'ma"
+    - "N\xE2a'm\xE1"
+    correctAns: "N\xE2a'm\xE1"
   - questionInfo: "\xBFQu\xE9 parte del animal escuchas?"
     questionType: 2
     questionImage: {fileID: 0}
