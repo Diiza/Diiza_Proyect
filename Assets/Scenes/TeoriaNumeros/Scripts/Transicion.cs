@@ -36,7 +36,7 @@ public class Transicion : MonoBehaviour
 
     public void ButtonMenu()
     {
-        MoverMenu(tiempo, subMenu.position, new Vector3(1 * 540, subMenu.position.y, 0));
+        MoverMenu(tiempo, subMenu.position, new Vector3(1 * Screen.width / 2, subMenu.position.y, 0));//540
     }
     public void RegresaPanel()
     {
