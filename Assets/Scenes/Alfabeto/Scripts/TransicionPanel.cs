@@ -3,33 +3,26 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class MenuAprende : MonoBehaviour
+public class TransicionPanel : MonoBehaviour
 {
+    [SerializeField]
     private RectTransform subMenu;
     private float posFinal;
     private bool abrirMenu = true;
-    private float tiempo = 0.5f;
+    [SerializeField]
+    private float tiempo;
     private Button btn;
 
     void Start()
     {
-        subMenu = GameObject.FindGameObjectWithTag("SubMenu").GetComponent<RectTransform>();
-        posFinal = Screen.width / 156;
-        //Debug.Log("Antes:" + Screen.width + ":" + subMenu.position);
+        posFinal = Screen.width / 2;
         subMenu.position = new Vector3(-posFinal, subMenu.position.y, subMenu.position.z);
-       // Debug.Log("Despues: " + -posFinal + " : " + subMenu.position);
-        btn = gameObject.GetComponent<Button>();
-        btn.onClick.AddListener(moverBtn);
+        moverPanel();
     }
 
-    private void moverBtn()
+    private void moverPanel()
     {
-        float signo = 0;
-        if (!abrirMenu)
-        {
-            signo = -1;
-        }
-        moverMenu(tiempo, subMenu.position, new Vector3(signo * posFinal, subMenu.position.y, subMenu.position.z));
+        moverMenu(tiempo, subMenu.position, new Vector3(posFinal, subMenu.position.y, subMenu.position.z));
         abrirMenu = !abrirMenu;
     }
 
