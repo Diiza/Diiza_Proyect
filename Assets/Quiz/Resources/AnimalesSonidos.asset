@@ -86,7 +86,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 parte del animal escuchas?"
     questionType: 2
     questionImage: {fileID: 0}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 6e688b49f1792314d9b8c6ecc22fd3e1, type: 3}
     videoClip: {fileID: 0}
     options:
     - "L\xF2m\xE1"
@@ -116,7 +116,7 @@ MonoBehaviour:
   - questionInfo: "\xBFQu\xE9 parte del animal escuchas?"
     questionType: 2
     questionImage: {fileID: 0}
-    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    audioClip: {fileID: 8300000, guid: 02a18c271deb9d8449f4bca873a4b911, type: 3}
     videoClip: {fileID: 0}
     options:
     - "K\u01D4u'dym\xE1"

@@ -860,7 +860,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Alfabeto
+  m_Text: "Men\xFA"
 --- !u!222 &936231994
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1531,7 +1531,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c0bd23275f8e2764c9d095f9cad6fbf3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a2e28ebbc0f133b478cfa3e381cb4a4d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
