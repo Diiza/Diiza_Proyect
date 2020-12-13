@@ -1847,7 +1847,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 254150743}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
@@ -3100,7 +3100,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 446291980}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
@@ -4738,8 +4738,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 113.8, y: -45.599976}
-  m_SizeDelta: {x: -309, y: -198.8}
+  m_AnchoredPosition: {x: 81.8, y: -64}
+  m_SizeDelta: {x: -373.2, y: -162.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &760187244
 MonoBehaviour:
@@ -4763,7 +4763,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: 848c57a9abb71b441847a3322f0188b4, type: 3}
     m_FontSize: 50
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 0
     m_MaxSize: 170
     m_Alignment: 4
@@ -4772,9 +4772,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Completa las palabras con los
-
-    tonos correctos.'
+  m_Text: Completa las palabras con las vocales o consonantes correctas.
 --- !u!222 &760187245
 CanvasRenderer:
   m_ObjectHideFlags: 0
