@@ -117,7 +117,7 @@ MonoBehaviour:
     key: 0a000000
   - questionImage: {fileID: 21300000, guid: 89dac43c650e6df4496da76eba7a48b7, type: 3}
     nameImage: Mapache
-    audio: {fileID: 0}
+    audio: {fileID: 8300000, guid: 30ab868645327af449c25d3a97ba9a34, type: 3}
     answer:
     - {fileID: 21300022, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300030, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}

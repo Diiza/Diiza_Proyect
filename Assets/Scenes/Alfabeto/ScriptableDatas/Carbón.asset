@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: "Carb\xF3n"
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 3f06f870d7d27024085e630e3edae822, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 1ca4324da4185344fb1336d64de30013, type: 3}
   nameZapoteco: "B\u01D4u\u2019"
   nameEspanol: "Carb\xF3n"

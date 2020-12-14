@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Hormiga Arriera
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: f636678df88811441807cc1d68c4a9c1, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: bfe43c541d0c16549a48e9ebb722f543, type: 3}
   nameZapoteco: "By\xF2o\u2019b"
   nameEspanol: Hotmiga Arriera
