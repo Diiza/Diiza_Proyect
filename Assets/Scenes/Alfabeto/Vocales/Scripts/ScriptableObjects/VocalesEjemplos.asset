@@ -66,8 +66,8 @@ MonoBehaviour:
   - image: {fileID: 21300020, guid: 4a31c6bed819e974ab4897f5b1c14b50, type: 3}
     audio: {fileID: 8300000, guid: f65d2130f54911f4cb80cf2439abc769, type: 3}
     example:
-    - {fileID: 11400000, guid: 1babdd85ec4a81e458a64c833f24ff42, type: 2}
-    - {fileID: 11400000, guid: 1babdd85ec4a81e458a64c833f24ff42, type: 2}
+    - {fileID: 11400000, guid: 93b0da3a43533d442884d6d209a2c707, type: 2}
+    - {fileID: 11400000, guid: 93b0da3a43533d442884d6d209a2c707, type: 2}
   - image: {fileID: 21300022, guid: 4a31c6bed819e974ab4897f5b1c14b50, type: 3}
     audio: {fileID: 8300000, guid: 871296dd47883be48801ba332ad23666, type: 3}
     example:

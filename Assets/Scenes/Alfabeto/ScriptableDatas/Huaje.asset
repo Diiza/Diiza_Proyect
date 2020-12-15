@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 3cf9d52ef93789a419af5d14ade1e463, type: 3}
   audio: {fileID: 8300000, guid: eb0b34cfe73bb7c4f9f1ba7318d41a3d, type: 3}
-  nameZapoteco: "L\xE0a\u2019"
+  nameZapoteco: "L\xE0'"
   nameEspanol: Huaje
