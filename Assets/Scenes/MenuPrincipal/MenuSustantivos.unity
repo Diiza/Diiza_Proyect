@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 170076734}
-  m_IndirectSpecularColor: {r: 0.4465782, g: 0.49641252, b: 0.5748167, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -550,7 +550,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -308, y: -0.000049591}
+  m_AnchoredPosition: {x: -306, y: -0.000049591}
   m_SizeDelta: {x: 306.1, y: 306.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &123998224
@@ -4185,7 +4185,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -298, y: 0}
+  m_AnchoredPosition: {x: -314.62, y: 0}
   m_SizeDelta: {x: 306.1, y: 306.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &722963518
@@ -6989,8 +6989,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 104.000015, y: -86.5}
-  m_SizeDelta: {x: -447.1, y: -217.6}
+  m_AnchoredPosition: {x: 113.130005, y: -69.000015}
+  m_SizeDelta: {x: -428.9, y: -252.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1210715258
 MonoBehaviour:
@@ -7023,7 +7023,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Secci\xF3n de \nejercicios"
+  m_Text: "Secci\xF3n pr\xE1ctica"
 --- !u!222 &1210715259
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8312,8 +8312,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 104, y: 84.1}
-  m_SizeDelta: {x: -410.59998, y: -282.8}
+  m_AnchoredPosition: {x: 113.130005, y: 54}
+  m_SizeDelta: {x: -309.3, y: -282.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1435645343
 MonoBehaviour:
@@ -8346,7 +8346,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Pr\xE1ctica"
+  m_Text: Actividades
 --- !u!222 &1435645344
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10030,7 +10030,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Juegos
+  m_Text: Actividades
 --- !u!222 &1872617690
 CanvasRenderer:
   m_ObjectHideFlags: 0
