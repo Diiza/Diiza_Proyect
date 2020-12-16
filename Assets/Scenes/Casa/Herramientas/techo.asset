@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: techo
   m_EditorClassIdentifier: 
   questions:
-  - questionInfo: "G\xECky y\xF9'"
+  - questionInfo: "G\u0268\u0300ky gy\xF9'"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 0359bd622b455924b99b882675eee172, type: 3}
     audioClip: {fileID: 8300000, guid: 45732992de057514d99d544f0a1a46f0, type: 3}

@@ -19,4 +19,4 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: ad8098e9f4b6e4b4eb74d08fa3277981, type: 3}
     videoClip: {fileID: 0}
     options:
-    - Tronco
+    - Tallo

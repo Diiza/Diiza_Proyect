@@ -13,8 +13,6 @@ MonoBehaviour:
   m_Name: Bajos
   m_EditorClassIdentifier: 
   modelsList:
-  - {fileID: 11400000, guid: a01e18d45a595b84185749be0add776d, type: 2}
+  - {fileID: 11400000, guid: b344b3df2e1da1f418b8401d1026034a, type: 2}
   - {fileID: 11400000, guid: 0c91759fa9c2feb4ba03fa7ce9427f44, type: 2}
   - {fileID: 11400000, guid: e6a9f6514eb85be46b6679ac72d9a476, type: 2}
-  - {fileID: 11400000, guid: ae38dcb057be93b48bb8a96f6283b072, type: 2}
-  - {fileID: 11400000, guid: 8610544fb4c0ba44e898dc9fd0c3f4bf, type: 2}

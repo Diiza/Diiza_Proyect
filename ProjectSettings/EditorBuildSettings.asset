@@ -150,7 +150,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Cuadernillo/Alfabeto/Tonos/TonosAR.unity
     guid: eee5b19cd7ad49a469792e157afcca20
   - enabled: 1
-    path: Assets/Scenes/Cuadernillo/Alfabeto/Vocales/VocalesAR.unity
+    path: Assets/Scenes/Cuadernillo/Alfabeto/Vocales/VocalesAR2.unity
     guid: 35c308920bb311c4c9874305a7fcd0bb
   - enabled: 1
     path: Assets/Scenes/Cuadernillo/Actividades.unity
@@ -197,4 +197,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Vocales/VocalesEjemplos.unity
     guid: f607eb820fa92904fbfa46ea8bf99b8f
+  - enabled: 1
+    path: Assets/Scenes/Cuadernillo/Alfabeto/Vocales/VocalesAR.unity
+    guid: 5e1e992b6d8842e46870609a07b82aa1
+  - enabled: 1
+    path: Assets/Scenes/AcercaDe.unity
+    guid: c4103292fa9cb8e49b2884dcdb49bb75
   m_configObjects: {}

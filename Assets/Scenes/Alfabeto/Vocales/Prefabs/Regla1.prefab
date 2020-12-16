@@ -64,7 +64,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 23070b1427bd38e438443e4f49b0d0d5, type: 3}
+    m_Font: {fileID: 12800000, guid: 6b1f122211702d340814f8c3c386de48, type: 3}
     m_FontSize: 40
     m_FontStyle: 0
     m_BestFit: 1
@@ -76,8 +76,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 1.- Las vocales laringizadas aparecen antes de consonantes suaves (b, d,
-    g, z, xh, dz, dx, m, n, l, r, w, y)
+  m_Text: 'Las vocales Glotalizadas aparecen antes de las consonantes:
+
+    p, t, k, s, x, ts, tx, mm, nn, f, j, w, y   '
 --- !u!1 &1058287142236640423
 GameObject:
   m_ObjectHideFlags: 0
@@ -91,6 +92,7 @@ GameObject:
   - component: {fileID: 1058287142236640424}
   - component: {fileID: 1058287142236640425}
   - component: {fileID: 774602825137890825}
+  - component: {fileID: 1976821181706020848}
   m_Layer: 5
   m_Name: Regla1
   m_TagString: Untagged
@@ -205,3 +207,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75738705667c45440849ce6966ff6099, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1976821181706020848
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1058287142236640423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectDistance: {x: 5, y: -5}
+  m_UseGraphicAlpha: 1

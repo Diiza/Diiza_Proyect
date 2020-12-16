@@ -19,10 +19,10 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: 6d9d828c654dc0a4abaa765bfb118381, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "X\xE8kwky\xE0g"
-    - "Xl\xF2b\xE0a' y\xE0g"
+    - "Xh\xE8kwky\xE0g"
+    - "L\xF2b\xE0a'"
     - "X\xEC'm\xE1 "
-    correctAns: "X\xE8kwky\xE0g"
+    correctAns: "Xh\xE8kwky\xE0g"
   - questionInfo: "\xBFQu\xE9 parte del \xE1rbol escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 1b034df0c47daa74e9dd523ea02fb522, type: 3}
@@ -50,7 +50,7 @@ MonoBehaviour:
     videoClip: {fileID: 0}
     options:
     - "Xh\xE0a'ny\xF9'"
-    - "Xmd\xE0g y\xE0g"
+    - "Md\xE0g"
     - "L\xF2b\xE0a'"
     correctAns: "L\xF2b\xE0a'"
   - questionInfo: "\xBFQu\xE9 parte del \xE1rbol escuchas?"
@@ -59,7 +59,7 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: 2ffca8b04830e8c418bb72422a26b583, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "X\xE8kwky\xE0g"
+    - "Xh\xE8kwky\xE0g"
     - "Md\xE0g"
-    - "Xl\xF2b\xE0a' y\xE0g"
+    - "L\xF2b\xE0a'"
     correctAns: "Md\xE0g"

@@ -21,7 +21,7 @@ MonoBehaviour:
     options:
     - "S\xE8ly"
     - "G\u011B'ts"
-    - "S\u0268\u0300t"
+    - "Z\u0268\u0300t"
     correctAns: "S\xE8ly"
   - questionInfo: "\xBFQu\xE9 objeto escuchas?"
     questionType: 2
@@ -90,9 +90,9 @@ MonoBehaviour:
     videoClip: {fileID: 0}
     options:
     - "B\xE0l"
-    - "S\u0268\u0300t"
+    - "Z\u0268\u0300t"
     - "S\xE8ly"
-    correctAns: "S\u0268\u0300t"
+    correctAns: "Z\u0268\u0300t"
   - questionInfo: "\xBFQu\xE9 objeto escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 8817ddebd40ce3649b9c21baccb51d41, type: 3}
@@ -100,7 +100,7 @@ MonoBehaviour:
     videoClip: {fileID: 0}
     options:
     - "G\xF2bz\xECny"
-    - "S\u0268\u0300t"
+    - "Z\u0268\u0300t"
     - "Sk\xE0ly\xEAr"
     correctAns: "Sk\xE0ly\xEAr"
   - questionInfo: "\xBFQu\xE9 objeto escuchas?"

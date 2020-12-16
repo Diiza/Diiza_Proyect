@@ -85,7 +85,7 @@ MonoBehaviour:
     nameImage: Hueso
     audio: {fileID: 8300000, guid: 883bc74ca782ad948b7e5ef7346b8f30, type: 3}
     answer:
-    - {fileID: 21300006, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 21300028, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
     - {fileID: 21300002, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     key: 09000000

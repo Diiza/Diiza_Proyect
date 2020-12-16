@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: "Tr\xE9bol"
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 79ea9626a4736a14b837d54e6902e469, type: 3}
-  audio: {fileID: 0}
+  audio: {fileID: 8300000, guid: 76ee6569b095c08419f0faaaf9c664de, type: 3}
   nameZapoteco: "B\u0268\u0300'"
   nameEspanol: "Tr\xE9bol"

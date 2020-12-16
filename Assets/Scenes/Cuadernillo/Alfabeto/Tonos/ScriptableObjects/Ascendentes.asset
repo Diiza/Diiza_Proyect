@@ -13,8 +13,6 @@ MonoBehaviour:
   m_Name: Ascendentes
   m_EditorClassIdentifier: 
   modelsList:
-  - {fileID: 11400000, guid: 634f986dcbb7a0a41b00f708f794b68b, type: 2}
-  - {fileID: 11400000, guid: 5ef7adb1390819140ab476eb829b2913, type: 2}
-  - {fileID: 11400000, guid: bf8628dae88cd804183048b9dd19b8cb, type: 2}
-  - {fileID: 11400000, guid: 64d86f0dcfcbaaa4dbe0ebc719e1c26b, type: 2}
-  - {fileID: 11400000, guid: c787f506865a60e4faf4f9b2c1eadab7, type: 2}
+  - {fileID: 11400000, guid: 80efd3dc94bf9a945b4ac0a92033995f, type: 2}
+  - {fileID: 11400000, guid: 07ab8315ca3d61c40a177e74f18952a3, type: 2}
+  - {fileID: 11400000, guid: bdfe181b3803fdc4c9d26b7524ea2e37, type: 2}

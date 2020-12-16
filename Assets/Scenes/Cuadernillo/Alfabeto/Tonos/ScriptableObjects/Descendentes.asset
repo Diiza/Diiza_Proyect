@@ -13,8 +13,6 @@ MonoBehaviour:
   m_Name: Descendentes
   m_EditorClassIdentifier: 
   modelsList:
-  - {fileID: 11400000, guid: c0bc561c1fdae7f4b82687b017031584, type: 2}
-  - {fileID: 11400000, guid: de3ac30a761bc424a8f926342b3c641a, type: 2}
   - {fileID: 11400000, guid: 440311796ae12404b8e6e792543e7016, type: 2}
-  - {fileID: 11400000, guid: 8756ca9731479734f84e4f97bafa718d, type: 2}
-  - {fileID: 11400000, guid: 5f4298df257f37e488916f0c07ad7b52, type: 2}
+  - {fileID: 11400000, guid: 4d0f1379a1ca6394e85a4a1980a558a9, type: 2}
+  - {fileID: 11400000, guid: a154ff1037e3d494e85daa77b1aad81f, type: 2}

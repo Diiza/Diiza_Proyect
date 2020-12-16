@@ -19,38 +19,38 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: 45732992de057514d99d544f0a1a46f0, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "G\u0268\u0300ky y\xF9' "
-    - "R\xF9' y\xF9'"
-    - "N\xEC' y\xF9'"
-    correctAns: "G\u0268\u0300ky y\xF9' "
+    - "G\u0268\u0300ky gy\xF9' "
+    - "R\xF9' gy\xF9'"
+    - "N\xEC' gy\xF9'"
+    correctAns: "G\u0268\u0300ky gy\xF9' "
   - questionInfo: "\xBFQu\xE9 parte de la casa escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 0719bd30519b7b74c8ee2da665cc6b51, type: 3}
     audioClip: {fileID: 8300000, guid: 2f23f64996c66aa44b5ceb7d6a4d0480, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "G\u0268\u0300ky y\xF9' "
-    - "R\xF9' y\xF9'"
-    - "N\xEC' y\xF9'"
-    correctAns: "R\xF9' y\xF9'"
+    - "G\u0268\u0300ky gy\xF9' "
+    - "R\xF9' gy\xF9'"
+    - "N\xEC' gy\xF9'"
+    correctAns: "R\xF9' gy\xF9'"
   - questionInfo: "\xBFQu\xE9 parte de la casa escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: d6b0894e1fc99134d9c2c120abbd866d, type: 3}
     audioClip: {fileID: 8300000, guid: c48dfe79201795343b0e593708f54e4e, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "N\xEC' y\xF9'"
-    - "L\xE0'ny\xF9'"
-    - "R\xF9' y\xF9'"
-    correctAns: "N\xEC' y\xF9'"
+    - "N\xEC' gy\xF9'"
+    - "L\xE0'nny\xF9'"
+    - "R\xF9' gy\xF9'"
+    correctAns: "N\xEC' gy\xF9'"
   - questionInfo: "\xBFQu\xE9 parte de la casa escuchas?"
     questionType: 2
     questionImage: {fileID: 21300000, guid: 3edee676b9f69094ebe1969bb219e8b2, type: 3}
     audioClip: {fileID: 8300000, guid: 46d3487711fbd854ea4dda3a964b87fc, type: 3}
     videoClip: {fileID: 0}
     options:
-    - "N\xEC' y\xF9'"
-    - "L\xE0'ny\xF9'"
+    - "N\xEC' gy\xF9'"
+    - "L\xE0'nny\xF9'"
     - "Xh\xE0a'ny\xF9'"
     correctAns: "Xh\xE0a'ny\xF9'"
   - questionInfo: "\xBFQu\xE9 parte de la casa escuchas?"
@@ -60,6 +60,6 @@ MonoBehaviour:
     videoClip: {fileID: 0}
     options:
     - "Xh\xE0a'ny\xF9'"
-    - "L\xE0'ny\xF9'"
-    - "G\u0268\u0300ky y\xF9' "
-    correctAns: "L\xE0'ny\xF9'"
+    - "L\xE0'nny\xF9'"
+    - "G\u0268\u0300ky gy\xF9' "
+    correctAns: "L\xE0'nny\xF9'"

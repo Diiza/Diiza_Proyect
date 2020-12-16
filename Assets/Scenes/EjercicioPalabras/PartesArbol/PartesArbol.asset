@@ -17,7 +17,7 @@ MonoBehaviour:
     nameImage: Rama
     audio: {fileID: 8300000, guid: 6d9d828c654dc0a4abaa765bfb118381, type: 3}
     answer:
-    - {fileID: 21300008, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
+    - {fileID: 21300030, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 21300086, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     - {fileID: 0}
     - {fileID: 0}
@@ -38,7 +38,7 @@ MonoBehaviour:
     - {fileID: 21300026, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     key: 02000000
   - questionImage: {fileID: 21300000, guid: 5de55dc2bfaa3534581ad9b8db6ff7b1, type: 3}
-    nameImage: Tronco
+    nameImage: Tallo
     audio: {fileID: 8300000, guid: ad8098e9f4b6e4b4eb74d08fa3277981, type: 3}
     answer:
     - {fileID: 21300034, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}

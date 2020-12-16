@@ -88,6 +88,7 @@ GameObject:
   - component: {fileID: 6255827868740933270}
   - component: {fileID: 8805105366515443006}
   - component: {fileID: 114893788856321226}
+  - component: {fileID: 2664775792607869521}
   m_Layer: 5
   m_Name: ToneButton
   m_TagString: Untagged
@@ -332,3 +333,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a206c2887d453c45b4c9385d770f084, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &2664775792607869521
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7340947843169421594}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 1}
+  m_EffectDistance: {x: 1, y: -1}
+  m_UseGraphicAlpha: 1
