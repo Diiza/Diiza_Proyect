@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ventana" size="5.000000 4.849138" />
+    <ImageTarget name="vender" size="5.000000 4.849138" />
+    <ImageTarget name="tortuga" size="5.000000 4.849138" />
+    <ImageTarget name="television" size="5.000000 4.849138" />
+    <ImageTarget name="noche" size="5.000000 4.849138" />
+    <ImageTarget name="mariposa" size="5.000000 4.849138" />
+    <ImageTarget name="leon" size="5.000000 4.849138" />
+    <ImageTarget name="lentes" size="5.000000 4.849138" />
+    <ImageTarget name="jirafa" size="5.000000 4.849138" />
+    <ImageTarget name="jarra" size="5.000000 4.849138" />
+    <ImageTarget name="hormiga" size="5.000000 4.849138" />
+    <ImageTarget name="guayaba" size="5.000000 4.849138" />
+  </Tracking>
+</QCARConfig>

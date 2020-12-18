@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="cocodrilo" size="10.000000 9.698276" />
-    <ImageTarget name="carne" size="10.000000 9.698276" />
-    <ImageTarget name="zorrillo" size="10.000000 9.698276" />
     <ImageTarget name="ventana" size="10.000000 9.698276" />
     <ImageTarget name="vender" size="10.000000 9.698276" />
-    <ImageTarget name="tumba" size="10.000000 9.698276" />
-    <ImageTarget name="trebol" size="10.000000 9.698276" />
     <ImageTarget name="tortuga" size="10.000000 9.698276" />
     <ImageTarget name="television" size="10.000000 9.698276" />
-    <ImageTarget name="sueter" size="10.000000 9.698276" />
-    <ImageTarget name="sol" size="10.000000 9.698276" />
-    <ImageTarget name="puerco" size="10.000000 9.698276" />
-    <ImageTarget name="pollito" size="10.000000 9.698276" />
-    <ImageTarget name="piedra" size="10.000000 9.698276" />
-    <ImageTarget name="perro" size="10.000000 9.698276" />
-    <ImageTarget name="pato" size="10.000000 9.698276" />
-    <ImageTarget name="olla" size="10.000000 9.698276" />
     <ImageTarget name="noche" size="10.000000 9.698276" />
-    <ImageTarget name="nino" size="10.000000 9.698276" />
     <ImageTarget name="mariposa" size="10.000000 9.698276" />
     <ImageTarget name="leon" size="10.000000 9.698276" />
     <ImageTarget name="lentes" size="10.000000 9.698276" />
     <ImageTarget name="jirafa" size="10.000000 9.698276" />
     <ImageTarget name="jarra" size="10.000000 9.698276" />
     <ImageTarget name="hormiga" size="10.000000 9.698276" />
-    <ImageTarget name="hongo" size="10.000000 9.698276" />
     <ImageTarget name="guayaba" size="10.000000 9.698276" />
+    <ImageTarget name="puerco" size="10.000000 9.698276" />
+    <ImageTarget name="cocodrilo" size="10.000000 9.698276" />
+    <ImageTarget name="carne" size="10.000000 9.698276" />
+    <ImageTarget name="zorrillo" size="10.000000 9.698276" />
+    <ImageTarget name="tumba" size="10.000000 9.698276" />
+    <ImageTarget name="trebol" size="10.000000 9.698276" />
+    <ImageTarget name="sueter" size="10.000000 9.698276" />
+    <ImageTarget name="sol" size="10.000000 9.698276" />
+    <ImageTarget name="pollito" size="10.000000 9.698276" />
+    <ImageTarget name="piedra" size="10.000000 9.698276" />
+    <ImageTarget name="perro" size="10.000000 9.698276" />
+    <ImageTarget name="pato" size="10.000000 9.698276" />
+    <ImageTarget name="olla" size="10.000000 9.698276" />
+    <ImageTarget name="nino" size="10.000000 9.698276" />
+    <ImageTarget name="hongo" size="10.000000 9.698276" />
     <ImageTarget name="guajolote" size="10.000000 9.698276" />
     <ImageTarget name="gato" size="10.000000 9.698276" />
     <ImageTarget name="gallina" size="10.000000 9.698276" />
