@@ -235,11 +235,8 @@ public class T_RA_Game : MonoBehaviour
             case "tortuga":
                 RAManager.StartGame(3);
                 break;
-            case "vender":
-                RAManager.StartGame(0);
-                break;
             case "ventana":
-                RAManager.StartGame(1);
+                RAManager.StartGame(0);
                 break;
             case "zorrillo":
                 RAManager.StartGame(0);
@@ -368,11 +365,8 @@ public class T_RA_Game : MonoBehaviour
             case "tortuga":
                 RAManager.StartAudio(3);
                 break;
-            case "vender":
-                RAManager.StartAudio(0);
-                break;
             case "ventana":
-                RAManager.StartAudio(1);
+                RAManager.StartAudio(0);
                 break;
             case "zorrillo":
                 RAManager.StartAudio(0);
