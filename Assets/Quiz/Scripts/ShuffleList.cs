@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class ShuffleList
+public abstract class T_RA_List
 {
     public static List<E> ShuffleListItems<E>(List<E> inputList)
     {

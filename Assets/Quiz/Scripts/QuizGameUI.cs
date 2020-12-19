@@ -89,7 +89,7 @@ public class QuizGameUI : MonoBehaviour
 
         questionInfoText.text = question.questionInfo;                    
         
-        List<string> ansOptions = ShuffleList.ShuffleListItems<string>(question.options);
+        List<string> ansOptions = T_RA_List.ShuffleListItems<string>(question.options);
         
         for (int i = 0; i < options.Count; i++)
         {

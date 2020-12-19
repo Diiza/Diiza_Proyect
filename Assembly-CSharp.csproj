@@ -96,6 +96,10 @@
     <Compile Include="Assets\Scenes\Cuadernillo\Alfabeto\Consonantes\Scripts\ARManager.cs" />
     <Compile Include="Assets\Scenes\Cuadernillo\Alfabeto\Consonantes\Scripts\SoData3D.cs" />
     <Compile Include="Assets\Scenes\Cuadernillo\DescargarCuadernillo.cs" />
+    <Compile Include="Assets\Scenes\Diccionario\Scripts\T_RA_DataScriptable.cs" />
+    <Compile Include="Assets\Scenes\Diccionario\Scripts\T_RA_Game.cs" />
+    <Compile Include="Assets\Scenes\Diccionario\Scripts\T_RA_Manager.cs" />
+    <Compile Include="Assets\Scenes\Diccionario\Scripts\T_RAList.cs" />
     <Compile Include="Assets\Scenes\MenuPrincipal\Herramientas\Game.cs" />
     <Compile Include="Assets\Scenes\PortadaScript\Salir.cs" />
     <Compile Include="Assets\Scenes\TeoriaNumeros\Scripts\BanderaNumeros.cs" />
