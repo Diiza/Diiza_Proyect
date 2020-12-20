@@ -24,15 +24,15 @@ MonoBehaviour:
     - {fileID: 11400000, guid: fdea78185feeb28478503911c6e730ba, type: 2}
     - {fileID: 11400000, guid: 937a04b6cafacf0468a88f00cc0a798e, type: 2}
   - image: {fileID: 21300004, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
-    audio: {fileID: 8300000, guid: 759947e2ada6bcf41accb08abaf39a22, type: 3}
+    audio: {fileID: 0}
     example:
     - {fileID: 11400000, guid: 0630e5e78e7d08143bf2da37ba5387c4, type: 2}
     - {fileID: 11400000, guid: 4e88a4a98970caa408233f41988fa3ac, type: 2}
   - image: {fileID: 21300006, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
-    audio: {fileID: 8300000, guid: f6057973de56cf14b8c856cb286927a5, type: 3}
+    audio: {fileID: 0}
     example:
     - {fileID: 11400000, guid: 5bae11d864e586d4694cd581c74382ad, type: 2}
-    - {fileID: 11400000, guid: 0cfecf9371e97624f9fd9b1690c38f87, type: 2}
+    - {fileID: 11400000, guid: 1ceb62cff1581054b9dba0d3572bc799, type: 2}
   - image: {fileID: 21300008, guid: 10e30576ddce3de4c9b3ed356f774cc9, type: 3}
     audio: {fileID: 0}
     example:
