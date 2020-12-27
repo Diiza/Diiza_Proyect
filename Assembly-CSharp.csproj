@@ -74,6 +74,7 @@
      <Compile Include="Assets\Scenes\Alfabeto\Scripts\AudioYAnimacion.cs" />
      <Compile Include="Assets\Scenes\Alfabeto\Scripts\BtnAR.cs" />
      <Compile Include="Assets\Scenes\Alfabeto\Scripts\ControlPaneles.cs" />
+     <Compile Include="Assets\Scenes\Alfabeto\Scripts\DestroyGesture.cs" />
      <Compile Include="Assets\Scenes\Alfabeto\Scripts\MenuAdm.cs" />
      <Compile Include="Assets\Scenes\Alfabeto\Scripts\TransicionEscenas.cs" />
      <Compile Include="Assets\Scenes\Alfabeto\Scripts\TransicionPanel.cs" />
