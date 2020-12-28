@@ -3839,7 +3839,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\xA1No dejes de pr\xE1cticar!"
+  m_Text: "\xA1No dejes de practicar!"
 --- !u!222 &607580883
 CanvasRenderer:
   m_ObjectHideFlags: 0
