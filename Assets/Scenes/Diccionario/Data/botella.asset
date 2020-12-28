@@ -13,9 +13,8 @@ MonoBehaviour:
   m_Name: botella
   m_EditorClassIdentifier: 
   questions:
-  - questionInfo: "M\xECdy"
+  - questionInfo: "M\u0268\u0300dy"
     questionType: 0
     audioClip: {fileID: 8300000, guid: 3e32bb363ca5aba4ab5f753cbd8b7766, type: 3}
     options:
     - Botella
-    correctAns: Botella

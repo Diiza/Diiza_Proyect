@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: trebol
   m_EditorClassIdentifier: 
   questions:
-  - questionInfo: "B\xEC'"
+  - questionInfo: "B\u0268\u0300'"
     questionType: 0
     audioClip: {fileID: 8300000, guid: 76ee6569b095c08419f0faaaf9c664de, type: 3}
     options:

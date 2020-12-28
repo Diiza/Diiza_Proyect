@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: hormiga
   m_EditorClassIdentifier: 
   questions:
-  - questionInfo: "By\xF2o'b"
+  - questionInfo: "Bd\xECy\u01CEn"
     questionType: 0
-    audioClip: {fileID: 8300000, guid: bfe43c541d0c16549a48e9ebb722f543, type: 3}
+    audioClip: {fileID: 8300000, guid: e399767f9c69c18488123eed4e0614c8, type: 3}
     options:
     - Hormiga
