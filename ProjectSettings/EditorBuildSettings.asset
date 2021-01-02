@@ -113,9 +113,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Ejercicios/Ejercicios_Consonantes.unity
     guid: 19a4d21300a31a14cbd2b3ecce30f0ce
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Tonos/Tonos_Ascendentes.unity
     guid: ed8be18ffc709cc4098eed17c4461101
@@ -131,12 +128,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Tonos/TonosEjemplos1.unity
     guid: 06563986025abba408dd10ade14560b8
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Menu_Alfabeto.unity
     guid: b9aa320c8d26f0044b6ac31c390e98fa
@@ -149,12 +140,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Cuadernillo/Alfabeto/Tonos/TonosAR.unity
     guid: eee5b19cd7ad49a469792e157afcca20
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Vocales/Vocales1.unity
     guid: 6d44bab3e3c43e946a6dd507da971ec9
@@ -191,9 +176,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Tonos/Tonos1.unity
     guid: eede4dbf533d6834eaf49ca4aba67f6e
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Alfabeto/Vocales/VocalesEjemplos.unity
     guid: f607eb820fa92904fbfa46ea8bf99b8f

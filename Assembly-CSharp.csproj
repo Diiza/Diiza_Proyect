@@ -60,11 +60,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Quiz\Scripts\BtnAtrasMenuJuegos.cs" />
-    <Compile Include="Assets\Quiz\Scripts\QuizDataScriptable.cs" />
-    <Compile Include="Assets\Quiz\Scripts\QuizGameUI.cs" />
-    <Compile Include="Assets\Quiz\Scripts\QuizManager.cs" />
-    <Compile Include="Assets\Quiz\Scripts\ShuffleList.cs" />
     <Compile Include="Assets\Scenes\Alfabeto\Consonantes\ScriptableEjemplos\BtnEvt.cs" />
     <Compile Include="Assets\Scenes\Alfabeto\Consonantes\ScriptableEjemplos\ExaManager.cs" />
     <Compile Include="Assets\Scenes\Alfabeto\Consonantes\ScriptableEjemplos\ScriptableListExamples.cs" />
@@ -115,9 +110,13 @@
     <Compile Include="Assets\Scripts\Control_Botones.cs" />
     <Compile Include="Assets\Scripts\Ejercicios.cs" />
     <Compile Include="Assets\Scripts\EjNumeros.cs" />
+    <Compile Include="Assets\Scripts\Juegos\Scripts\BtnAtrasMenuJuegos.cs" />
+    <Compile Include="Assets\Scripts\Juegos\Scripts\QuizDataScriptable.cs" />
+    <Compile Include="Assets\Scripts\Juegos\Scripts\QuizGameUI.cs" />
+    <Compile Include="Assets\Scripts\Juegos\Scripts\QuizManager.cs" />
+    <Compile Include="Assets\Scripts\Juegos\Scripts\ShuffleList.cs" />
     <Compile Include="Assets\Scripts\Menu\ButtonScript.cs" />
     <Compile Include="Assets\Scripts\Menu\ScrollRectScript.cs" />
-    <Compile Include="Assets\Scripts\script\Correcto.cs" />
     <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
     <None Include="Assets\Font\yellow_rabbit\License Request.txt" />
     <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
